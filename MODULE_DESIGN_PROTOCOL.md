@@ -8,7 +8,7 @@ This is a collaborative, team-based effort. Each module has its own repo on GitH
 2. [Open Collaboration](https://github.com/OpenScienceMOOC/Module-2-Collaborative-Platforms)
 3. [Reproducible Research and Data Analysis](https://github.com/OpenScienceMOOC/Module-3-Reproducible-Research-and-Data-Analysis)
 4. [Open Research Data](https://github.com/OpenScienceMOOC/Module-4-Open-Research-Data)
-5. [Open Research Software and Open Source](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Ope)
+5. [Open Research Software and Open Source](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source)
 6. [Open Access to Research Papers](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Resea)
 7. [Open Evaluation](https://github.com/OpenScienceMOOC/Module-7-Open-Evaluation)
 8. [Public Engagement with Science](https://github.com/OpenScienceMOOC/Module-8-Public-Engagement-with-Science)
