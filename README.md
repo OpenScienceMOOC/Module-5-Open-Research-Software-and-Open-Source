@@ -16,6 +16,7 @@ Software and technology underpin modern science. There is an increasing demand f
 - [Contributing](CONTRIBUTING.md)
 - [Module design protocol](MODULE_DESIGN_PROTOCOL.md)
 - [Code of conduct](CODE_OF_CONDUCT.md)
+- [Key elements](key_elements.md)
 
 ## Licenses <a name="Licenses"></a>
 
