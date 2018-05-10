@@ -13,7 +13,7 @@ If you want to contribute, add yourself to the [contributors list](https://docs.
 
 If you have questions about the project, please [email us](info@opensciencemooc.eu) directly.
 
-Stay tuned on what's happening on Twitter with [@OpenSci_MOOC](https://twitter.com/OpenSci_MOOC.
+Stay tuned on what's happening on Twitter with [@OpenSci_MOOC](https://twitter.com/OpenSci_MOOC).
 
 ## Getting started
 1. [Forming a team for collaborative design](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MODULE_DESIGN_PROTOCOL.md#forming-a-team-for-collaborative-design).
