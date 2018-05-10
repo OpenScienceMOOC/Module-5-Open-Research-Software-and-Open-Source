@@ -1,4 +1,4 @@
-# Module-5-Open-Research-Software-and-Open-Source
+# Module 5: Open Research Software and Open Source
 
 ## Rationale <a name="Rationale"></a>
 

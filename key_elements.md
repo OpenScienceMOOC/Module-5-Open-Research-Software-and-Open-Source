@@ -1,3 +1,11 @@
+**Learning Objectives**:
+
+*LO5a: Learn the characteristics of open software; understand the **ethical, legal, economic, and research impact arguments for and against open software**, and further understand the quality requirements of open code (knowledge).*
+
+*LO5b: Be able to turn code made for personal use into open code which is accessible by others (task).*
+
+*LO5c: Use software (tools) that utilizes open content (task).*
+
 ### Key components
 
 -   Principles of Open Source Software.
