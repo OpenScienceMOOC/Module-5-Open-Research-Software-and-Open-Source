@@ -3,7 +3,7 @@
 # Table of contents
 
 1. [Plan](01-plan.md) 
-1. [Design](01-design.md)
+1. [Design](02-design.md)
 1. [Recording and editing]
 1. [Internal reviewing]
 
