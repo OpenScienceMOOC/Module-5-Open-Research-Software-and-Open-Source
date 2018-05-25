@@ -39,9 +39,9 @@ Red: Launch date in danger
 |  ------------------  |  ------------  | -----------------  |  ------------ | -------------  |
 | **Initiate and plan**  |               |            |                 |                    |
 |  Kick off             |  Yep        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/05/10 | Sprint success! |
-|  Define target group      |  Nope        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)    |  2018/05/31 |  |
+|  Define target group      |  Yep        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)    |  2018/05/31 |  |
 |  Refine learning objectives/outcomes             |  Nope      |  ![Green](https://img.shields.io/badge/Status-text-green.svg)    |  2018/05/31 |  |
-|  Design course outline              |  Nope      |  ![Green](https://img.shields.io/badge/Status-text-green.svg)     |  2018/05/31 |  |
+|  Design course outline              |  Yep      |  ![Green](https://img.shields.io/badge/Status-text-green.svg)     |  2018/05/31 |  |
 |  Design project plan and timeline             |  Nope        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/05/31 | |
 |  Identify promotion channels             |  Nope        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/05/31 | |
 | **Design and scripting**  |          |             |                 |                    |
