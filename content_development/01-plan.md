@@ -1,66 +1,61 @@
 ## Module 5: Initiate and plan
 
-   1. Define the target groups
+### Define the target groups
    
    - Computational researchers
    - Graduate students
    - Data scientists
    - Any other researcher who uses analytical code/software
    
+### Refine the learning objectives and outcomes
    
-   2. Refine the learning objectives and outcomes
-   
-<<<<<<< HEAD
    - The learner will be able to define the characteristics of open source research software, and the ethical, legal, economic and research impact arguments for and against it.
    - Based on community standards, learners will be able to describe the quality requirements of sharing and re-using open code.
    - The learner will be able to use a range of research tools that utilise open source software.
    - Individual learners will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
    
    
-   3. Design the course outline
-      1. Principles of Open Source Software.
-      1. What open, collaborative platforms, with version control, exist.
-      1. How to use GitHub combined with the Zenodo plug-in for code archiving.
-      1. How to document and publish code.
-      1. Open Source licensing.
-      1. Tools for better open research
-      1. Community codes, governance, and contributions.
-      1. How to access and start working on general computing platforms
-      1. Software citation.
-      1. Differences in setting up accounts/storage/computing on different platforms.
-      1. Comparison in terms of collaboration and openness with clusters/in-house servers.
+### Design the course outline
 
-=======
-   - Learners will be able to define the characteristics of open source research software, and the ethical, legal, economic and research impact arguments for and against it.
-   - Based on community standards, learners will be able to describe the quality requirements of sharing and re-using open code.
-   - Learners will be able to use a range of research tools that utilise open source software.
-   - Learners will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
+  1. What is Open Source Software, including background and examples.
+  1. Principles of Open Source Software.
+  1. What open, collaborative platforms, with version control, exist.
+  1. Why should code be shared as a research output.
+  1. How to use GitHub combined with the Zenodo plug-in for code archiving.
+  1. How to document and publish code, and what makes good software for re-use, including testing and comments.
+  1. Open Source licensing.
+  1. Tools for better open research
+  1. Community codes, governance, and contributions.
+  1. How to access and start working on general computing platforms
+  1. Software citation.
+  1. Differences in setting up accounts/storage/computing on different platforms.
+  1. Comparison in terms of collaboration and openness with clusters/in-house servers.
+  1. Where can you go from here? Includes an introduction to the Open Source community and further resources for learning.
+
+ - Learners will be able to define the characteristics of open source research software, and the ethical, legal, economic and research impact arguments for and against it.
+ - Based on community standards, learners will be able to describe the quality requirements of sharing and re-using open code.
+ - Learners will be able to use a range of research tools that utilise open source software.
+ - Learners will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
+
+### Design the project plan and timeline
+
+  - Start: May 2018.
+  - Team finalisation: end of May 2018
+  - Production start: June 2018
+  - Draft of first scripts: end of June 2018
+  - Draft of first textual content: end of June 2018
+  - Recording and editing: July 2018
+  - Designing practical exercises: July 2018
+  - Finalisation of content: August 2018
+  - Check with Steering Committee: end of August 2018
+  - Release for beta testing: September 2018
    
    
-   3. Design the course outline
-      1. What is Open Source software and why do we need it? (Intro, background, examples)
-      2. Why should I share my code, and how do I go about it? (Code as a research output, github, etc)
-      3. What makes good software, how can I make it easy for others to re-use? (testing, comments, "good-enough practices in software development".
-      4. Where do I go from here? (Introduction to the Open Source community, further resources for learning, etc.)
->>>>>>> 8437e55b29e0302b1bd0192e12e1a9df46570442
-      
-   4. Design the project plan and timeline
-    - Start: May 2018.
-    - Team finalisation: end of May 2018
-    - Production start: June 2018
-    - Draft of first scripts: end of June 2018
-    - Draft of first textual content: end of June 2018
-    - Recording and editing: July 2018
-    - Designing practical exercises: July 2018
-    - Finalisation of content: August 2018
-    - Check with Steering Committee: end of August 2018
-    - Release for beta testing: September 2018
-   
-   
-   5. Identify promotion channels
-    - Relevant Twitter handles:
+### Identify promotion channels
+
+   - Relevant Twitter handles:
       - 
-    - Organisations:
+   - Organisations:
       - Software Carpentry
       - Sustainable Software Institute 
       - COKO Foundation 
@@ -68,5 +63,5 @@
       - [WSSSPE community](hhttp://wssspe.researchcomputing.org.uk)
       - [Open Research Software](http://openresearchsoftware.metajnl.com)
       - [JOSS](http://joss.theoj.org)
-    - Mailing lists:
+   - Mailing lists:
       -
