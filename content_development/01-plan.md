@@ -50,7 +50,9 @@
 ### Identify promotion channels
 
  - Relevant Twitter handles:
-      - 
+      -
+      -
+      -
  - Organisations:
       - Software Carpentry
       - Sustainable Software Institute 
@@ -60,4 +62,5 @@
       - [Open Research Software](http://openresearchsoftware.metajnl.com)
       - [JOSS](http://joss.theoj.org)
  - Mailing lists:
+      -
       -
