@@ -32,10 +32,6 @@
   1. Comparison in terms of collaboration and openness with clusters/in-house servers.
   1. Where can you go from here? Includes an introduction to the Open Source community and further resources for learning.
 
- - Learners will be able to define the characteristics of open source research software, and the ethical, legal, economic and research impact arguments for and against it.
- - Based on community standards, learners will be able to describe the quality requirements of sharing and re-using open code.
- - Learners will be able to use a range of research tools that utilise open source software.
- - Learners will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
 
 ### Design the project plan and timeline
 
@@ -53,9 +49,9 @@
    
 ### Identify promotion channels
 
-   - Relevant Twitter handles:
+ - Relevant Twitter handles:
       - 
-   - Organisations:
+ - Organisations:
       - Software Carpentry
       - Sustainable Software Institute 
       - COKO Foundation 
@@ -63,5 +59,5 @@
       - [WSSSPE community](hhttp://wssspe.researchcomputing.org.uk)
       - [Open Research Software](http://openresearchsoftware.metajnl.com)
       - [JOSS](http://joss.theoj.org)
-   - Mailing lists:
+ - Mailing lists:
       -
