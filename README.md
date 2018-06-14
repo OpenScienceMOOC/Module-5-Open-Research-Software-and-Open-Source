@@ -11,11 +11,12 @@ Software and technology underpin modern science. There is an increasing demand f
   - Based on community standards, researchers will be able to describe the quality requirements of sharing and re-using open code.
   - The researcher will be able to use a range of research tools that utilise open source software.
   - Individual researchers will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
+  - Software developers will be able to make their software citable, and software users will know how to cite the software they use.
 
 
 ## Development team
 - [Alex Morley](https://twitter.com/alex__morley), Open Sourceror, University of Oxford.
-- [Kevín Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT.
+- [KevÃ­n Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT.
 
 
 ## Key documents <a name="Key documents"></a>
