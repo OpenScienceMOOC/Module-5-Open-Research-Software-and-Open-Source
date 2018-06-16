@@ -17,6 +17,7 @@ Software and technology underpin modern science. There is an increasing demand f
 ## Development team
 - [Alex Morley](https://twitter.com/alex__morley), Open Sourceror, University of Oxford.
 - [Kevín Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT.
+- [Tania Allard](https://twitter.com/ixek), Open Sourceress, Data Enchantress, University of Leeds.
 
 
 ## Key documents <a name="Key documents"></a>
@@ -29,7 +30,7 @@ Software and technology underpin modern science. There is an increasing demand f
 
 ## Licenses <a name="Licenses"></a>
 
-### Content 
+### Content
 MOOC content license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### Code and software   
