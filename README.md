@@ -15,9 +15,12 @@ Software and technology underpin modern science. There is an increasing demand f
 
 
 ## Development team
-- [Alex Morley](https://twitter.com/alex__morley), Open Sourceror, University of Oxford.
-- [Kevín Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT.
-- [Tania Allard](https://twitter.com/ixek), Open Sourceress, Data Enchantress, University of Leeds.
+- [Alex Morley](https://twitter.com/alex__morley), Open Sourceror, University of Oxford, UK.
+- [Kevin Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT, USA.
+- [Tania Allard](https://twitter.com/ixek), Open Sourceress, Data Enchantress, University of Leeds, UK.
+- [Simon Worthington](https://twitter.com/mrchristian99), Book Liberationist, TIB, Germany.
+- [Paola Masuzzo](https://twitter.com/pcmasuzzo), Open Source Batman, Italy.
+- [Ivo Grigorov](https://twitter.com/OAforClimate), Open Source Robin, Denmark.
 
 
 ## Key documents <a name="Key documents"></a>
