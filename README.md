@@ -7,9 +7,9 @@
 ## Table of Contents
 
 1. [Rationale](#Rationale)
-2. [Learning outcomes](#Learning outcomes)
-3. [Development team](#Development team)
-4. [Key documents](#Key documents)
+2. [Learning outcomes](#Learning_outcomes)
+3. [Development team](#Development_team)
+4. [Key documents](#Key_documents)
 5. [Licenses](#Licenses)
 
 
@@ -18,7 +18,7 @@
 Software and technology underpin modern science. There is an increasing demand for more sophisticated open source software, matched by an increasing willingness for researchers to openly collaborate on new tools. These developments come with a specific ethical, legal and economic challenges that impact upon research workflows. This module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
 
 
-## Learning outcomes <a name="Learning outcomes"></a>
+## Learning outcomes <a name="Learning_outcomes"></a>
 
   - The researcher will be able to define the characteristics of open source research software, and the ethical, legal, economic and research impact arguments for and against it.
   - Based on community standards, researchers will be able to describe the quality requirements of sharing and re-using open code.
@@ -27,7 +27,7 @@ Software and technology underpin modern science. There is an increasing demand f
   - Software developers will be able to make their software citable, and software users will know how to cite the software they use.
 
 
-## Development team <a name="Development team"></a>
+## Development team <a name="Development_team"></a>
 - [Alex Morley](https://twitter.com/alex__morley), Open Sourceror, University of Oxford, UK.
 - [Kevin Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT, USA.
 - [Tania Allard](https://twitter.com/ixek), Open Sourceress, Data Enchantress, University of Leeds, UK.
@@ -36,7 +36,7 @@ Software and technology underpin modern science. There is an increasing demand f
 - [Ivo Grigorov](https://twitter.com/OAforClimate), Open Source Robin, Denmark.
 
 
-## Key documents <a name="Key documents"></a>
+## Key documents <a name="Key_documents"></a>
 
 - [Contributing](CONTRIBUTING.md)
 - [Module design protocol](MODULE_DESIGN_PROTOCOL.md)
