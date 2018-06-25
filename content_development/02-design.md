@@ -29,19 +29,20 @@
   -   [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510) (Wilson et al. ,2017).
    
    2. Design learner activities with clear instructions
-    -
+    - Task 1: Create a GitHub repo
+    - Task 2: Integrate a GitHub repo with Zenodo
    
    3. Find resources (video, illustrations, screencasts, podcasts, assignments, quizzes, presentations)
-    -
+    - TBC
    
    4. Write concise, engaging video (and audio) scripts
-    - 
+    - TBC
    
    5. Review all learning resources, adjusting as needed
-    -
+    - TBC
    
    6. Finalise all scripts
-    -
+    - TBC
    
    7. Copyright strategy
-    -
+    - TBC

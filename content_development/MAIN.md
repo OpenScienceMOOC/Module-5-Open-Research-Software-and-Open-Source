@@ -33,9 +33,9 @@ Software and technology underpin modern science, which is now almost inevitably 
 
 ## What is Open Source Software <a name="What_OSS"></a>
 
-Open Source Software (OSS) is computer software in which the full source code is available under a specific license that enables other users to access, modify, and redistribute that code for any purpose. Typically, as a result of this, it is easier to obtain compared to proprietary software, and re-use for analysis, simulation, and visualisation for research. Because OSS requires such a license, it typically remains free of charge by default.
+Virtually all modern scientific research workflows rely on a range of software tools, operating on different datasets, with different parameters, and applied iteratively in various ways. Open Source Software (OSS) is computer software in which the full source code is available under a specific license that enables other users to access, modify, and redistribute that code for any purpose. Typically, as a result of this, it is easier to obtain compared to proprietary software, and re-use for analysis, simulation, and visualisation for research. Because OSS requires such a license, it typically remains free of charge by default.
 
-OSS fits into the broader scheme of Open Science as it makes helps to make the full research environment,including the software and code that produced the research results, fully accessible. As such, it forms a necessary component for the reproducibility of research, along with other aspects such as sharing data.
+OSS fits into the broader scheme of Open Science as it makes helps to make the full research environment,including the software and code that produced the research results, fully accessible. As such, it forms a necessary component for the repeatability and reproducibility of research (both personally and by others), along with other aspects such as sharing data.
 
 Some of the common advantages include:
 
@@ -164,9 +164,23 @@ Thankfully, the process of selecting an Open Source license is relatively trivia
 
 ## Software citation <a name="Citation"></a>
 
-Citations form one of the most important interactions in scholarly research, forming the basis of our referencing and metrics systems. Typically, this is performed thanks to the assistance of [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI). A DOI is a persistent identifier or handle that meets a common standard, depending on the purpose, such as for identifying academic information. Such identification is critical for tracking the genealogy and provenance of research, for reprodicibility, as well as giving appropriate credit to those who have created the software.
+Citations form one of the most important interactions in scholarly research, forming the basis of our referencing and metrics systems. Typically, this is performed thanks to the assistance of [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI). A DOI is a persistent identifier or handle that meets a common standard, depending on the purpose, such as for identifying academic information. Such identification is critical for tracking the genealogy and provenance of research, for reprodicibility, as well as giving appropriate credit to those who have created the software. Importantly, software should be considered a legitimate output from scholarly research, and citation is becoming an increasingly common way to indicate that.
 
 In 2016, [Smith et al., 2017](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202017.pdf) wrote a research paper about the principles of software citation as part of the FORCE11 Software Citation Working Group. In the same way that you would want to cite software that you have used as part of good research practices, it is important to make your research easily citable too. When citing any software used for your own research, you should include at minimum the author name(s), software title, version number, and the unique identifier/locator (DOI or URL).
+
+The principles provided by [Smith et al., 2017](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202017.pdf) are provided here:
+
+* **Importance**: Software should be considered a legitimate and citable product of research. Software citations should be accorded the same importance in the scholarly record as citations of other research products, such as publications and data; they should be included in the metadata of the citing work, for example in the reference list of a journal article, and should not be omitted or separated. Software should be cited on the same basis as any other research product such as a paper or a book, that is, authors should cite the appropriate set of software products just as they cite the appropriate set of papers.
+
+* **Credit** and attribution: Software citations should facilitate giving scholarly credit and normative, legal attribution to all contributors to the software, recognizing that a single style or mechanism of attribution may not be applicable to all software.
+
+* **Unique identification**: A software citation should include a method for identification that is machine actionable, globally unique, interoperable, and recognized by at least a community of the corresponding domain experts, and preferably by general public researchers.
+
+* **Persistence**: Unique identifiers and metadata describing the software and its disposition should persist—even beyond the lifespan of the software they describe.
+
+* **Accessibility**: Software citations should facilitate access to the software itself and to its associated metadata, documentation, data, and other materials necessary for both humans and machines to make informed use of the referenced software.
+
+* **Specificity**: Software citations should facilitate identification of, and access to, the specific version of software that was used. Software identification should be as specific as necessary, such as using version numbers, revision numbers, or variants such as platforms.
 
 
 ## Using GitHub and Zenodo <a name="GitHub_Zenodo"></a>
@@ -188,16 +202,29 @@ A lot of researchers might typically be afraid of sharing code which is incomple
 Often, OSS is developed in a public, decentralised, collaborative manner between multiple contributors. The purpose of this is to enhance the diversity and scope of a project and its design, in order to become more beneficial and sustainable. Such an approach was famously likened to a 'bazaar' model by Eric Raymod, an early OSS proponent. One of the major guiding principles of this is that of peer production, which relises on self-organised communities to regulate the development of content, co-ordinated towards a shared goal or outcome.
 
 
-
 ## Where to go from here <a name="Future_OSS"></a>
 
-Hopefully now you have come to see the importance of software as a cornerstone of modern science, and the importance that OSS plays in this. If you feel particularly inspired by this, you can endorse the [Science Code Manifesto](http://sciencecodemanifesto.org/), which is based on the five principles of code, copyright, citation, credit, and curation.
+Hopefully now you have come to see the importance of software as a cornerstone of modern science, and the importance that OSS plays in this.
 
-To gain more hands on experience with OSS, the [Software Carpentry](https://software-carpentry.org/) community hold regular workshops to improve lab-based computing skills.
+The learning outcomes from this should be:
 
-To launch and develop your own project, the [Open Source Guides](https://opensource.guide/) program offers a range of practical guides and skills to help launch and advance your OSS projects.
+* You will be able to define the characteristics of OSS, and the ethical, legal, economic and research impact arguments for and against it.
+* Based on community standards, you will be able to describe the quality requirements of sharing and re-using open code.
+* You will be able to use a range of research tools that utilise OSS.
+* You will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
 
-More formalised journal venues also exist for software-based articles, including [The Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) and [The Journal of Open Source Software](https://joss.theoj.org/).
+However, the Open Source journey does not stop here! This was just the beginning, and there are some incredible resources out there if you would like to do or learn more: 
+
+* If you feel particularly inspired by this, you can endorse the [Science Code Manifesto](http://sciencecodemanifesto.org/), which is based on the five principles of code, copyright, citation, credit, and curation.
+
+* To gain more hands on experience with OSS, the [Software Carpentry](https://software-carpentry.org/) community hold regular workshops to improve lab-based computing skills.
+
+* To launch and develop your own project, the [Open Source Guides](https://opensource.guide/) program offers a range of practical guides and skills to help launch and advance your OSS projects.
+
+* For a detailed look at OSS-based research workflows, the [Open Science, Open Data, Open Source](https://pfern.github.io/OSODOS/gitbook/) handguide by Pedro L. Fernandes and Rutger A. Vos is one of the top resources online.
+
+* More formalised journal venues also exist for software-based articles, including [The Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) and [The Journal of Open Source Software](https://joss.theoj.org/).
+
 
 ### Further reading <a name="Reading"></a>
 
