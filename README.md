@@ -4,6 +4,8 @@
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit)
 
+Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/)! The channel for this module is #module5opensource.
+
 ## Table of Contents
 
 1. [Rationale](#Rationale)

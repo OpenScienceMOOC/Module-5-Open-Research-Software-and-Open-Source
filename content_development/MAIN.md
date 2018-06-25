@@ -19,9 +19,7 @@
 
 Welcome to Module 5 of the Open Science MOOC: Open Research Software and Open Source. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source#development-team).
 
-Software and technology underpin modern science, which is now almost inevitably computational to varying degrees. There is an ever-increasing demand for more sophisticated Open Source Software, matched by an increasing willingness for researchers to openly collaborate on new tools. 
-
-These developments come with a specific ethical, legal and economic challenges that impact upon research workflows. This Module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
+Software and technology underpin modern science, which is now almost inevitably computational to varying degrees. There is an ever-increasing demand for more sophisticated Open Source Software, matched by an increasing willingness for researchers to openly collaborate on new tools. The power of Open Source is in that it lowers the barriers to collaboration and adoption, therefore allowing ideas and technology to spread more rapidly. This Module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
 
 
 ### **Specific learning outcomes for this Module**:
@@ -35,7 +33,7 @@ These developments come with a specific ethical, legal and economic challenges t
 
 ## What is Open Source Software <a name="What_OSS"></a>
 
-Open Source Software (OSS) is computer software in which the source code is available under a specific license that enables other users to access, modify, and redistribute that code for any purpose. Typically, as a result of this, it is easier to obtain and re-use compared to proprietary software.
+Open Source Software (OSS) is computer software in which the source code is available under a specific license that enables other users to access, modify, and redistribute that code for any purpose. Typically, as a result of this, it is easier to obtain and re-use compared to proprietary software. Because OSS requires such a license, it typically remains free of charge by default.
 
 Some of the common advantages include:
 
@@ -85,6 +83,10 @@ These definitions have now become widely adopted, both by international governme
 
 ## The Open Source community and its governance <a name="OS_Community"></a>
 
+There are two main camps within the free software community: The free software movement, and the OSS movement. Both have differing ideologies based on user liberties and the practical applications of software. The term 'FLOSS' is used to reconcile these two political camps, and means 'Free/Libre and Open Source Software'; Libre being French and Spanish for 'free' in the context of freedom. 
+
+Major organisations in the FLOSS space include the UK's [Software Sustainability Institute](https://www.software.ac.uk/),
+
 
 ## Existing platforms and tools for Open Source Software <a name="Platforms"></a>
 
@@ -122,12 +124,14 @@ Thankfully, the process of selecting an Open Source license is relatively trivia
 
 ## Software citation <a name="Citation"></a>
 
-Citations form one of the most important interactions in scholarly research, forming the basis of our referencing and metrics systems. Typically, this is performed thanks to the assistance of [Digital Object Identifiers]() (DOI)
+Citations form one of the most important interactions in scholarly research, forming the basis of our referencing and metrics systems. Typically, this is performed thanks to the assistance of [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI). A DOI is a persistent identifier or handle that meets a common standard, depending on the purpose, such as for identifying academic information.
 
 
 ## Using GitHub and Zenodo <a name="GitHub_Zenodo"></a>
 
-** NOTE: THIS IS WHERE A PRACTICAL ACTIVITY WILL BE**
+** NOTE: THIS IS WHERE A PRACTICAL ACTIVITY WILL BE** [Task 1](Task_1.Rmd)
+
+** NOTE: POSSIBLE TASK 2, SETTING UP A GITHUBE REPO**
 
 Note that GitHub itself is not OSS. However, Git, the tool which it is based on, is. Git is designed to help manage the source code files, and the updates to them, for a software-related project. However, it can also be extended to other non-software projects; for example, this MOOC!
 
@@ -151,6 +155,11 @@ Often, OSS is developed in a public, decentralised, collaborative manner between
 ## Where to go from here <a name="Future_OSS"></a>
 
 
+Hopefully now you have come to see the importance of software as a cornerstone of modern science, and the importance that OSS plays in this. If you feel particularly inspired by this, you can endorse the [Science Code Manifesto](http://sciencecodemanifesto.org/), which is based on the five principles of code, copyright, citation, credit, and curation.
+
+To gain more hands on experience with OSS, the [Software Carpentry](https://software-carpentry.org/) community hold regular workshops to improve lab-based computing skills.
+
+To launch and develop your own project, the [Open Source Guides](https://opensource.guide/) program offers a range of practical guides and skills to help launch and advance your OSS projects.
 
 ### Further reading <a name="Reading"></a>
 

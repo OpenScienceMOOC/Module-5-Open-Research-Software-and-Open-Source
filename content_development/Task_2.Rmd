@@ -1,0 +1,29 @@
+# How to set up a repository on GitHub
+
+## Getting started
+
+A 'repository' is really just a fancy name for a project on GitHub.
+
+One of the most important things to consider at this stage is how the community will interact with your project. As you are working in the open, you want to make sure others feel comfortable in accessing, viewing, and engaging with your work. Setting up a repository in a way that lowers the barriers to entry, and the fear of being an 'outsider' is the first step towards maintaining a successful project.
+
+## The first steps
+
+Any GitHub repository requires 4 key elements to get started and to begin developing a welcoming community:
+
+1. An Open Source license
+1. A README file
+1. Contributing guidelines
+1. A Code of Conduct
+
+These are critical aspects of any project for users to understand their legal rights, their expectations, the purpose of the project, and to improve the overall user experience.
+
+### Choosing a license
+
+### Creating a README file
+
+### Creating contributing guidelines
+
+### Creating a Code of Conduct
+
+
+## Keeping your issues up to date
