@@ -87,6 +87,18 @@ There are two main camps within the free software community: The free software m
 
 Major organisations in the FLOSS space include the UK's [Software Sustainability Institute](https://www.software.ac.uk/),
 
+### For individual projects
+
+Within OSS projects, there are typically three main formal roles:
+
+* Maintainer;
+* Contributor; and
+* Committer.
+
+A *maintainer* is a user with 'commit' access to implement suggested changes to the project. They have responsibility for the direction and improvement of the project. A *contributor* is someone who directly adds value to the project through issue resolution, code writing, or even external activities such as communications and event organisation. A *committer* is someone who can make 'commits' to the project (see [Task 1](Task_1.Rmd)).
+
+Typically, roles are made public through either the README file, a Contributors file, or a separate team page for the project.
+
 
 ## Existing platforms and tools for Open Source Software <a name="Platforms"></a>
 
@@ -100,6 +112,10 @@ For citation managers, [Zotero](https://www.zotero.org/) is the most popular Ope
 
 
 ## Making good software for re-use <a name="Reuse"></a>
+
+
+** NOTE: TASK 1 WILL BE HERE, Building a GitHub repository** [Task 1](Task_1.Rmd)
+
 
 
 ## Open Source licensing <a name="Licensing"></a>
@@ -126,12 +142,13 @@ Thankfully, the process of selecting an Open Source license is relatively trivia
 
 Citations form one of the most important interactions in scholarly research, forming the basis of our referencing and metrics systems. Typically, this is performed thanks to the assistance of [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI). A DOI is a persistent identifier or handle that meets a common standard, depending on the purpose, such as for identifying academic information.
 
+In 2016, [Smith et al., 2017](Smith et al., 2017.pdf) wrote a research paper about the principles of software citation as part of the FORCE11 Software Citation Working Group.
+
 
 ## Using GitHub and Zenodo <a name="GitHub_Zenodo"></a>
 
-** NOTE: THIS IS WHERE A PRACTICAL ACTIVITY WILL BE** [Task 1](Task_1.Rmd)
 
-** NOTE: POSSIBLE TASK 2, SETTING UP A GITHUBE REPO**
+** NOTE: TASK 2, Linking GitHub and Zenodo** [Task 2](Task_2.Rmd)
 
 Note that GitHub itself is not OSS. However, Git, the tool which it is based on, is. Git is designed to help manage the source code files, and the updates to them, for a software-related project. However, it can also be extended to other non-software projects; for example, this MOOC!
 

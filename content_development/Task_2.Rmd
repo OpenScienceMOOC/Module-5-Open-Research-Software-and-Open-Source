@@ -1,29 +1,56 @@
-# How to set up a repository on GitHub
+# How to make your code citable using GitHub and Zenodo
 
-## Getting started
-
-A 'repository' is really just a fancy name for a project on GitHub.
-
-One of the most important things to consider at this stage is how the community will interact with your project. As you are working in the open, you want to make sure others feel comfortable in accessing, viewing, and engaging with your work. Setting up a repository in a way that lowers the barriers to entry, and the fear of being an 'outsider' is the first step towards maintaining a successful project.
-
-## The first steps
-
-Any GitHub repository requires 4 key elements to get started and to begin developing a welcoming community:
-
-1. An Open Source license
-1. A README file
-1. Contributing guidelines
-1. A Code of Conduct
-
-These are critical aspects of any project for users to understand their legal rights, their expectations, the purpose of the project, and to improve the overall user experience.
-
-### Choosing a license
-
-### Creating a README file
-
-### Creating contributing guidelines
-
-### Creating a Code of Conduct
+This task is designed for researchers who want to create and re-use GitHub-based repositories in the academic literature. 
 
 
-## Keeping your issues up to date
+## Step 1 - Set up a GitHub repository
+
+Pro-tip: Make sure to include a license and readme file in your repository. This will indicate to people the purpose of the project, and how they can engage with it in the future.
+
+
+## Step 2 - Choose your GitHub repository
+
+Once on your GitHub page or project, head to the 'Repositories' tab.
+
+
+## Step 3 - Log in to Zenodo
+
+If you already have a Zenodo account, this is easy. If not, follow the steps to create one - you can even login using your GitHub account to make things simpler.
+
+## Step 4 - Authorise GitHub
+
+Here, Zenodo will redirect you to GitHub to ask for permissions to use 'webhooks' on your repositores. You want to authorise Zenodo here with the permissions it needs to form those links.
+
+If you are trying to give Zenodo access to an organisational repository, you (or an administrator) will need to make sure that Zenodo is granted third party access permissions. At this point, you also need to make sure that the repository is set to 'Public', not private.
+
+## Step 5 - Select the repository to archive
+
+If you have got this far, this means that Zenodo is now authorised to configure the repository webhooks that it needs to archive the repository and issue it a DOI. To do this, simply click the 'On' button next to your repository.
+
+## Step 6 - Check repository settings
+
+Now you have set up a new webhook between Zenodo and your repository. In GitHub, click on the settings for your repository, and the Webhooks tab on the left hand side menu. This should display the new Zenodo webhook configured to Zenodo.
+
+## Step 7 - Create a new release
+
+The first time you archive a repository is known as the 'first release'. Each time you create a new version of that repository and archive it, you create a new release. This can be tracked in the 'releases' tab for your repository on GitHub.
+
+For the first archived version of your repository, click 'Create a new release'. Fill in the form and give some details as to what the release entails. For the first release, make sure to call it v1.0.0, as it standard practice.
+
+Finally, click 'Publish release', and your archive willl be published and versioned.
+
+## Step 8 - Getting a DOI
+
+This is sometimes referred to as DOI 'minting', and requires a couple of extra bits of information about the repository on Zenodo. Click the 'Upload' tab in the main menu at Zenodo, and your newly uploaded repository should be there. Fill in the extra information as needed, and then click 'Publish'.
+
+**Congratulations!!**
+
+Your GitHub repository is now archived, and with a DOI that can be versioned to reflect updates to the repository version through time. You should be able to see details of this on the GitHub Zenodo page for your repository.
+
+Pro-tip: Copy the URL for the DOI into the README file for your GitHub repo to make cross-linking even easier.
+
+with a DOI reflecting that version. Congratulations!
+
+### Additional resources
+
+[Making your code citable](https://guides.github.com/activities/citable-code/) - GitHub Guides.
