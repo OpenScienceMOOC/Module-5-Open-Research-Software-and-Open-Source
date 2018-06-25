@@ -42,12 +42,12 @@ Red: Launch date in danger
 |  Define target group      |  Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/05/31 | Sprint success! |
 |  Refine learning objectives/outcomes |  Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/05/31 | Sprint success! |
 |  Design course outline   |  Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/05/31 | Sprint success! |
-|  Design project plan and timeline  |  In prep |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/06/31 | |
-|  Identify promotion channels |  In prep |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/06/31 | |
+|  Design project plan and timeline  |  Yep |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/06/31 | |
+|  Identify promotion channels |  Yep |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/06/31 | |
 | **Design and scripting**  |          |             |                 |                    |
-|  Identify key resources |   Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |   | Sprint success! |
-|  Design learner activities   |    |    |   | |
-|  Find existing key resources  |  Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |   | Sprint success! |
+|  Identify key resources |   Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/06/31  | Sprint success! |
+|  Design learner activities   | Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/06/31  | |
+|  Find existing key resources  |  Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/06/31 | Sprint success! |
 |  Write audio/video scripts   |    |    |   | |
 |  Review all learning resources  |     |    |   | |
 |  Finalise all scripts   |     |    |   | |
