@@ -1,5 +1,8 @@
 # Module 5: Open Research Software and Open Source
 
+**[Content Development]**(https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development)
+**[Production Toolkit]**(https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit)
+
 ## Rationale <a name="Rationale"></a>
 
 Software and technology underpin modern science. There is an increasing demand for more sophisticated open source software, matched by an increasing willingness for researchers to openly collaborate on new tools. These developments come with a specific ethical, legal and economic challenges that impact upon research workflows. This module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
@@ -29,6 +32,7 @@ Software and technology underpin modern science. There is an increasing demand f
 - [Module design protocol](MODULE_DESIGN_PROTOCOL.md)
 - [Code of conduct](CODE_OF_CONDUCT.md)
 - [Key elements](key_elements.md)
+- [Reading material](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software)
 
 
 ## Licenses <a name="Licenses"></a>
