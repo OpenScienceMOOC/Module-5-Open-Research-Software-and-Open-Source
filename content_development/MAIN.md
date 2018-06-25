@@ -142,7 +142,7 @@ Thankfully, the process of selecting an Open Source license is relatively trivia
 
 Citations form one of the most important interactions in scholarly research, forming the basis of our referencing and metrics systems. Typically, this is performed thanks to the assistance of [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI). A DOI is a persistent identifier or handle that meets a common standard, depending on the purpose, such as for identifying academic information.
 
-In 2016, [Smith et al., 2017](Smith et al., 2017.pdf) wrote a research paper about the principles of software citation as part of the FORCE11 Software Citation Working Group.
+In 2016, [Smith et al., 2017](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202017.pdf) wrote a research paper about the principles of software citation as part of the FORCE11 Software Citation Working Group.
 
 
 ## Using GitHub and Zenodo <a name="GitHub_Zenodo"></a>
@@ -180,21 +180,22 @@ To launch and develop your own project, the [Open Source Guides](https://opensou
 
 ### Further reading <a name="Reading"></a>
 
-The Future of Research in Free/Open Source Software Development (Scacchi, 2010).
-The Scientific Method in Practice: Reproducibility in the Computational Sciences (Stodden, 2010).
-The case for open computer programs (Ince et al., 2012).
-Code Sharing Is Associated with Research Impact in Image Processing (Vandewalle, 2012).
-Current issues and research trends on open-source software communities (Martinez-Torres and Diaz-Fernandez, 2013).
-Ten simple rules for reproducible computational research (Sandve et al., 2013).
-Practices in source code sharing in astrophysics (Shamir et al., 2013).
-A systematic literature review on the barriers faced by newcomers to open source software projects (Steinmacher et al., 2014).
-Knowledge sharing in open source software communities: motivations and management (Iskoujina and Roberts, 2015).
-An open source pharma roadmap (Balasegaram et al., 2017).
-An introduction to Rocker: Docker containers for R (Boettiger and Eddelbuettel, 2017).
-Upon the Shoulders of Giants: Open-Source Hardware and Software in Analytical Chemistry (Dryden et al., 2017).
-Four simple recommendations to encourage best practices in research software (Jiménez et al., 2017).
-Perspectives on Reproducibility and Sustainability of Open-Source Scientific Software from Seven Years of the Dedalus Project (Oishi et al., 2018).
-Good enough practices in scientific computing (Wilson et al. ,2017).
+* The Future of Research in Free/Open Source Software Development [(Scacchi, 2010)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Scacchi%2C%202010.pdf).
+* The Scientific Method in Practice: Reproducibility in the Computational Sciences [(Stodden, 2010)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Stodden%2C%202010.pdf).
+* The case for open computer programs [(Ince et al., 2012)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Ince%20et%20al.%2C%202012.pdf).
+* Code Sharing Is Associated with Research Impact in Image Processing [(Vandewalle, 2012)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Vandewalle%2C%202012.pdf).
+* Current issues and research trends on open-source software communities [(Martinez-Torres and Diaz-Fernandez, 2013)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Martinez-Torres%20and%20Diaz-Fernandez%2C%202013.pdf).
+* Ten simple rules for reproducible computational research [(Sandve et al., 2013)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Sandve%20et%20al.%2C%202013.PDF).
+* Practices in source code sharing in astrophysics [(Shamir et al., 2013)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Shamir%20et%20al.%2C%202013.pdf).
+* A systematic literature review on the barriers faced by newcomers to open source software projects [(Steinmacher et al., 2014)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Steinmacher%20et%20al.%2C%202014.pdf).
+* Knowledge sharing in open source software communities: motivations and management [(Iskoujina and Roberts, 2015)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Iskoujina%20and%20Roberts%2C%202015.pdf).
+* An open source pharma roadmap [(Balasegaram et al., 2017)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Balasegaram%20et%20al.%2C%202017.pdf).
+* Software citation principles [(Smith et al., 2016)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202016.pdf).
+* An introduction to Rocker: Docker containers for R [(Boettiger and Eddelbuettel, 2017)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Boettiger%20and%20Eddelbuettel%2C%202017.pdf).
+* Upon the Shoulders of Giants: Open-Source Hardware and Software in Analytical Chemistry [(Dryden et al., 2017)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Dryden%20et%20al.%2C%202017.pdf).
+* Good enough practices in scientific computing [(Wilson et al., 2017)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Wilson%20et%20al.%2C%202017.pdf).
+* Four simple recommendations to encourage best practices in research software [(Jiménez et al., 2017)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Jim%C3%A9nez%20et%20al.%2C%202018.pdf).
+* Perspectives on Reproducibility and Sustainability of Open-Source Scientific Software from Seven Years of the Dedalus Project [(Oishi et al., 2018)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Oishi%20et%20al.%2C%202018.pdf).
 
 
 ### Development Team <a name="Development_team"></a>
