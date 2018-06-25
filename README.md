@@ -4,6 +4,15 @@
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit)
 
+## Table of Contents
+
+1. [Rationale](#Rationale)
+2. [Learning outcomes](#Learning outcomes)
+3. [Development team](#Development team)
+4. [Key documents](#Key documents)
+5. [Licenses](#Licenses)
+
+
 ## Rationale <a name="Rationale"></a>
 
 Software and technology underpin modern science. There is an increasing demand for more sophisticated open source software, matched by an increasing willingness for researchers to openly collaborate on new tools. These developments come with a specific ethical, legal and economic challenges that impact upon research workflows. This module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
@@ -18,7 +27,7 @@ Software and technology underpin modern science. There is an increasing demand f
   - Software developers will be able to make their software citable, and software users will know how to cite the software they use.
 
 
-## Development team
+## Development team <a name="Development team"></a>
 - [Alex Morley](https://twitter.com/alex__morley), Open Sourceror, University of Oxford, UK.
 - [Kevin Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT, USA.
 - [Tania Allard](https://twitter.com/ixek), Open Sourceress, Data Enchantress, University of Leeds, UK.
@@ -34,6 +43,8 @@ Software and technology underpin modern science. There is an increasing demand f
 - [Code of conduct](CODE_OF_CONDUCT.md)
 - [Key elements](key_elements.md)
 - [Reading material](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software)
+
+Pleaee note that all the reading materials are Open Access. Please do not upload articles which are paywalled or which are not openly licensed.
 
 
 ## Licenses <a name="Licenses"></a>

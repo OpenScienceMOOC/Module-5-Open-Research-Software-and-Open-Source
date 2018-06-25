@@ -3,7 +3,7 @@
 ### Define the target groups
    
    - Computational researchers
-   - Graduate students
+   - Graduate and undergraduate students
    - Data scientists
    - Any other researcher who uses analytical code/software
    
@@ -13,7 +13,6 @@
    - Based on community standards, learners will be able to describe the quality requirements of sharing and re-using open code.
    - The learner will be able to use a range of research tools that utilise open source software.
    - Individual learners will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
-   
    
 ### Design the course outline
 
@@ -50,17 +49,36 @@
 ### Identify promotion channels
 
  - Relevant Twitter handles:
-      -
-      -
-      -
+      - [Twitter Open Source](https://twitter.com/twitteross)
+      - [Open Source TV](https://twitter.com/opensourcetv)
+      - [Open Source Initiative](https://twitter.com/OpenSourceOrg)
+      - [O'Reilly OSCON](https://twitter.com/oscon)
+      - [Chris Holdgraf](https://twitter.com/choldgraf)
+      - [Neil Saunders](https://twitter.com/neilfws)
+      - [Open Source Pharma](https://twitter.com/OSPInfo)
+      - [Abby Cabunoc Mayes](https://twitter.com/abbycabs)
+      - [Chris DiBona](https://twitter.com/cdibona)
+      - [Arfon Smith](https://twitter.com/arfon)
+      - [Jan Gondol](https://twitter.com/jangondol)
+      - [Konrad Förstner](https://twitter.com/konradfoerstner)
+      - [Ina Smith](https://twitter.com/ismonet)
+      - [Coko Foundation](https://twitter.com/CokoFoundation)
+      - [Google Open Source](https://twitter.com/GoogleOSS)
+      _ [Carl Malamud](https://twitter.com/carlmalamud)
+      - [Code Is Science](https://twitter.com/codeisscience)
+
  - Organisations:
-      - Software Carpentry
-      - Sustainable Software Institute 
-      - COKO Foundation 
+      - [Software Carpentry](https://software-carpentry.org/)
+      - [Sustainable Software Institute](https://www.software.ac.uk/software-sustainability-institute)
+      - [COKO Foundation](https://coko.foundation/)
       - [Free Software Foundation](https://www.fsf.org/licensing/)
       - [WSSSPE community](hhttp://wssspe.researchcomputing.org.uk)
       - [Open Research Software](http://openresearchsoftware.metajnl.com)
       - [JOSS](http://joss.theoj.org)
+      - [Free Software Foundation](https://www.fsf.org/)
+      - [Open Source Initiative](https://opensource.org/)
+      - [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/)
+      - [Ada Initiative](https://adainitiative.org/)
+      
  - Mailing lists:
-      -
-      -
+      - [Open science](https://lists.okfn.org/mailman/listinfo/open-science)

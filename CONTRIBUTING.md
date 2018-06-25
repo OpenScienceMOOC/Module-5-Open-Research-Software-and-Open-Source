@@ -35,6 +35,8 @@ Each team will adhere to the [MOOC planning template](https://github.com/OpenSci
 
 Modules are rendered from markdown files ([here is a useful markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)) located in the [`content development`](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development) folder.
 
+For each update made, make sure to update the [MOOC planning template](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/production_toolkit/MOOC_planning_template.md) as needed.
+
 
 ## Reporting issues
 
@@ -57,13 +59,13 @@ Please read [this guide](https://support.rstudio.com/hc/en-us/articles/200532077
 
 Please refer to each project's style guidelines and guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
+**NOTE: Be sure to merge the latest from "upstream" before making a pull request!**
+
 - Fork the repo on GitHub
 - Clone the project to your own machine
 - Commit changes to your own branch
 - Push your work back up to your fork
 - Submit a Pull request so that we can review your changes
-
-**NOTE: Be sure to merge the latest from "upstream" before making a pull request!**
 
 
 - Try not to pollute your pull request with unintended changes and keep them simple and small. If possible, squash your commits.
