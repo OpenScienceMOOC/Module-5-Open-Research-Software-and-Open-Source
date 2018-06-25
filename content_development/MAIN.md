@@ -33,7 +33,9 @@ Software and technology underpin modern science, which is now almost inevitably 
 
 ## What is Open Source Software <a name="What_OSS"></a>
 
-Open Source Software (OSS) is computer software in which the source code is available under a specific license that enables other users to access, modify, and redistribute that code for any purpose. Typically, as a result of this, it is easier to obtain and re-use compared to proprietary software. Because OSS requires such a license, it typically remains free of charge by default.
+Open Source Software (OSS) is computer software in which the full source code is available under a specific license that enables other users to access, modify, and redistribute that code for any purpose. Typically, as a result of this, it is easier to obtain compared to proprietary software, and re-use for analysis, simulation, and visualisation for research. Because OSS requires such a license, it typically remains free of charge by default.
+
+OSS fits into the broader scheme of Open Science as it makes helps to make the full research environment,including the software and code that produced the research results, fully accessible. As such, it forms a necessary component for the reproducibility of research, along with other aspects such as sharing data.
 
 Some of the common advantages include:
 
@@ -46,7 +48,9 @@ Some of the common advantages include:
 - Increased reliability and independence; and
 - Based on open standards available to everyone.
 
-As such, the main advantages for researchers include lower costs, increased security and stability, no vendor 'lock in' with increased user control, and overall higher quality. Some commonly used services include the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) internet browser and the [LibreOffice](https://www.libreoffice.org/) full office suite. LibreOffice is similar to the popular Microsoft Office, including a word processor, spreadsheet manager, and slide presentation software, but is completely free and Open Source.
+As such, the main advantages for researchers include lower costs, increased security and stability, no vendor 'lock in' with increased user control, and overall higher quality. Furthermore, sharing OSS allows researchers to receive credit for their efforts, for example through direct software citation [(Smith et al., 2016)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202016.pdf).
+
+Commonly used OSS services include the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) internet browser and the [LibreOffice](https://www.libreoffice.org/) full office suite. LibreOffice is similar to the popular Microsoft Office, including a word processor, spreadsheet manager, and slide presentation software, but is completely free and Open Source.
 
 Some regard the OSS movement to represent a counter-movement to neoliberalism and privatisation, through defiance of regulations and norms in the construction and re-use of information, and a potential transformation of modern-day capitalism through making software abundantly available with minimal effort.
 
@@ -78,7 +82,18 @@ Now, this all might be a little complex to remember. However, it can be summaris
 
 The big difference between free software and OSS is that the former must distribute updated versions under the same license as the original, whereas newer versions of OSS can be distributed under different licenses. FOSS combines the best of both worlds. 
 
-These definitions have now become widely adopted, both by international governments, as well as some large organisations such as the [Mozilla Foundation] and the [Wikimedia Foundation].
+These definitions have now become widely adopted, both by international governments, as well as some large organisations such as the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) and the [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home).
+
+### An Open Source checklist
+
+There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/es/02opensciencebasics/03openresearchsoftwareandopensource#knowledge) provides a checklist to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
+
+* Is the software available to download and install?
+* Can the software easily be installed on different platforms?
+* Does the software have conditions on the use?
+* Is the source code available for inspection?
+* Is the full history of the source code available for inspection through a publicly available version history?
+* Are the dependencies of the software (hardware and software) described properly? Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
 
 
 ## The Open Source community and its governance <a name="OS_Community"></a>
@@ -102,25 +117,35 @@ Typically, roles are made public through either the README file, a Contributors 
 
 ## Existing platforms and tools for Open Source Software <a name="Platforms"></a>
 
-[InsideDNA](https://insidedna.me/) is a computing platform for reproducible research in bioinformatics, genomics and the life sciences.
+Virtual environments and machines are becoming increasingly popular as high-powered research workflow enablers. Popular services include [Google Cloud](https://cloud.google.com/compute/) and [Amazon Web Services](https://aws.amazon.com/), which also assist with database storage and content delivery, as well as computational power. [InsideDNA](https://insidedna.me/) is a computing platform for reproducible research in bioinformatics, genomics and the life sciences.
 
-Virtual environments and machines are becoming increasingly popular as high-powered research workflow enablers. Popular services include [Google Cloud](https://cloud.google.com/compute/) and [Amazon Web Services](https://aws.amazon.com/), which also assist with database storage and content delivery, as well as computational power.
+As mentioned [above](#What_OSS), LibreOffice provides an Open Source alternative to Microsoft Office. The two are almost completely compatible, just with different default file formats. For citation managers, [Zotero](https://www.zotero.org/) is the most popular Open Source alternative to proprietary platforms such as Mendeley or Endnote.
 
-As mentioned [above](#What_OSS), LibreOffice provides an Open Source alternative to Microsoft Office. The two are almost completely compatible, just with different default file formats.
+[Zotero](https://www.zotero.org/) uses the BibTeX (pronounced 'bib-tech') format, based on LaTeX (pronounced 'lay-tech'), and has browser plugins to make citation management simple. By integrating this with other software such as LibreOffice, it is now possible to have a fully Open Source research workflow in many cases.
 
-For citation managers, [Zotero](https://www.zotero.org/) is the most popular Open Source alternative to proprietary platforms such as Mendeley or Endnote.
+### GitHub <a name="GitHub"></a>
 
+[GitHub](https://github.com/) is a popular tool for OSS, with added capabilities for version control, project management and tracking, and storage services. GitHub is built on top of the OSS [Git]https://git-scm.com/, which enables users to work remotely to maintain, share, and collaborate on research software and other non-software based projects. 
 
-## Making good software for re-use <a name="Reuse"></a>
-
+Other similar project hosting services include [BitBucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/), and [Launchpad](https://launchpad.net/).
 
 ** NOTE: TASK 1 WILL BE HERE, Building a GitHub repository** [Task 1](Task_1.Rmd)
 
 
+## Making good software for re-use <a name="Reuse"></a>
+
+The most likely person who might want to re-use your software in the future is...you! So while sharing is always better than not sharing, you can make your own life, and that of others, much easier through apprioriate documentation. Documentation can include several things, such as including helpful comments and annotations in the code that help to explain why a particular action was performed, rather than what it is intended to achieve. 
+
+One of the most critical aspects of this is including an informative README file, that accompanies almost every OSS project, and some times even more than one. It can be a good practice to include one such file in every directory, that includes a list of files, a table of contents, and what the purpose of the directory is. The README file is typically just plain text or markdown (again, such as all of the ones for the MOOC!), and can include critical information for how to install and run software, previous dependencies and requirements, as well as tutorials or examples.
+
+The purpose here is to provide sufficient information to maximise the re-use and reproducibility of the computational environment, such that someone with no experience with the project can easily access and re-use the software. By lowering the barriers to entry, you increase the chances of others being able to re-use your work, which is one of the ultimate goals of OSS.
+
+An extension of this to make things even easier for future re-use is container technology. Containers are like an ecosystem frozen in time, where the code, the data, any other dependences, are all packaged and saved in the present functioning versions so that in the future any one can come in and run the analyses again. Common examples of container implementation in research include [Rocker](https://arxiv.org/abs/1710.03675) (a Docker container for the R language), [Binder](https://mybinder.readthedocs.io/en/latest/), and [Code Ocean](https://codeocean.com/). Sustainable software is good software.
+ 
 
 ## Open Source licensing <a name="Licensing"></a>
 
-An Open Source license is a type of license designed specifically for software and code that make it explicit what the legal conditions for sharing and re-use are. There are currently more than 1,400 unique Open Source licenses, a complexity born from the difficulty in understanding the differences between the legal implications across different license.
+An Open Source license is a type of license designed specifically for software and code that make it explicit what the legal conditions for sharing and re-use are. As mentioned [above](#What_OSS), the addition of a suitable license is what differentiates publicly shared software from OSS. There are currently more than 1,400 unique Open Source licenses, a complexity born from the difficulty in understanding the differences between the legal implications across different license.
 
 Some of the more common licenses include:
 
@@ -130,37 +155,32 @@ Some of the more common licenses include:
 - GNU General Public License ("GPL")
 
 
-There are two ways in which contributions to a project become licensed.
+There are two ways in which contributions to a project become licensed:
 1. Explicitly, whereby the individual contribution has a clearly indicated license independent of the main project; or 
 2. Implicitly, whereby the contribution falls under the original licensing code of the main project.
 
-Thankfully, the process of selecting an Open Source license is relatively trivial, thanks to user-friendly tools such as [Choose A License](https://choosealicense.com/). Zotero uses the BibTeX (pronounced 'bib-tech') format, based on LaTeX (pronounced 'lay-tech'), and has browser plugins to make citation management simple.
-
+Thankfully, the process of selecting an Open Source license is relatively trivial, thanks to user-friendly tools such as [Choose A License](https://choosealicense.com/). Each of these licenses allows other users to use, copy, distribute, and build upon your work, often while ensuring that the creators are appropriately recognised for their work. Here, the key is selecting an appropriate license for your work, depending on what you want, or do not want, others to do with it.
 
 
 ## Software citation <a name="Citation"></a>
 
-Citations form one of the most important interactions in scholarly research, forming the basis of our referencing and metrics systems. Typically, this is performed thanks to the assistance of [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI). A DOI is a persistent identifier or handle that meets a common standard, depending on the purpose, such as for identifying academic information.
+Citations form one of the most important interactions in scholarly research, forming the basis of our referencing and metrics systems. Typically, this is performed thanks to the assistance of [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI). A DOI is a persistent identifier or handle that meets a common standard, depending on the purpose, such as for identifying academic information. Such identification is critical for tracking the genealogy and provenance of research, for reprodicibility, as well as giving appropriate credit to those who have created the software.
 
-In 2016, [Smith et al., 2017](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202017.pdf) wrote a research paper about the principles of software citation as part of the FORCE11 Software Citation Working Group.
+In 2016, [Smith et al., 2017](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202017.pdf) wrote a research paper about the principles of software citation as part of the FORCE11 Software Citation Working Group. In the same way that you would want to cite software that you have used as part of good research practices, it is important to make your research easily citable too. When citing any software used for your own research, you should include at minimum the author name(s), software title, version number, and the unique identifier/locator (DOI or URL).
 
 
 ## Using GitHub and Zenodo <a name="GitHub_Zenodo"></a>
 
+As mentioned above, [GitHub](#GitHub) is a popular tool for project management, content storage, and version control. Note that GitHub itself is not OSS. However, Git, the tool which it is based on, is. Git is designed to help manage the source code files, and the updates to them, for a software-related project. However, it can also be extended to other non-software projects; for example, this [MOOC](https://github.com/OpenScienceMOOC/)!
 
-** NOTE: TASK 2, Linking GitHub and Zenodo** [Task 2](Task_2.Rmd)
+However, getting research onto GitHub is just the first step. It is equally important to make it persistent and re-usable, which is why having a Digital Object Identifier (DOI) associated with it can be useful. The simples way to do this is through a service called [Zenodo](https://zenodo.org/), which is a free and open source multi-disciplinary repository created by OpenAIRE and CERN, and can be used to assign a DOI to individual GitHUb repositories. It does this by allowing developers to create formal releases for archived versions of software by linking GitHub repositories directly through to Zenodo.
 
-Note that GitHub itself is not OSS. However, Git, the tool which it is based on, is. Git is designed to help manage the source code files, and the updates to them, for a software-related project. However, it can also be extended to other non-software projects; for example, this MOOC!
-
-Other project hosting services include BitBucket, GitLab, and Launchpad.
-
-One of the more popular and useful functions of GitHub is the issue tracker, which is used to organise OSS development. 
+One of the more popular and useful functions of GitHub is the [issue tracker](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/issues), which is used to organise OSS development.
 
 A lot of researchers might typically be afraid of sharing code which is incomplete, buggy, or imperfect. However, in the OSS community, such a practice of sharing 'raw' code is fairly commonplace. Sharing code openly enables others to re-use and improve it, as well as to engage in a deeper way with any research associated with it. This is one of the fundamental aspects of peer-collaboration, perhaps best exemplified by the traditional process of research manuscript peer review.
 
 
-More formalised journal venues also exist for software-based articles, including [The Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) and [The Journal of Open Source Software](https://joss.theoj.org/).
-
+** NOTE: TASK 2, Linking GitHub and Zenodo** [Task 2](Task_2.Rmd)
 
 
 ## Collaborating and contributing through Open Source <a name="Collaborating"></a>
@@ -171,12 +191,13 @@ Often, OSS is developed in a public, decentralised, collaborative manner between
 
 ## Where to go from here <a name="Future_OSS"></a>
 
-
 Hopefully now you have come to see the importance of software as a cornerstone of modern science, and the importance that OSS plays in this. If you feel particularly inspired by this, you can endorse the [Science Code Manifesto](http://sciencecodemanifesto.org/), which is based on the five principles of code, copyright, citation, credit, and curation.
 
 To gain more hands on experience with OSS, the [Software Carpentry](https://software-carpentry.org/) community hold regular workshops to improve lab-based computing skills.
 
 To launch and develop your own project, the [Open Source Guides](https://opensource.guide/) program offers a range of practical guides and skills to help launch and advance your OSS projects.
+
+More formalised journal venues also exist for software-based articles, including [The Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) and [The Journal of Open Source Software](https://joss.theoj.org/).
 
 ### Further reading <a name="Reading"></a>
 
