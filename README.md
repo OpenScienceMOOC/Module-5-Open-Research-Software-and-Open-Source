@@ -1,7 +1,7 @@
 # Module 5: Open Research Software and Open Source
 
-**[Content Development]**(https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development)
-**[Production Toolkit]**(https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit)
+[**Content Development**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development)
+[**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit)
 
 ## Rationale <a name="Rationale"></a>
 
