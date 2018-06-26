@@ -86,7 +86,7 @@ So now you are ready to launch your project, begin advertising it, and getting c
 - [ ] Complete documentation including a README, CONTRIBUTING, and CODE_OF_CONDUCT files
 - [ ] Project has at least one clearly labelled issue
 - [ ] Any code included at this stage is clearly structured and annotated
-
+```
 
 ### Additional resources <a name="Resources"></a>
 
