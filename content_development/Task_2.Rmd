@@ -29,9 +29,9 @@ Once on your GitHub page or project, head to the 'Repositories' tab. Select whic
 
 ## Login to Zenodo <a name="Login"></a>
 
-[Zenodo](https://zenodo.org/) is a platform where you can permanently archive your code and other project elements. It does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable. This is different to GitHub, which acts as a place where the actual work on a project takes place, rather than long-term archiving of it.
+[Zenodo](https://zenodo.org/) is a platform where you can permanently archive your code and other project elements. It does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable. This is different to GitHub, which acts as a place where the actual work on a project takes place, rather than long-term archiving of it. At GitHub, content can be modfied, deleted, rewritten, and irreversably changed, which makes it a bit concerning to be used for referencing purposes. Zenodo offers more security and permanence to research outputs.
 
-If you already have a Zenodo account, this is easy. If not, follow the steps to create one - you can even login using your GitHub account to make things simpler, as Zenodo has a built in integration for it.
+If you already have a Zenodo account, this is easy. If not, follow the steps to create one - you can even login using your GitHub account to make things simpler, as Zenodo has a built in integration for it. This might be easier than creating yet another research account and profile.
 
 
 ## Authorise GitHub <a name="Authorise"></a>
@@ -64,28 +64,28 @@ Finally, click 'Publish release', and your archive willl be published and versio
 
 This is sometimes referred to as DOI 'minting', and requires a couple of extra bits of information about the repository on Zenodo. Click the 'Upload' tab in the main menu at Zenodo, and your newly uploaded repository should be there. Fill in the extra information as needed, and then click 'Publish'.
 
-The GitHub/Zenodo integration will now assign a DOI to each version/release of a project repository. This enables users to refer to and cite specific versions of projects. Also, the list of authors for the citation is automatically determined by the contributors to the repository - this means no-one gets left out, and no-one gets 'gifted authorships'.
+The GitHub/Zenodo integration will now assign a DOI to each version/release of a project repository. This enables users to refer to and cite specific versions of projects. Also, the list of authors for the citation is automatically determined by the contributors to the repository - this means no-one gets left out, and no-one gets 'gifted authorships'. DOIs are registered through the [DataCite](https://www.datacite.org/) service.
 
 *Pro-tip*: Copy the URL for the DOI into the README file for your GitHub repo to make cross-linking even easier.
 
 
 **Congratulations!!**
 
-Your GitHub repository is now archived, and with a DOI that can be versioned to reflect updates to the repository version through time. You should be able to see details of this on the GitHub Zenodo page for your repository. This also means that your archived projects can get picked up by other indexing services that use DOIs too.
+Your GitHub repository is now archived, and with a DOI that can be versioned to reflect updates to the repository version through time. You should be able to see details of this on the GitHub Zenodo page for your repository. This also means that your archived projects can get picked up by other indexing services and search engines that use DOIs too.
 
 Providing a long-term archive and a DOI for your work is required for others to be able to properly cite it, as this provides basic citation metadata. For Open Science, it is important to be able to cite the software that you use in your research, and this integrated workflow enables that to happen, in line with best practices for research citation. Furthermore, this practice is important in elevating the standard of software (and related projects) to that of the standard of other research outputs.
+
+*Pro tip*: Is your research funded by an EU grant? Now you can directly connect your archived project to your grant by updating the grant section of the metadata on the project’s Zenodo record. This massively helps to increase its discoverability!
 
 
 ## Checklist for citing your project <a name="Checklist"></a>
 
-So now you are ready to launch your project, begin advertising it, and getting contributions! Before continuing, make sure that you have:
+So now you have a sustainably archived GitHub repository that is ready to be re-used and cited! Before continuing, make sure that you have:
 
 ```markdown
-- [ ] Project has a memorable and informative name
-- [ ] Project has a LICENSE file that is an exact copy of an Open Source license
-- [ ] Complete documentation including a README, CONTRIBUTING, and CODE_OF_CONDUCT files
-- [ ] Project has at least one clearly labelled issue
-- [ ] Any code included at this stage is clearly structured and annotated
+- [ ] Project has been linked to Zenodo.
+- [ ] Zenodo and GitHub integrated setup works nicely.
+- [ ] Project has a first release, with a DOI.
 ```
 
 ### Additional resources <a name="Resources"></a>
