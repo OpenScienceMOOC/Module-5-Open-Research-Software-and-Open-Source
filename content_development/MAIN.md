@@ -69,7 +69,7 @@ The [Open Source Initiative](https://opensource.org/), one of the pioneers of OS
 
 - *No Discrimination Against Persons or Groups*: The license must not discriminate against any person or group of persons.
 
-- *No Discrimination Against Fields of Endeavor*: The license must not restrict anyone from making use of the program in a specific field of endeavor. For example, it may not restrict the program from being used in a business, or from being used for genetic research.
+- *No Discrimination Against Fields of Endeavour*: The license must not restrict anyone from making use of the program in a specific field of endeavour. For example, it may not restrict the program from being used in a business, or from being used for genetic research.
 
 - *Distribution of License*: The rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional license by those parties.
 
@@ -87,7 +87,7 @@ These definitions have now become widely adopted, both by international governme
 
 ### An Open Source checklist
 
-There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/es/02opensciencebasics/03openresearchsoftwareandopensource#knowledge) provides a checklist to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
+There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/es/02opensciencebasics/03openresearchsoftwareandopensource#knowledge) provides a check-list to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
 
 * Is the software available to download and install?
 * Can the software easily be installed on different platforms?
@@ -120,7 +120,7 @@ Typically, roles are made public through either the README file, a Contributors 
 
 Virtual environments and machines are becoming increasingly popular as high-powered research workflow enablers. Popular services include [Google Cloud](https://cloud.google.com/compute/) and [Amazon Web Services](https://aws.amazon.com/), which also assist with database storage and content delivery, as well as computational power. [InsideDNA](https://insidedna.me/) is a computing platform for reproducible research in bioinformatics, genomics and the life sciences.
 
-As mentioned [above](#What_OSS), LibreOffice provides an Open Source alternative to Microsoft Office. The two are almost completely compatible, just with different default file formats. For citation managers, [Zotero](https://www.zotero.org/) is the most popular Open Source alternative to proprietary platforms such as Mendeley or Endnote.
+As mentioned [above](#What_OSS), LibreOffice provides an Open Source alternative to Microsoft Office. The two are almost completely compatible, just with different default file formats. For citation managers, [Zotero](https://www.zotero.org/) is the most popular Open Source alternative to proprietary platforms such as Mendeley or EndNote.
 
 [Zotero](https://www.zotero.org/) uses the BibTeX (pronounced 'bib-tech') format, based on LaTeX (pronounced 'lay-tech'), and has browser plugins to make citation management simple. By integrating this with other software such as LibreOffice, it is now possible to have a fully Open Source research workflow in many cases.
 
@@ -135,26 +135,27 @@ Other similar project hosting services include [BitBucket](https://bitbucket.org
 
 ## Making good software for re-use <a name="Reuse"></a>
 
-The most likely person who might want to re-use your software in the future is...you! So while sharing is always better than not sharing, you can make your own life, and that of others, much easier through apprioriate documentation. Documentation can include several things, such as including helpful comments and annotations in the code that help to explain why a particular action was performed, rather than what it is intended to achieve. 
+The most likely person who might want to re-use your software in the future is...you! So while sharing is always better than not sharing, you can make your own life, and that of others, much easier through appropriate documentation. Documentation can include several things, such as including helpful comments and annotations in the code that help to explain why a particular action was performed, rather than what it is intended to achieve. 
 
 One of the most critical aspects of this is including an informative README file, that accompanies almost every OSS project, and some times even more than one. It can be a good practice to include one such file in every directory, that includes a list of files, a table of contents, and what the purpose of the directory is. The README file is typically just plain text or markdown (again, such as all of the ones for the MOOC!), and can include critical information for how to install and run software, previous dependencies and requirements, as well as tutorials or examples.
 
 The purpose here is to provide sufficient information to maximise the re-use and reproducibility of the computational environment, such that someone with no experience with the project can easily access and re-use the software. By lowering the barriers to entry, you increase the chances of others being able to re-use your work, which is one of the ultimate goals of OSS.
 
-An extension of this to make things even easier for future re-use is container technology. Containers are like an ecosystem frozen in time, where the code, the data, any other dependences, are all packaged and saved in the present functioning versions so that in the future any one can come in and run the analyses again. Common examples of container implementation in research include [Rocker](https://arxiv.org/abs/1710.03675) (a Docker container for the R language), [Binder](https://mybinder.readthedocs.io/en/latest/), and [Code Ocean](https://codeocean.com/). Sustainable software is good software.
+An extension of this that can help to make things even easier for future re-use is container technology. Containers are like an ecosystem frozen in time, where the code, the data, any other dependencies, are all packaged and saved in the present functioning versions so that in the future any one can come in and run the analyses again. As such, they are generally good for re-use, but this can come at the sacrifice of modification or understanding by others, as often a lot of details can be hidden within the source code and its dependencies. Common examples of container implementation in research include [Rocker](https://arxiv.org/abs/1710.03675) (a Docker container for the R language), [Binder](https://mybinder.readthedocs.io/en/latest/), and [Code Ocean](https://codeocean.com/). Sustainable software is good software.
  
 
 ## Open Source licensing <a name="Licensing"></a>
 
-An Open Source license is a type of license designed specifically for software and code that make it explicit what the legal conditions for sharing and re-use are. As mentioned [above](#What_OSS), the addition of a suitable license is what differentiates publicly shared software from OSS. There are currently more than 1,400 unique Open Source licenses, a complexity born from the difficulty in understanding the differences between the legal implications across different license.
+An Open Source license is a type of license designed specifically for software and code that make it explicit what the legal conditions for sharing and re-use are. As mentioned [above](#What_OSS), the addition of a suitable license is what differentiates publicly shared software from OSS. For example, the widely used [MATLAB](https://www.mathworks.com/products/matlab.html) is proprietary software, and [Octave](https://www.gnu.org/software/octave/) is an openly licensed alternative programming language.
+
+There are currently more than 1,400 unique Open Source licenses, a complexity born from the difficulty in understanding the differences between the legal implications across different license.
 
 Some of the more common licenses include:
 
-- Berkeley Software Distribution ("BSD");
-- Apache; 
-- MIT-style (Massachusetts Institute of Technology); or 
-- GNU General Public License ("GPL")
-
+- [Berkeley Software Distribution ("BSD")](https://en.wikipedia.org/wiki/BSD_licenses);
+- [Apache](https://www.apache.org/licenses/LICENSE-2.0); 
+- [MIT-style (Massachusetts Institute of Technology)](https://opensource.org/licenses/MIT); or 
+- [GNU General Public License ("GPL")](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 There are two ways in which contributions to a project become licensed:
 1. Explicitly, whereby the individual contribution has a clearly indicated license independent of the main project; or 
@@ -188,7 +189,7 @@ The principles provided by [Smith et al., 2017](https://github.com/OpenScienceMO
 
 As mentioned above, [GitHub](#GitHub) is a popular tool for project management, content storage, and version control. Note that GitHub itself is not OSS. However, Git, the tool which it is based on, is. Git is designed to help manage the source code files, and the updates to them, for a software-related project. However, it can also be extended to other non-software projects; for example, this [MOOC](https://github.com/OpenScienceMOOC/)!
 
-However, getting research onto GitHub is just the first step. It is equally important to make it persistent and re-usable, which is why having a Digital Object Identifier (DOI) associated with it can be useful. The simplest way to do this is through a service called [Zenodo](https://zenodo.org/), which is a free and open source multi-disciplinary repository created by OpenAIRE and CERN, and can be used to assign a DOI to individual GitHUb repositories. There is a [GitHub Guide](https://guides.github.com/activities/citable-code/) that explains the details, which involve linking GitHub repositories directly through to Zenodo so that when developers create formal releases for their software, Zenodo creates and archives a that version of the software.  There's nothing special about using Zenodo for this; other general repositories can also be used, such as [figshare](https://figshare.com/blog/figshare_launches_revamped_GitHub_integration/243) or institutional repositores such as [Caltech's](https://www.library.caltech.edu/news/enhanced-software-preservation-now-available-caltechdata).
+However, getting research onto GitHub is just the first step. It is equally important to make it persistent and re-usable, which is why having a Digital Object Identifier (DOI) associated with it can be useful. The simplest way to do this is through a service called [Zenodo](https://zenodo.org/), which is a free and open source multi-disciplinary repository created by OpenAIRE and CERN, and can be used to assign a DOI to individual GitHUb repositories. There is a [GitHub Guide](https://guides.github.com/activities/citable-code/) that explains the details, which involve linking GitHub repositories directly through to Zenodo so that when developers create formal releases for their software, Zenodo creates and archives a that version of the software.  There's nothing special about using Zenodo for this; other general repositories can also be used, such as [figshare](https://figshare.com/blog/figshare_launches_revamped_GitHub_integration/243) or institutional repositories such as [Caltech's](https://www.library.caltech.edu/news/enhanced-software-preservation-now-available-caltechdata).
 
 One of the more popular and useful functions of GitHub is the [issue tracker](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/issues), which is used to organise OSS development.
 
@@ -200,7 +201,7 @@ A lot of researchers might typically be afraid of sharing code which is incomple
 
 ## Collaborating and contributing through Open Source <a name="Collaborating"></a>
 
-Often, OSS is developed in a public, decentralised, collaborative manner between multiple contributors. The purpose of this is to enhance the diversity and scope of a project and its design, in order to become more beneficial and sustainable. Such an approach was famously likened to a 'bazaar' model by Eric Raymod, an early OSS proponent. One of the major guiding principles of this is that of peer production, which relises on self-organised communities to regulate the development of content, co-ordinated towards a shared goal or outcome.
+Often, OSS is developed in a public, decentralised, collaborative manner between multiple contributors. The purpose of this is to enhance the diversity and scope of a project and its design, in order to become more beneficial and sustainable. Such an approach was famously likened to a 'bazaar' model by Eric Raymond, an early OSS proponent. One of the major guiding principles of this is that of peer production, which relies on self-organised communities to regulate the development of content, co-ordinated towards a shared goal or outcome.
 
 
 ## Where to go from here <a name="Future_OSS"></a>
@@ -222,7 +223,7 @@ However, the Open Source journey does not stop here! This was just the beginning
 
 * To launch and develop your own project, the [Open Source Guides](https://opensource.guide/) program offers a range of practical guides and skills to help launch and advance your OSS projects.
 
-* For a detailed look at OSS-based research workflows, the [Open Science, Open Data, Open Source](https://pfern.github.io/OSODOS/gitbook/) handguide by Pedro L. Fernandes and Rutger A. Vos is one of the top resources online.
+* For a detailed look at OSS-based research workflows, the [Open Science, Open Data, Open Source](https://pfern.github.io/OSODOS/gitbook/) hand-guide by Pedro L. Fernandes and Rutger A. Vos is one of the top resources online.
 
 * More formalised journal venues also exist for software-based articles, including [The Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) and [The Journal of Open Source Software](https://joss.theoj.org/).  A list of such venues is also [available](https://www.software.ac.uk/which-journals-should-i-publish-my-software).
 
