@@ -158,7 +158,7 @@ Making sure to enforce the code of conduct is important, as it shows that not on
 
 ### Making your code citable <a name="Citation"></a>
 
-If you want to make your code citable from the start, you should store the metadata needed for a citation from the start, by creating a [codemeta.json](https://codemeta.github.io) file or a [CITATION.cff](https://citation-file-format.github.io) file. Both will allow tooling that is currently developing to automatically create citation information, rather than asking you to type it in a form later.
+If you want to make your code citable from the start, you should store the metadata needed for a citation from the start, by creating a [codemeta.json](https://codemeta.github.io) file or a [CITATION.cff](https://citation-file-format.github.io) file. Both will allow tooling that is currently being developed to automatically create citation information, rather than asking you to type it in a form later.
 
 ## Keeping your issues up to date <a name="Issues"></a>
 
