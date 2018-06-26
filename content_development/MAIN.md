@@ -125,7 +125,7 @@ As mentioned [above](#What_OSS), LibreOffice provides an Open Source alternative
 
 ### GitHub <a name="GitHub"></a>
 
-[GitHub](https://github.com/) is a popular tool for OSS, with added capabilities for version control, project management and tracking, and storage services. GitHub is built on top of the OSS [Git]https://git-scm.com/, which enables users to work remotely to maintain, share, and collaborate on research software and other non-software based projects. 
+[GitHub](https://github.com/) is a popular tool for OSS, with added capabilities for version control, project management and tracking, and storage services. GitHub is built on top of the OSS [Git](https://git-scm.com/), which enables users to work remotely to maintain, share, and collaborate on research software and other non-software based projects. 
 
 Other similar project hosting services include [BitBucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/), and [Launchpad](https://launchpad.net/).
 
