@@ -183,13 +183,11 @@ Within issues it is possible to use @ mentions to notify other contirbutors abou
 
 So now you are ready to launch your project, begin advertising it, and getting contributions! Before continuing, make sure that you have:
 
-```html
 - [ ] Project has a memorable and informative name
 - [ ] Project has a LICENSE file that is an exact copy of an Open Source license
 - [ ] Complete documentation including a README, CONTRIBUTING, and CODE_OF_CONDUCT files
 - [ ] Project has at least one clearly labelled issue
 - [ ] Any code included at this stage is clearly structured and annotated
-```
 
 
 **Congratulations**, you have now launched an Open Source research project! Hopefully, from here on out, your work will act to benefit the wider community, forge new collaborations, and create new and fantastic opportunities for you all.

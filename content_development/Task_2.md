@@ -82,11 +82,10 @@ Providing a long-term archive and a DOI for your work is required for others to 
 
 So now you have a sustainably archived GitHub repository that is ready to be re-used and cited! Before continuing, make sure that you have:
 
-```html
 - [ ] Project has been linked to Zenodo.
 - [ ] Zenodo and GitHub integrated setup works nicely.
 - [ ] Project has a first release, with a DOI.
-```
+
 
 ### Additional resources <a name="Resources"></a>
 

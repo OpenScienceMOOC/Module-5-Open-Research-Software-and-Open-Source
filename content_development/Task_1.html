@@ -308,6 +308,7 @@ $(document).ready(function () {
 
 <div id="task-1-how-to-set-up-a-repository-on-github" class="section level1">
 <h1>Task 1: How to set up a repository on GitHub</h1>
+<p>This task is designed for researchers who want to create an Open Source project on GitHub.</p>
 <div id="table-of-contents" class="section level2">
 <h2>Table of contents</h2>
 <ul>
@@ -323,6 +324,7 @@ $(document).ready(function () {
 <li><a href="#Readme">Creating a README file</a></li>
 <li><a href="#Contributing">Creating contributing guidelines</a></li>
 <li><a href="#Conduct">Creating a code of conduct</a></li>
+<li><a href="#Citation">Making your code citable</a></li>
 </ul></li>
 <li><a href="#Issues">Keeping your issues up to date</a></li>
 <li><a href="#Check-list">Check-list for launching your project</a></li>
@@ -330,7 +332,7 @@ $(document).ready(function () {
 </div>
 <div id="getting-started" class="section level2">
 <h2>Getting started <a name="Getting_started"></a></h2>
-<p>A ‘repository’ is really just a fancy name for a project on GitHub. It is a place online where you can manage projects, store files, and openly collaborate with others, using version control to track projects as they progress. As such, GitHub is a powerful tool for both software and non-software projects.</p>
+<p>A ‘repository’ is really just a fancy name for a project on GitHub. GitHub is a place online where you can manage projects, store files, and openly collaborate with others, using version control to track projects as they progress. As such, GitHub is a powerful tool for both software and non-software projects.</p>
 <p>One of the most important things to consider at this stage is how the community will interact with your project. As you are working in the open, you want to make sure others feel comfortable in accessing, viewing, and engaging with your work. Setting up a repository in a way that lowers the barriers to entry, and the fear of being an ‘outsider’ is the first step towards maintaining a successful project.</p>
 <div id="setting-up-a-github-profile" class="section level3">
 <h3>Setting up a GitHub profile <a name="Profile"></a></h3>
@@ -363,10 +365,11 @@ $(document).ready(function () {
 <li><strong>Issue</strong>: Suggested improvements, tasks, or questions related to a repository.</li>
 </ul>
 <p>Whew! You can probably see how some of these are fairly similar to things like save, copy, paste - standard workflow operations, but adapted for a software management process. There are a <a href="https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitglossary.html">few more</a> too, but this should do for getting started.</p>
+<p>If you are interested, most of these terms come from the underlying <a href="https://git-scm.com">Git system</a>. Git was built to allow developers to manage different versions of source code in a distributed manner, which is great. It has lots of features and the ability to do lots of complex stuff, written by a <a href="https://www.linuxfoundation.org/blog/10-years-of-git-an-interview-with-git-creator-linus-torvalds/">very clever guy</a>. However, the <a href="https://xkcd.com/1597/">user interface was not designed with new users in mind</a>, so it can be hard to learn.</p>
 </div>
 <div id="creating-a-new-repository" class="section level3">
 <h3>Creating a new repository <a name="Create_new"></a></h3>
-<p>On your GitHub profile, click the ‘Create new repository’. The first step is to create a name to brand your project with. Ideally, it should be memorable and give some indication of what the project does.</p>
+<p>On your GitHub profile, click the ‘Create new repository’. The first step is to create a name as the brand for your project. Ideally, it should be memorable and give some indication of what the project does.</p>
 <p>Make sure not to duplicate names, infringe upon other trademarks, or name it anything that could be considered to be offensive.</p>
 </div>
 </div>
@@ -380,7 +383,7 @@ $(document).ready(function () {
 <li>A Code of Conduct</li>
 </ol>
 <p>These are critical aspects and best practices of any project for users to understand their legal rights, their expectations, the purpose of the project, and to improve the overall user experience.</p>
-<p>All four of these files should be kept in the root directory for your project repository. It is convention to use markdown file formats (.md) and capitalise all file names. Instead of spaces in file names, make sure to use underscores _ too.</p>
+<p>All four of these files should be kept in the root directory for your project repository. It is convention to use markdown file formats (.md) for most of these files (though the license file is most often plain text (.txt)), and capitalise all file names. Instead of spaces in file names, make sure to use underscores _ .</p>
 <div id="choosing-a-license" class="section level3">
 <h3>Choosing a license <a name="License"></a></h3>
 <p>Choosing an appropriate license is what will differentiate your Open Source repository from publicly available software. While you are not obliged to choose a license, doing so guarantees that others will be able to modify, share, re-use, and build upon your project within a legal framework.</p>
@@ -391,7 +394,7 @@ $(document).ready(function () {
 <li><strong>Apache License 2.0</strong>: Similar permissions to the MIT License, but also provides an express grant of patent rights from contributors to users.</li>
 <li><strong>GNU General Public License (GPL) v3</strong>: A <a href="https://en.wikipedia.org/wiki/Copyleft">copyleft</a> license that requires anyone who redistributes your code, or a derivative work, to make the source available under the same terms as the original license; also provides an express grant of patent rights from contributors to users.</li>
 </ul>
-<p>Thankfully, when you start a new repository on GitHub, you are given the option to select an existing license from a drop-down menu. +</p>
+<p>Thankfully, when you start a new repository on GitHub, you are given the option to select an existing license from a drop-down menu. You should always (with very few exceptions) use an existing license, since this is what potential users and contributors will see before they choose to use or contribute to your software.</p>
 <p>If they don’t have one you want, you can add one you like manually. To do this, simply click ‘Create new file’ in the repository, and copy and paste an existing license text in. Name the file something like ‘LICENSE.txt’ or ‘LICENSE.md’ to make it clear, and keep it in the main repository folder (i.e., the root). Make sure to add a clean commit message, and you’re done!</p>
 </div>
 <div id="creating-a-readme-file" class="section level3">
@@ -406,12 +409,12 @@ $(document).ready(function () {
 <li>Who can be contacted in case someone needs help.</li>
 <li>A link to the license, contributing guidelines, and code of conduct.</li>
 <li>A description of the project structure.</li>
-<li>Who is involved, and what their roles are.</li>
+<li>Who is involved, and what are their roles.</li>
 <li>The current status of the project.</li>
 </ul>
 <p>Remember that not everyone coming to your project will be an expert, or understand what it is you are doing and why. Having a well-documented README file will enhance the user experience for people with a range of prior knowledge.</p>
 <p>When the README file is included in the root directory, GitHub will automatically display this on the homepage of your repository. This means it is the first thing people will often see, so make it count!</p>
-<p>Later on as your project develops, you might want to add FAQS based on community feedback, or a tutorial to help users understand how your project works.</p>
+<p>Later on as your project develops, you might want to add FAQs based on community feedback, or a tutorial to help users understand how your project works.</p>
 </div>
 <div id="creating-contributing-guidelines" class="section level3">
 <h3>Creating contributing guidelines <a name="Contributing"></a></h3>
@@ -437,6 +440,11 @@ $(document).ready(function () {
 <p>To add a code of conduct, you can create your own from scratch by adding a new markdown file, or use existing templates such as the <a href="https://contributor-covenant.org/">Contributor Covenant</a>. Name your file CODE_OF_CONDUCT.md, and make sure it is visible in the README file.</p>
 <p>Making sure to enforce the code of conduct is important, as it shows that not only do you value the code, but you respect the influence that it has on your community. It is important to treat each member of the community with the respect, courtesy, and importance that they deserve. Should a violation occur, or a repeat offender makes consistent violations, it is best to refer to the <a href="https://opensource.guide/code-of-conduct/#enforcing-your-code-of-conduct">Open Source Guide</a> to see how to enforce the code of conduct.</p>
 </div>
+<div id="making-your-code-citable" class="section level3">
+<h3>Making your code citable <a name="Citation"></a></h3>
+<p>If you want to make your code citable from the start, you should store the metadata needed for a citation from the start, by creating a <a href="https://codemeta.github.io">codemeta.json</a> file or a <a href="https://citation-file-format.github.io">CITATION.cff</a> file. Both will allow tooling that is currently being developed to automatically create citation information, rather than asking you to type it in a form later.</p>
+<p>If you’re interested, <a href="https://cite.research-software.org">cite.research-software.org</a> provides further background information about software citation in academia.</p>
+</div>
 </div>
 <div id="keeping-your-issues-up-to-date" class="section level2">
 <h2>Keeping your issues up to date <a name="Issues"></a></h2>
@@ -455,11 +463,7 @@ $(document).ready(function () {
 <div id="checklist-for-launching-your-project" class="section level2">
 <h2>Checklist for launching your project <a name="Checklist"></a></h2>
 <p>So now you are ready to launch your project, begin advertising it, and getting contributions! Before continuing, make sure that you have:</p>
-<pre class="markdown"><code>- [ ] Project has a memorable and informative name
-- [ ] Project has a LICENSE file based on an Open Source license
-- [ ] Complete documentation including a README, CONTRIBUTING, and CODE_OF_CONDUCT files
-- [ ] Project has at least one clearly labelled issue
-- [ ] Any code included at this stage is clearly structured and annotated</code></pre>
+<p>[ ] Project has a memorable and informative name [ ] Project has a LICENSE file that is an exact copy of an Open Source license [ ] Complete documentation including a README, CONTRIBUTING, and CODE_OF_CONDUCT files [ ] Project has at least one clearly labelled issue [ ] Any code included at this stage is clearly structured and annotated</p>
 <p><strong>Congratulations</strong>, you have now launched an Open Source research project! Hopefully, from here on out, your work will act to benefit the wider community, forge new collaborations, and create new and fantastic opportunities for you all.</p>
 <p>From now on, it is all up to you! Some advice is to:</p>
 <ul>
