@@ -160,6 +160,8 @@ Making sure to enforce the code of conduct is important, as it shows that not on
 
 If you want to make your code citable from the start, you should store the metadata needed for a citation from the start, by creating a [codemeta.json](https://codemeta.github.io) file or a [CITATION.cff](https://citation-file-format.github.io) file. Both will allow tooling that is currently being developed to automatically create citation information, rather than asking you to type it in a form later.
 
+If you're interested, [cite.research-software.org](https://cite.research-software.org) provides further background information about software citation in academia.
+
 ## Keeping your issues up to date <a name="Issues"></a>
 
 Issues are not necessarily problems with a project, but also suggestions for improvement, things to develop in the future, and comments and feedback about the project to work through. They can be openly shared and discussed with contributors as needed, sort of like a forum.
