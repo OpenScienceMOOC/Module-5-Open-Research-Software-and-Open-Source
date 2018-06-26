@@ -8,9 +8,17 @@ Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC
 
 These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet.
 
+### In markdown format
+
 - [**MAIN CONTENT**](MAIN.md) - The main content for this Module.
 - [**TASK 1**](Task_1.Rmd) - How to set up a repository on GitHub.
 - [**TASK 2**](Task_2.Rmd) - How to make your code citable using GitHub and Zenodo.
+
+### In iPython notebook format
+
+- [**MAIN CONTENT**](MAIN.ipynb)
+- [**TASK 1**](Task_1.ipynb)
+- [**TASK 2**](Task_2.ipynb)
 
 ## Production files
 
