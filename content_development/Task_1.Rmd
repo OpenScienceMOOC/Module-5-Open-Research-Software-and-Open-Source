@@ -1,5 +1,7 @@
 # Task 1: How to set up a repository on GitHub
 
+This task is designed for researchers who want to create an Open Source project on GitHub.
+
 ## Table of contents
 
 * [Getting started](#Getting_started)
@@ -90,7 +92,7 @@ The three primary ones to choose from are:
 * **Apache License 2.0**: Similar permissions to the MIT License, but also provides an express grant of patent rights from contributors to users.
 * **GNU General Public License (GPL) v3**: A [copyleft](https://en.wikipedia.org/wiki/Copyleft) license that requires anyone who redistributes your code, or a derivative work, to make the source available under the same terms as the original license; also provides an express grant of patent rights from contributors to users.
 
-Thankfully, when you start a new repository on GitHub, you are given the option to select an existing license from a drop-down menu. +
+Thankfully, when you start a new repository on GitHub, you are given the option to select an existing license from a drop-down menu.
 
 If they don't have one you want, you can add one you like manually. To do this, simply click 'Create new file' in the repository, and copy and paste an existing license text in. Name the file something like 'LICENSE.txt' or 'LICENSE.md' to make it clear, and keep it in the main repository folder (i.e., the root). Make sure to add a clean commit message, and you're done!
 
