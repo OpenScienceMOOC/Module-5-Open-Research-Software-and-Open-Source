@@ -11,7 +11,9 @@ This task is designed for researchers who want to create and re-use GitHub-based
 - [Check repository settings](#Check)
 - [Create a new release](#Release)
 - [Getting a DOI](#DOI)
+- [Checklist for citing your project](#Checklist)
 - [Additional resources](#Resources)
+
 
 ## Set up a GitHub repository <a name="Setup"></a>
 
@@ -22,26 +24,32 @@ This stage should have already been completed as part of [Task 1](Task_1.Rmd) fo
 
 ## Choose your GitHub repository <a name="Choose"></a>
 
-Once on your GitHub page or project, head to the 'Repositories' tab.
+Once on your GitHub page or project, head to the 'Repositories' tab. Select which one you would like to archive, and open it up.
 
 
 ## Login to Zenodo <a name="Login"></a>
 
-If you already have a Zenodo account, this is easy. If not, follow the steps to create one - you can even login using your GitHub account to make things simpler.
+[Zenodo](https://zenodo.org/) is a platform where you can permanently archive your code and other project elements. It does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable. This is different to GitHub, which acts as a place where the actual work on a project takes place, rather than long-term archiving of it.
+
+If you already have a Zenodo account, this is easy. If not, follow the steps to create one - you can even login using your GitHub account to make things simpler, as Zenodo has a built in integration for it.
+
 
 ## Authorise GitHub <a name="Authorise"></a>
 
-Here, Zenodo will redirect you to GitHub to ask for permissions to use 'webhooks' on your repositores. You want to authorise Zenodo here with the permissions it needs to form those links.
+Here, Zenodo will redirect you to GitHub to ask for permissions to use '[webhooks](https://developer.github.com/webhooks/)' on your repositories. You want to authorise Zenodo here with the permissions it needs to form those links.
 
 If you are trying to give Zenodo access to an organisational repository, you (or an administrator) will need to make sure that Zenodo is granted third party access permissions. At this point, you also need to make sure that the repository is set to 'Public', not private.
+
 
 ## Select the repository to archive <a name="Archive"></a>
 
 If you have got this far, this means that Zenodo is now authorised to configure the repository webhooks that it needs to archive the repository and issue it a DOI. To do this, simply click the 'On' button next to your repository.
 
+
 ## Check repository settings <a name="Check"></a>
 
 Now you have set up a new webhook between Zenodo and your repository. In GitHub, click on the settings for your repository, and the Webhooks tab on the left hand side menu. This should display the new Zenodo webhook configured to Zenodo.
+
 
 ## Create a new release <a name="Release"></a>
 
@@ -51,17 +59,34 @@ For the first archived version of your repository, click 'Create a new release'.
 
 Finally, click 'Publish release', and your archive willl be published and versioned.
 
+
 ## Getting a DOI <a name="DOI"></a>
 
 This is sometimes referred to as DOI 'minting', and requires a couple of extra bits of information about the repository on Zenodo. Click the 'Upload' tab in the main menu at Zenodo, and your newly uploaded repository should be there. Fill in the extra information as needed, and then click 'Publish'.
 
+The GitHub/Zenodo integration will now assign a DOI to each version/release of a project repository. This enables users to refer to and cite specific versions of projects. Also, the list of authors for the citation is automatically determined by the contributors to the repository - this means no-one gets left out, and no-one gets 'gifted authorships'.
+
+*Pro-tip*: Copy the URL for the DOI into the README file for your GitHub repo to make cross-linking even easier.
+
+
 **Congratulations!!**
 
-Your GitHub repository is now archived, and with a DOI that can be versioned to reflect updates to the repository version through time. You should be able to see details of this on the GitHub Zenodo page for your repository.
+Your GitHub repository is now archived, and with a DOI that can be versioned to reflect updates to the repository version through time. You should be able to see details of this on the GitHub Zenodo page for your repository. This also means that your archived projects can get picked up by other indexing services that use DOIs too.
 
-Pro-tip: Copy the URL for the DOI into the README file for your GitHub repo to make cross-linking even easier.
+Providing a long-term archive and a DOI for your work is required for others to be able to properly cite it, as this provides basic citation metadata. For Open Science, it is important to be able to cite the software that you use in your research, and this integrated workflow enables that to happen, in line with best practices for research citation. Furthermore, this practice is important in elevating the standard of software (and related projects) to that of the standard of other research outputs.
 
-with a DOI reflecting that version. Congratulations!
+
+## Checklist for citing your project <a name="Checklist"></a>
+
+So now you are ready to launch your project, begin advertising it, and getting contributions! Before continuing, make sure that you have:
+
+```markdown
+- [ ] Project has a memorable and informative name
+- [ ] Project has a LICENSE file that is an exact copy of an Open Source license
+- [ ] Complete documentation including a README, CONTRIBUTING, and CODE_OF_CONDUCT files
+- [ ] Project has at least one clearly labelled issue
+- [ ] Any code included at this stage is clearly structured and annotated
+
 
 ### Additional resources <a name="Resources"></a>
 
