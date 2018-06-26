@@ -4,14 +4,21 @@ These are the main content development files for the MOOC module production.
 
 Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md) before making changes here.
 
-## Table of contents
+## Core content
+
+These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet.
+
+- [**MAIN CONTENT**](MAIN.md) - The main content for this Module.
+- [**TASK 1**](Task_1.Rmd) - How to set up a repository on GitHub.
+- [**Task 2**](Task_2.Rmd) - How to make your code citable using GitHub and Zenodo.
+
+## Production files
 
 1. [Plan](01-plan.md) 
 1. [Design](02-design.md)
 1. [Recording and editing](03-recording.md)
 1. [Internal reviewing](04-quizzes.md)
 
-[**MAIN CONTENT**](MAIN.md)
 
 ## Key resources from [production toolkit](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit)
 
