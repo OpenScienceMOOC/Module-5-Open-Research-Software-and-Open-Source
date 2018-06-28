@@ -11,8 +11,8 @@ These are the draft content files. The content in them is fully accessible, and 
 ### In markdown format
 
 - [**MAIN CONTENT**](MAIN.md) - The main content for this Module.
-- [**TASK 1**](Task_1.Rmd) - How to set up a repository on GitHub.
-- [**TASK 2**](Task_2.Rmd) - How to make your code citable using GitHub and Zenodo.
+- [**TASK 1**](Task_1.md) - How to set up a repository on GitHub.
+- [**TASK 2**](Task_2.md) - How to make your code citable using GitHub and Zenodo.
 
 ### In iPython notebook format
 

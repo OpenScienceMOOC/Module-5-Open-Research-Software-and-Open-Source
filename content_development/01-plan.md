@@ -64,7 +64,7 @@
       - [Ina Smith](https://twitter.com/ismonet)
       - [Coko Foundation](https://twitter.com/CokoFoundation)
       - [Google Open Source](https://twitter.com/GoogleOSS)
-      _ [Carl Malamud](https://twitter.com/carlmalamud)
+      - [Carl Malamud](https://twitter.com/carlmalamud)
       - [Code Is Science](https://twitter.com/codeisscience)
 
  - Organisations:
@@ -72,7 +72,7 @@
       - [Sustainable Software Institute](https://www.software.ac.uk/software-sustainability-institute)
       - [COKO Foundation](https://coko.foundation/)
       - [Free Software Foundation](https://www.fsf.org/licensing/)
-      - [WSSSPE community](hhttp://wssspe.researchcomputing.org.uk)
+      - [WSSSPE community](http://wssspe.researchcomputing.org.uk)
       - [Open Research Software](http://openresearchsoftware.metajnl.com)
       - [JOSS](http://joss.theoj.org)
       - [Free Software Foundation](https://www.fsf.org/)
