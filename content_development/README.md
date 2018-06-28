@@ -6,7 +6,7 @@ Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC
 
 ## Core content
 
-These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet.
+These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format.
 
 ### In markdown format
 
