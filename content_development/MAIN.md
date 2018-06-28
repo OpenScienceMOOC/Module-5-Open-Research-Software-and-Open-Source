@@ -111,7 +111,7 @@ Within OSS projects, there are typically three main formal roles:
 * Contributor; and
 * Committer.
 
-A *maintainer* is a user with 'commit' access to implement suggested changes to the project. They have responsibility for the direction and improvement of the project. A *contributor* is someone who directly adds value to the project through issue resolution, code writing, or even external activities such as communications and event organisation. A *committer* is someone who can make 'commits' to the project (see [Task 1](Task_1.Rmd)).
+A *maintainer* is a user with 'commit' access to implement suggested changes to the project. They have responsibility for the direction and improvement of the project. A *contributor* is someone who directly adds value to the project through issue resolution, code writing, or even external activities such as communications and event organisation. A *committer* is someone who can make 'commits' to the project (see [Task 1](Task_1.md)).
 
 Typically, roles are made public through either the README file, a Contributors file, or a separate team page for the project.
 
@@ -132,7 +132,7 @@ Version control is essentially a process that takes snapshots of the files in a 
 
 Other similar project hosting services include [BitBucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/), and [Launchpad](https://launchpad.net/).
 
-** NOTE: TASK 1 WILL BE HERE, Building a GitHub repository** [Task 1](Task_1.Rmd)
+** NOTE: TASK 1 WILL BE HERE, Building a GitHub repository** [Task 1](Task_1.md)
 
 
 ## Making good software for re-use <a name="Reuse"></a>
@@ -214,7 +214,7 @@ One of the more popular and useful functions of GitHub is the [issue tracker](ht
 A lot of researchers might typically be afraid of sharing code which is incomplete, buggy, or imperfect. However, in the OSS community, such a practice of sharing 'raw' code is fairly commonplace. Sharing code openly enables others to re-use and improve it, as well as to engage in a deeper way with any research associated with it. This is one of the fundamental aspects of peer-collaboration, perhaps best exemplified by the traditional process of research manuscript peer review.
 
 
-** NOTE: TASK 2, Linking GitHub and Zenodo** [Task 2](Task_2.Rmd)
+** NOTE: TASK 2, Linking GitHub and Zenodo** [Task 2](Task_2.md)
 
 
 ## Collaborating and contributing through Open Source <a name="Collaborating"></a>
