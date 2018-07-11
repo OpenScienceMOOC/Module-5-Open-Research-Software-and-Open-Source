@@ -8,7 +8,7 @@ Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC
 
 These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format.
 
-** IMPORTANT ** Please edit the markdown files, not the iPython files. These will be periodically converted and synchronised as needed.
+**IMPORTANT** Please edit the markdown files, not the iPython files. These will be periodically converted and synchronised as needed.
 
 ### In markdown format
 
