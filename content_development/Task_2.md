@@ -1,4 +1,4 @@
-# How to make your code citable using GitHub and Zenodo
+# Task 2: How to make your code citable using GitHub and Zenodo
 
 This task is designed for researchers who want to create and re-use GitHub-based repositories in the academic literature. 
 
