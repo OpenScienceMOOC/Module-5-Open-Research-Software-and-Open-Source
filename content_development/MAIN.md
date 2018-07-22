@@ -13,7 +13,7 @@
  - [Using GitHub and Zenodo](#GitHub_Zenodo)
  - [Collaborating through Open Source](#Collaborating)
  - [Where to go from here](#Future_OSS)
- 
+
 
 ## Introduction <a name="Introduction"></a>
 
@@ -81,7 +81,7 @@ The [Open Source Initiative](https://opensource.org/), one of the pioneers of OS
 
 Now, this all might be a little complex to remember. However, it can be summarised as making software as re-usable as possible for future works, while also being freely available. This principle of re-use is what separates OSS from 'Free Software'. Free and Open Source Software (FOSS) is an inclusive term to describe software that can be classified as both free and Open Source. A good example of FOSS is the [Ubuntu Linux](https://www.ubuntu.com/) operation system.
 
-The big difference between free software and OSS is that the former must distribute updated versions under the same license as the original, whereas newer versions of OSS can be distributed under different licenses. FOSS combines the best of both worlds. 
+The big difference between free software and OSS is that the former must distribute updated versions under the same license as the original, whereas newer versions of OSS can be distributed under different licenses. FOSS combines the best of both worlds.
 
 These definitions have now become widely adopted, both by international governments, as well as some large organisations such as the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) and the [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home).
 
@@ -99,7 +99,7 @@ There are a number of existing platforms and tools that support OSS and collabor
 
 ## The Open Source community and its governance <a name="OS_Community"></a>
 
-There are two main camps within the free software community: The free software movement, and the OSS movement. Both have differing ideologies based on user liberties and the practical applications of software. Often, the term 'FLOSS' is used to reconcile these two political camps, and means 'Free/Libre and Open Source Software'; Libre being French and Spanish for 'free' in the context of freedom. 
+There are two main camps within the free software community: The free software movement, and the OSS movement. Both have differing ideologies based on user liberties and the practical applications of software. Often, the term 'FLOSS' is used to reconcile these two political camps, and means 'Free/Libre and Open Source Software'; Libre being French and Spanish for 'free' in the context of freedom.
 
 Major organisations in the FLOSS space include the UK's [Software Sustainability Institute](https://www.software.ac.uk/),
 
@@ -137,14 +137,14 @@ Other similar project hosting services include [BitBucket](https://bitbucket.org
 
 ## Making good software for re-use <a name="Reuse"></a>
 
-The most likely person who might want to re-use your software in the future is...you! So while sharing is always better than not sharing, you can make your own life, and that of others, much easier through appropriate documentation. Documentation can include several things, such as including helpful comments and annotations in the code that help to explain why a particular action was performed, rather than what it is intended to achieve. 
+The most likely person who might want to re-use your software in the future is...you! So while sharing is always better than not sharing, you can make your own life, and that of others, much easier through appropriate documentation. Documentation can include several things, such as including helpful comments and annotations in the code that help to explain why a particular action was performed, rather than what it is intended to achieve.
 
 One of the most critical aspects of this is including an informative README file, that accompanies almost every OSS project, and some times even more than one. It can be a good practice to include one such file in every directory, that includes a list of files, a table of contents, and what the purpose of the directory is. The README file is typically just plain text or markdown (again, such as all of the ones for the MOOC!), and can include critical information for how to install and run software, previous dependencies and requirements, as well as tutorials or examples.
 
 The purpose here is to provide sufficient information to maximise the re-use and reproducibility of the computational environment, such that someone with no experience with the project can easily access and re-use the software ([Sandve et al., 2013](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Sandve%20et%20al.%2C%202013.PDF)). By lowering the barriers to entry, you increase the chances of others being able to re-use your work, which is one of the ultimate goals of OSS ([Ince et al., 2012](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Ince%20et%20al.%2C%202012.pdf)).
 
 An extension of this that can help to make things even easier for future re-use is container technology. Containers are like an ecosystem frozen in time, where the code, the data, any other dependencies, are all packaged and saved in the present functioning versions so that in the future any one can come in and run the analyses again. As such, they are generally good for re-use, but this can come at the sacrifice of modification or understanding by others, as often a lot of details can be hidden within the source code and its dependencies. Common examples of container implementation in research include [Rocker](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Boettiger%20and%20Eddelbuettel%2C%202017.pdf) (a Docker container for the R language), [Binder](https://mybinder.readthedocs.io/en/latest/), and [Code Ocean](https://codeocean.com/). Sustainable software is good software.
- 
+
 ### 10 simple rules for reproducible computational research
 
 The 10 simple rules for making computational research more reproducible, based on Sandve et al., (2013), are:
@@ -170,13 +170,13 @@ There are currently more than 1,400 unique Open Source licenses, a complexity bo
 
 Some of the more common licenses include:
 
-- [Berkeley Software Distribution ("BSD")](https://en.wikipedia.org/wiki/BSD_licenses);
-- [Apache](https://www.apache.org/licenses/LICENSE-2.0); 
-- [MIT-style (Massachusetts Institute of Technology)](https://opensource.org/licenses/MIT); or 
+- [Berkeley Software Distribution ("BSD")](https://en.wikipedia.org/wiki/BSD_licenses),
+- [Apache](https://www.apache.org/licenses/LICENSE-2.0),
+- [MIT-style (Massachusetts Institute of Technology)](https://opensource.org/licenses/MIT), or
 - [GNU General Public License ("GPL")](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 There are two ways in which contributions to a project become licensed:
-1. Explicitly, whereby the individual contribution has a clearly indicated license independent of the main project; or 
+1. Explicitly, whereby the individual contribution has a clearly indicated license independent of the main project; or
 2. Implicitly, whereby the contribution falls under the original licensing code of the main project.
 
 Thankfully, the process of selecting an Open Source license is relatively trivial, thanks to user-friendly tools such as [Choose A License](https://choosealicense.com/). Each of these licenses allows other users to use, copy, distribute, and build upon your work, often while ensuring that the creators are appropriately recognised for their work. Here, the key is selecting an appropriate license for your work, depending on what you want, or do not want, others to do with it.
@@ -186,13 +186,18 @@ Thankfully, the process of selecting an Open Source license is relatively trivia
 
 Citations provide one of the most important interactions in scholarly research, forming the basis of our referencing and metrics systems. Typically, this is performed thanks to the assistance of a permanent unique identifier such as a [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI). A DOI is a persistent identifier, implemented in the [Handle System](https://en.wikipedia.org/wiki/Handle_System), that meets a common standard, depending on the purpose, such as for identifying academic information. Such identification is critical for tracking the genealogy and provenance of research, for reproducibility, as well as for giving appropriate credit to those who have created the software. Importantly, software should be considered a legitimate output from scholarly research, and citation is becoming an increasingly common way to indicate that.
 
-In 2016, [Smith et al., 2016](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202016.pdf) wrote a research paper about the principles of software citation as part of the FORCE11 Software Citation Working Group. In the same way that you would want to cite software that you have used as part of good research practices, it is important to make your research easily citable too. When citing any software used for your own research, you should include at minimum the author name(s), software title, version number, and the unique identifier/locator (DOI or URL).
+In 2016, [Smith et al., 2016](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202016.pdf) wrote a research paper about the principles of software citation as part of the FORCE11 Software Citation Working Group. In the same way that you would want to cite software that you have used as part of good research practices, it is important to make your research easily citable too. When citing any software used for your own research, you should include at minimum:
+
+- the author name(s),
+- software title,
+- version number, and
+- the unique identifier/locator (DOI or URL).
 
 The principles provided by [Smith et al., 2016](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202016.pdf) are provided here:
 
 * **Importance**: Software should be considered a legitimate and citable product of research. Software citations should be accorded the same importance in the scholarly record as citations of other research products, such as publications and data; they should be included in the metadata of the citing work, for example in the reference list of a journal article, and should not be omitted or separated. Software should be cited on the same basis as any other research product such as a paper or a book, that is, authors should cite the appropriate set of software products just as they cite the appropriate set of papers.
 
-* **Credit** and attribution: Software citations should facilitate giving scholarly credit and normative, legal attribution to all contributors to the software, recognizing that a single style or mechanism of attribution may not be applicable to all software.
+* **Credit and attribution**: Software citations should facilitate giving scholarly credit and normative, legal attribution to all contributors to the software, recognizing that a single style or mechanism of attribution may not be applicable to all software.
 
 * **Unique identification**: A software citation should include a method for identification that is machine actionable, globally unique, interoperable, and recognized by at least a community of the corresponding domain experts, and preferably by general public researchers.
 
@@ -234,7 +239,7 @@ The learning outcomes from this should be:
 * You will be able to use a range of research tools that utilise OSS.
 * You will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
 
-However, the Open Source journey does not stop here! This was just the beginning, and there are some incredible resources out there if you would like to do or learn more: 
+However, the Open Source journey does not stop here! This was just the beginning, and there are some incredible resources out there if you would like to do or learn more:
 
 * If you feel particularly inspired by this, you can endorse the [Science Code Manifesto](http://sciencecodemanifesto.org/), which is based on the five principles of code, copyright, citation, credit, and curation.
 
@@ -275,4 +280,4 @@ However, the Open Source journey does not stop here! This was just the beginning
 - [Simon Worthington](https://twitter.com/mrchristian99), Book Liberationist, TIB, Germany.
 - [Paola Masuzzo](https://twitter.com/pcmasuzzo), Open Source Batman, Italy.
 - [Ivo Grigorov](https://twitter.com/OAforClimate), Open Source Robin, Denmark.
-- [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer. 
+- [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.
