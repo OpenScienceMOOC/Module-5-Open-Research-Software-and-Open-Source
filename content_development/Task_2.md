@@ -16,17 +16,17 @@ This task is designed for researchers who want to create and re-use GitHub-based
 
 ## Set up a GitHub repository <a name="Setup"></a>
 
-Pro-tip: Make sure to include a license and readme file in your repository. This will indicate to people the purpose of the project, and how they can engage with it in the future.
+Pro-tip: Make sure to include a LICENSE and README file in your repository. This will indicate to people the purpose of the project, and how they can engage with it in the future.
 
-This preceding stage can been completed as part of [Task 1: Building a GitHub repository](Task_1.Rmd) for this module 'Module 5: Open Research Software and Open Source'.
+Find out how to set up a GitHub repository in this other guide [Task 1: Building a GitHub repository](Task_1.Rmd) which is also part of 'Module 5: Open Research Software and Open Source'.
 
 ## Choose your GitHub repository <a name="Choose"></a>
 
-Once on your GitHub project setup, in the [github.com](https://github.com) website head to the 'Repositories' tab. Select which repository you would like to archive, and open it up.
+Once on your GitHub project listings page at [github.com](https://github.com) head to the 'Repositories' tab. Select which repository you would like to archive, and open it up.
 
 ## Login to Zenodo <a name="Login"></a>
 
-Now head over to [zenodo.org](https://zenodo.org). [Zenodo](https://zenodo.org/) is a platform where you can permanently archive your code and other project elements. Zenodo does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable. This is different to GitHub, which acts as a place where the actual work on a project takes place, rather than long-term archiving of it. At GitHub, content can be modfied, deleted, rewritten, and irreversably changed, which makes it a bit concerning to be used for longer lasting referencing purposes. Zenodo offers more security and permanence for research outputs.
+Now head over to [zenodo.org](https://zenodo.org). [Zenodo](https://zenodo.org/) is a platform where you can permanently archive your code and other project elements. Zenodo does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable. This is different to GitHub, which acts as a place where the actual work on a project takes place, rather than long-term archiving of it. At GitHub, content can be modified, deleted, rewritten, and irreversibly changed, which makes it a bit concerning to be used for longer lasting referencing purposes. Zenodo offers more security and permanence for research outputs.
 
 If you already have a Zenodo account, this is easy. If not, follow the steps to create one — you can even login using your GitHub account to make things simpler, as Zenodo has a built in integration for it. This might be easier than creating yet another research account and profile.
 
@@ -38,7 +38,7 @@ If you are trying to give Zenodo access to an organisational repository, you (or
 
 ## Select the repository to archive <a name="Archive"></a>
 
-If you have got this far, this means that Zenodo is now authorised to configure the repository webhooks that it needs to archive the repository and issue it a DOI. To do this, on the Zenodo website simply click the 'on' button next to your repository in the GitHub section.
+If you have got this far, this means that Zenodo is now authorised to configure the repository webhooks that it needs to archive the repository and issue it a DOI. To do this, on the Zenodo website navigate to the [GitHub repository listing page](https://zenodo.org/account/settings/github/) and simply click the 'on' button next to your repository.
 
 ## Check repository settings <a name="Check"></a>
 
@@ -50,17 +50,17 @@ The first time you archive a repository is known as the 'first release'. Each ti
 
 For the first archived version of your repository, click 'Create a new release'. Fill in the form and give some details as to what the release entails. For the first release, make sure to call it v1.0.0, as it standard practice.
 
-Finally, click 'publish release', and your archive will be published and versioned.
+Finally, click 'publish release', and your archive will be published and versioned on GitHub.
 
-To view your release on Zenodo you need to visit the '[Upload](https://zenodo.org/deposit)' tab.
+To view your release on Zenodo you need to visit the '[Upload](https://zenodo.org/deposit)' tab. To finish the archiving a few more details are needed on Zenodo.
 
 ## Getting a DOI <a name="DOI"></a>
 
-This is sometimes referred to as DOI 'minting', and requires a couple of extra bits of information about the repository on Zenodo. On Zenodo click the '[Upload](https://zenodo.org/deposit)' tab in the main menu, and your newly uploaded repository should be there. Scroll down the page and fill in the extra information as needed, and then click 'Publish'.
+This is sometimes referred to as DOI 'minting', and requires a couple of extra bits of information about the repository on Zenodo. On Zenodo click the '[Upload](https://zenodo.org/deposit)' tab in the main menu, and your newly uploaded repository should be there. Scroll down the page and fill in the extra information as needed, required fields are marked with a red asterisk, and then click 'Publish'.
 
 Note: Only after this extra information has been added will your DOI become live. It may also take a short time for the DOI to become active.
 
-The GitHub/Zenodo integration will now assign a DOI to each version/release of a project repository. This enables users to refer to and cite specific versions of projects. Also, the list of authors for the citation is automatically determined by the GitHub user account names used by the repository - this means no-one gets left out. Author details can be edited later on Zenodo. DOIs used in Zenodo are registered through the [DataCite](https://www.datacite.org/) service.
+The GitHub/Zenodo integration will now assign a DOI to each version/release of a project repository. This enables users to refer to and cite specific versions of projects. Also, the list of authors for the citation is automatically determined by the GitHub user account names used by the repository — this means no-one gets left out. Author details can be edited later on Zenodo. DOIs used in Zenodo are registered through the [DataCite](https://www.datacite.org/) service.
 
 *Pro-tip*: Copy the URL for the DOI into the README file for your GitHub repo to make cross-linking even easier, as well as present a clear highlighted DOI badge for users to see and make use of your DOI. You only need to do this once with your first release DOI as it acts as a 'concept DOI' and is linked to all subsequent release DOIs.
 
@@ -76,9 +76,9 @@ Providing a long-term archive and a DOI for your work is required for others to 
 
 So now you have a sustainably archived GitHub repository in Zenodo that is ready to be re-used and cited! Before continuing, make sure that you have:
 
-- [ ] Linked your GitHub project to Zenodo. If you see a complete copy of your GitHub repo in Zenodo then things are working.
-- [ ] Zenodo and GitHub integrated setup works nicely. For example have all the author names, and correct project title come across to Zenodo. If not, or if authors just have nicknames you can edit the names in Zenodo.
-- [ ] Project has a first release, with a DOI. You should have a DOI displayed on your projects Zenodo page. This first DOI is called the 'concept DOI' and is the master DOI linking to all subsequent release DOIs. Copy this DOI link and embed it in your GitHub projects README page. Your done!
+- [ ] Linked your GitHub project to Zenodo. If you see a complete copy of your GitHub repository in Zenodo then things are working.
+- [ ] Zenodo and GitHub integrated setup works nicely. For example have all the author names, and correct project title come across to Zenodo. If not, or if authors just have nicknames you can edit these details in Zenodo.
+- [ ] Project has a first release, with a DOI. You should have a DOI displayed on your projects Zenodo page. This first DOI is called the 'concept DOI' and is the master DOI linking to all subsequent release DOIs. Copy this DOI link and embed it in your GitHub projects README page. You're done!
 
 ### Additional resources <a name="Resources"></a>
 
