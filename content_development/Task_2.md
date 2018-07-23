@@ -16,7 +16,7 @@ This task is designed for researchers who want to create and re-use GitHub-based
 
 ## Set up a GitHub repository <a name="Setup"></a>
 
-Pro-tip: Make sure to include a LICENSE and README file in your repository. This will indicate to people the purpose of the project, and how they can engage with it in the future.
+> Pro-tip: Make sure to include a LICENSE and README file in your repository. This will indicate to people the purpose of the project, and how they can engage with it in the future.
 
 Find out how to set up a GitHub repository in this other guide [Task 1: Building a GitHub repository](Task_1.Rmd) which is also part of 'Module 5: Open Research Software and Open Source'.
 
@@ -62,7 +62,7 @@ Note: Only after this extra information has been added will your DOI become live
 
 The GitHub/Zenodo integration will now assign a DOI to each version/release of a project repository. This enables users to refer to and cite specific versions of projects. Also, the list of authors for the citation is automatically determined by the GitHub user account names used by the repository — this means no-one gets left out. Author details can be edited later on Zenodo. DOIs used in Zenodo are registered through the [DataCite](https://www.datacite.org/) service.
 
-*Pro-tip*: Copy the URL for the DOI into the README file for your GitHub repo to make cross-linking even easier, as well as present a clear highlighted DOI badge for users to see and make use of your DOI. You only need to do this once with your first release DOI as it acts as a 'concept DOI' and is linked to all subsequent release DOIs.
+>Pro-tip: Copy the URL for the DOI into the README file for your GitHub repo to make cross-linking even easier, as well as present a clear highlighted DOI badge for users to see and make use of your DOI. You only need to do this once with your first release DOI as it acts as a 'concept DOI' and is linked to all subsequent release DOIs.
 
 **Congratulations!!**
 
@@ -70,7 +70,7 @@ Your GitHub repository is now archived in Zenodo, and with a DOI that can be ver
 
 Providing a long-term archive and a DOI for your work is required for others to be able to properly cite it, as this provides basic citation metadata. For Open Science, it is important to be able to cite the software that you use in your research, and this integrated workflow enables that to happen, in line with best practices for research citation. Furthermore, this practice is important in elevating the standard of software (and related projects) to that of the standard of other research outputs.
 
-*Pro tip*: Is your research funded by an EU grant? Now you can directly connect your archived project to your grant by updating the grant section of the metadata on the project’s Zenodo record. This massively helps to increase its discoverability!
+> Pro-tip: Is your research funded by an EU grant? Now you can directly connect your archived project to your grant by updating the grant section of the metadata on the project’s Zenodo record. This massively helps to increase its discoverability!
 
 ## Checklist for citing your project <a name="Checklist"></a>
 
