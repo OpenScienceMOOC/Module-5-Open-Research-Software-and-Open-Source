@@ -82,6 +82,13 @@ These are critical aspects and best practices of any project for users to unders
 
 All four of these files should be kept in the root directory for your project repository. It is convention to use markdown file formats (.md) for most of these files (though the license file is most often plain text (.txt)), and capitalise all file names. Instead of spaces in file names, make sure to use underscores _ . 
 
+So you should end up with a foundational file selection like this:
+
+1. LICENSE.md
+1. README.md
+1. CONTRIBUTING.md
+1. CODE_OF_CONDUCT.md
+
 
 ### Choosing a license <a name="License"></a>
 
