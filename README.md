@@ -1,10 +1,10 @@
 # Module 5: Open Research Software and Open Source
 
-- [**Content Development**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development)
+- [**Content Development**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development) - This is where you can find all content currently being developed for the MOOc, and also contribute yourself.
 
-- [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit)
+- [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit) - This is where the basic protocols and outline for the module development are kept. It includes a tracking scheme as the content development progresses.
 
-Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/)! The channel for this module is #module5opensource.
+Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.github.io/site/Contact/).
 
 ## Table of Contents
 
@@ -36,6 +36,7 @@ Software and technology underpin modern science. There is an increasing demand f
 - [Simon Worthington](https://twitter.com/mrchristian99), Book Liberationist, TIB, Germany.
 - [Paola Masuzzo](https://twitter.com/pcmasuzzo), Open Source Batman, Italy.
 - [Ivo Grigorov](https://twitter.com/OAforClimate), Open Source Robin, Denmark.
+- [Jon Tennant](https://twitter.com/protohedgehog), Rogue scientist, World.
 
 
 ## Key documents <a name="Key_documents"></a>
