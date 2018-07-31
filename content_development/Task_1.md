@@ -124,6 +124,8 @@ If they don't have one you want, you can add one you like manually. To do this, 
 
 When you initialise your new repository, there should be an option to do so with a README file. Just like Alice in Wonderland, these do exactly what they say - provide key information about the project. These are typically the first thing outside contributors will see when they come to your repository, so making them informative and welcoming is key.
 
+![Part of the README file for this module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/readme.png)
+
 The file will originally be in markdown (.md) format. This is a lightweight markup language with a plain text format. To learn some basic markdown, see [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). But for now, we can just use plain text.
 
 There are several things you will want to include in your README file:
@@ -147,6 +149,8 @@ When the README file is included in the root directory, GitHub will automaticall
 ### Creating contributing guidelines <a name="Contributing"></a>
 
 Contributing guidelines are designed to communicate to potential contributors a short guide on how to engage with your project and community. You want to make sure to be welcoming, and indicate that you are eager for participants to engage with your project. Whenever a participant opens a new pull request or creates a new issue, they will see a link to your contribution file.
+
+![Part of the CONTRIBUTING file for this module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/contributing.png)
 
 Sticking with the all caps file names, the next step is to create a CONTRIBUTING file. Click 'Create new file', and make sure to save it in markdown format as before. This file will tell other users how they can engage with and participate in your project. This is the first step towards establishing a community around your project, so make it engaging, concise, and informative.
 
