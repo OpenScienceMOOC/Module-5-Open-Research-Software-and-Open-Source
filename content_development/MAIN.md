@@ -248,12 +248,12 @@ OSS projects rely heavily on volunteer collaboration, which often entails a cons
 
 Hopefully now you have come to see the importance of software as a cornerstone of modern science, and the importance that OSS plays in this.
 
-The learning outcomes from this should be:
+The **learning outcomes** from this should be:
 
-* You will be able to define the characteristics of OSS, and the ethical, legal, economic and research impact arguments for and against it.
-* Based on community standards, you will be able to describe the quality requirements of sharing and re-using open code.
-* You will be able to use a range of research tools that utilise OSS.
-* You will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
+1. You will now be able to define the characteristics of OSS, and the ethical, legal, economic and research impact arguments for and against it.
+2. Based on community standards, you will now be able to describe the quality requirements of sharing and re-using open code.
+3. You will now be able to use a range of research tools that utilise OSS.
+4. You will now be able to transform code designed for their personal use into code that is accessible and re-usable by others.
 
 However, the Open Source journey does not stop here! This was just the beginning, and there are some incredible resources out there if you would like to do or learn more:
 
