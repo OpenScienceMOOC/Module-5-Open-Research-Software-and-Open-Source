@@ -171,7 +171,11 @@ The 10 simple rules for making computational research more reproducible, based o
 9. Connect textual statements to underlying results.
 10. Provide public access to scripts, runs, and results.
 
-![10 simple rules for reproducible computational research](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/simple_rules.png) Infographic adapted from Sandve et al., (2013). Feel free to download this and keep handy during your research! 
+![10 simple rules for reproducible computational research](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/simple_rules.png) 
+
+<br/>
+
+Infographic adapted from Sandve et al., (2013). Feel free to download this to keep handy during your research!
 
 If you follow these steps, along with the processes in [**Task 1**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md) and [**Task 2**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md), you should be fine!
 
