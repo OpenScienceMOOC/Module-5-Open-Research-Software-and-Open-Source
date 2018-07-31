@@ -28,7 +28,7 @@ This module is designed primarily for computational researchers at the graduate 
 Software and technology underpin modern science, which is now almost inevitably computational to varying degrees. There is an ever-increasing demand for more sophisticated Open Source Software, matched by an increasing willingness for researchers to openly collaborate on new tools. The power of Open Source is in that it lowers the barriers to collaboration and adoption, therefore allowing ideas and technology to spread more rapidly. This Module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
 
 ![Open Source vs. Closed Source](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/open_research_software_open_source.png)
-Image by Patrick Hochstenbach (CC0 1.0 Universal) ([source]https://www.fosteropenscience.eu/trainers-materials)
+Image by Patrick Hochstenbach (CC0 1.0 Universal) ([source](https://www.fosteropenscience.eu/trainers-materials))
 
 ### **Specific learning outcomes for this Module**:
 
@@ -137,6 +137,10 @@ As mentioned [above](#What_OSS), LibreOffice provides an Open Source alternative
 [GitHub](https://github.com/) is a popular hosting site for both software and non-software content (often called 'notebooks'), with added capabilities for version control, project management and tracking, and storage services. GitHub is built on top of the OSS [Git](https://git-scm.com/), which enables users to work remotely to maintain, share, and collaborate on research software and other non-software based projects.
 
 Version control is essentially a process that takes snapshots of the files in a repository, and tracks modifications to them. It records when the changes were made, what they were, and who did them. If several people are working on one file at once, any overlapping changes are detected, and must be resolved prior to continuing. This provides a much more streamlined and automated process than manually saving and recording changes as projects develop. It also avoids the inevitable lists of confusing named file versions...
+
+For a lightning introduction to GitHub, including a simple working example, check the video below from GitHub On Demand (CC BY)!
+
+[![Intro to GitHub Lightning Video](https://img.youtube.com/vi/rXjtDj4mqIc/0.jpg)](https://www.youtube.com/watch?v=rXjtDj4mqIc)
 
 Other similar project hosting services include [BitBucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/), and [Launchpad](https://launchpad.net/).
 
