@@ -25,7 +25,7 @@ A 'repository' is really just a fancy name for a project on GitHub. GitHub is a 
 One of the most important things to consider at this early stage is to think about how you want the wider community to interact with your project. As you are working in the open, you want to make sure others feel comfortable in accessing, viewing, and engaging with your work. Setting up a repository in a way that lowers the barriers to entry, and the fear of being an 'outsider' is the first step towards maintaining a successful project.
 
 
-![Octocat, GitHub's little mascot](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/octocat.png =150x150) 
+![Octocat, GitHub's little mascot](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/octocat.png) 
 
 [(GitHub)](https://github.com/)
 
