@@ -25,6 +25,8 @@ Estimated time to complete: 30-45 minutes.
 
 <p align="center"><i>The workflow for Task 1. Keep this handy as you work through the task!</i></p>
 
+<br/>
+
 ## Getting started <a name="Getting_started"></a>
 
 A 'repository' is really just a fancy name for a project on GitHub. GitHub is a place online where you can manage projects, store files, and openly collaborate with others. This is all achieved by using version control to track projects as they progress. As such, GitHub is a powerful tool for both software and non-software projects.
@@ -37,6 +39,8 @@ One of the most important things to consider at this early stage is to think abo
 
 <p align="center"><i>Octocat, GitHub's little mascot</i></p>
 
+<br/>
+
 ### Setting up a GitHub profile <a name="Profile"></a>
 
 To set up a GitHub profile, simply head to the main page and click [Sign Up for GitHub](https://github.com/join). Here, you can create your personal account, with a username, email, and password as standard.
@@ -45,8 +49,11 @@ To set up a GitHub profile, simply head to the main page and click [Sign Up for 
 
 <p align="center"><i>Sign up for GitHub</i></p>
 
+<br/>
+
 The next step is to set up a personal plan. For now, simply select the 'Unlimited public repositories for free' plan, unless you are concerned about privacy, in which case select the private plan. If you intend to set up a project for an organisation, you can select that option too.
 
+<br/>
 
 ### The GitHub language <a name="Language"></a>
 
@@ -79,6 +86,7 @@ You can probably see how some of these are fairly similar to things like save, c
 
 If you are interested, most of these terms come from the underlying [Git system](https://git-scm.com). Git was built to allow developers to manage different versions of source code in a distributed manner, which is great. It has lots of features and the ability to do lots of complex stuff, written by a [very clever guy](https://www.linuxfoundation.org/blog/10-years-of-git-an-interview-with-git-creator-linus-torvalds/).  However, the [user interface was not designed with new users in mind](https://xkcd.com/1597/), so it can be hard to learn. 
 
+<br/>
 
 ### Creating a new repository <a name="Create_new"></a>
 
@@ -88,8 +96,11 @@ On your GitHub profile, click the 'Create new repository'. The first step is to 
 
 <p align="center"><i>Create a new repository</i></p>
 
+<br/>
+
 Make sure not to duplicate names, infringe upon other trademarks, or name it anything that could be considered to be offensive.
 
+<br/>
 
 ## The foundational steps <a name="Foundation"></a>
 
@@ -115,6 +126,8 @@ So you should end up with a foundational file selection like this:
 
 <p align="center"><i>The basic repository structure</i></p>
 
+<br/>
+
 ### Choosing a license <a name="License"></a>
 
 Choosing an appropriate license is what will differentiate your Open Source repository from publicly available software. While you are not obliged to choose a license, doing so guarantees that others will be able to modify, share, re-use, and build upon your project within a legal framework.
@@ -133,8 +146,11 @@ Thankfully, when you start a new repository on GitHub, you are given the option 
 
 <p align="center"><i>Choosing an example license</i></p>
 
+<br/>
+
 If they don't have one you want, you can add one you like manually. To do this, simply click 'Create new file' in the repository, and copy and paste an existing license text in. Name the file something like 'LICENSE.txt' or 'LICENSE.md' to make it clear, and keep it in the main repository folder (i.e., the root). Make sure to add a clean commit message, and you're done!
 
+<br/>
 
 ### Creating a README file <a name="Readme"></a>
 
@@ -143,6 +159,8 @@ When you initialise your new repository, there should be an option to do so with
 ![Part of the README file for this module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/readme.png)
 
 <p align="center"><i>Part of the README file for this module</i></p>
+
+<br/>
 
 The file will originally be in markdown (.md) format. This is a lightweight markup language with a plain text format. To learn some basic markdown, see [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). But for now, we can just use plain text.
 
@@ -163,6 +181,7 @@ When the README file is included in the root directory, GitHub will automaticall
 
 > **Pro-tip**: Later on as your project develops, you might want to add FAQs based on community feedback, or a tutorial to help users understand how your project works.
 
+<br/>
 
 ### Creating contributing guidelines <a name="Contributing"></a>
 
@@ -171,6 +190,8 @@ Contributing guidelines are designed to communicate to potential contributors a 
 ![Part of the CONTRIBUTING file for this module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/contributing.png)
 
 <p align="center"><i>Part of the CONTRIBUTING guidelines for this module</i></p>
+
+<br/>
 
 Sticking with the all caps file names, the next step is to create a CONTRIBUTING file. Click 'Create new file', and make sure to save it in markdown format as before. This file will tell other users how they can engage with and participate in your project. This is the first step towards establishing a community around your project, so make it engaging, concise, and informative.
 
@@ -188,6 +209,7 @@ Here, you are essentially trying to encourage people to volunteer their time to 
 
 > **Pro-tip**: Consider starting off with a short thank you note for people taking the time to consider contributing - they have clicked on the file to learn more after all! If there are other methods of recognition that you have in mind, make sure to include them in here too.
 
+<br/>
 
 ### Creating a Code of Conduct <a name="Conduct"></a>
 
@@ -203,14 +225,19 @@ To add a code of conduct, you can create your own from scratch by adding a new m
 
 <p align="center"><i>Part of the CODE OF CONDUCT file for this module, based on the Contributor Covenant</i></p>
 
+<br/>
+
 Making sure to enforce the code of conduct is important, as it shows that not only do you value the code, but you respect the influence that it has on your community. It is important to treat each member of the community with the respect, courtesy, and importance that they deserve. Should a violation occur, or a repeat offender makes consistent violations, it is best to refer to the [Open Source Guide](https://opensource.guide/code-of-conduct/#enforcing-your-code-of-conduct) to see how to enforce the code of conduct.
 
+<br/>
 
 ### Making your code citable <a name="Citation"></a>
 
 If you want to make your code citable from the start, you should store the metadata needed for a citation from the start, by creating a [codemeta.json](https://codemeta.github.io) file or a [CITATION.cff](https://citation-file-format.github.io) file. Both will allow tooling that is currently being developed to automatically create citation information, rather than asking you to type it in a form later.
 
 If you're interested, [cite.research-software.org](https://cite.research-software.org) provides further background information about software citation in academia.
+
+<br/>
 
 ## Keeping your issues up to date <a name="Issues"></a>
 
@@ -230,8 +257,11 @@ Key elements for issues include:
 
 <p align="center"><i>The issue tracker for the Open Scholarship Strategy project</i></p>
 
+<br/>
+
 Within issues it is possible to use @ mentions to notify other contirbutors about the issue, and to get the right people engaged in an effective manner. GitHub has an internal system of notifications, just like Facebook or Twitter, and can also send emails to people who are mentioned in the issue tracker. This can all be customised for individuals within the user settings.
 
+<br/>
 
 ## Checklist for launching your project <a name="Checklist"></a>
 
