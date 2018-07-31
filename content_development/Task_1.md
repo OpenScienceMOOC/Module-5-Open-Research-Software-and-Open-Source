@@ -1,6 +1,8 @@
 # Task 1: How to set up a repository on GitHub
 
-This task is designed for researchers who want to create an Open Source project on GitHub.
+This task is designed for students and researchers who want to create their first Open Source project (software or non-software) on GitHub.
+
+Estimated time to complete: 30-45 minutes.
 
 ## Table of contents
 
@@ -17,6 +19,9 @@ This task is designed for researchers who want to create an Open Source project 
 * [Keeping your issues up to date](#Issues)
 * [Check-list for launching your project](#Check-list)
 
+![Task 1 workflow](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/Task1.png)
+
+<p align="center"><i>The workflow for Task 1. Keep this handy as you work through the task!</i></p>
 
 ## Getting started <a name="Getting_started"></a>
 
@@ -36,7 +41,7 @@ To set up a GitHub profile, simply head to the main page and click [Sign Up for 
 
 ![Sign up for GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/github_signup.png)
 
-<p align="center">Sign up for GitHub</p>
+<p align="center"><i>Sign up for GitHub</i></p>
 
 The next step is to set up a personal plan. For now, simply select the 'Unlimited public repositories for free' plan, unless you are concerned about privacy, in which case select the private plan. If you intend to set up a project for an organisation, you can select that option too.
 
