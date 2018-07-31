@@ -16,6 +16,14 @@ Estimated time to complete: 45-60 minutes.
 - [Checklist for citing your project](#Checklist)
 - [Additional resources](#Resources)
 
+<p align="center">
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/Task2.png" alt="Task 2 workflow" width="600" height="861" style="margin-right: 30px; margin-left: 10px;" onmouseover="this.width='1200'; this.height='1722'" onmouseout="this.width='600'; this.height='861'">
+</p>
+
+<p align="center"><i>The workflow for Task 2. Keep this handy as you work through the task!</i></p>
+
+<br/>
+
 ## Set up a GitHub repository <a name="Setup"></a>
 
 > **Pro-tip**: Make sure to include a LICENSE and README file in your repository. This will indicate to people the purpose of the project, and how they can engage with it in the future.
