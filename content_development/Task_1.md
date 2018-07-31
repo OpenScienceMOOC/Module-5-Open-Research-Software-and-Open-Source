@@ -244,7 +244,9 @@ So now you are ready to launch your project, begin advertising it, and getting c
 - [ ] Any code included at this stage is clearly structured and annotated
 
 
-**Congratulations**, you have now launched an Open Source research project! Hopefully, from here on out, your work will act to benefit the wider community, forge new collaborations, and create new and fantastic opportunities for you all.
+**CONGRATULATIONS!** 
+
+You have now launched an Open Source research project! Hopefully, from here on out, your work will act to benefit the wider community, forge new collaborations, and create new and fantastic opportunities for you all.
 
 From now on, it is all up to you! Some advice is to:
 

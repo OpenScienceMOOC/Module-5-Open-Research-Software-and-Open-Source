@@ -2,6 +2,8 @@
 
 This task is designed for students and researchers who want to create and re-use GitHub-based projects/repositories in the academic literature.
 
+Estimated time to complete: 45-60 minutes.
+
 ## Table of contents
 - [Set up a GitHub repository](#Setup)
 - [Choose your GitHub repository](#Choose)
@@ -18,7 +20,7 @@ This task is designed for students and researchers who want to create and re-use
 
 > **Pro-tip**: Make sure to include a LICENSE and README file in your repository. This will indicate to people the purpose of the project, and how they can engage with it in the future.
 
-Find out how to set up a GitHub repository in this other guide [Task 1: Building a GitHub repository](Task_1.Rmd) which is also part of 'Module 5: Open Research Software and Open Source'.
+Find out how to set up a GitHub repository in this other guide [Task 1: Building a GitHub repository](Task_1.md) which is also part of 'Module 5: Open Research Software and Open Source'.
 
 ## Choose your GitHub repository <a name="Choose"></a>
 
@@ -28,11 +30,19 @@ Once on your GitHub project listings page at [github.com](https://github.com) he
 
 Now head over to [zenodo.org](https://zenodo.org). [Zenodo](https://zenodo.org/) is a platform where you can permanently archive your code and other project elements. Zenodo does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable. This is different to GitHub, which acts as a place where the actual work on a project takes place, rather than long-term archiving of it. At GitHub, content can be modified, deleted, rewritten, and irreversibly changed, which makes it a bit concerning to be used for longer lasting referencing purposes. Zenodo offers more security and permanence for research outputs.
 
-If you already have a Zenodo account, this is easy. If not, follow the steps to create one — you can even login using your GitHub account to make things simpler, as Zenodo has a built in integration for it. This might be easier than creating yet another research account and profile.
+![Sign up for Zenodo](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/zenodo.png)
+
+<p align="center"><i>Sign up for Zenodo</i></p>
+
+If you already have a Zenodo account, this is easy. If not, follow the steps to create one — you can even login using your GitHub account or ORCID profile to make things simpler, as Zenodo has a built in integration for it. This might be easier than creating yet another research account and profile.
 
 ## Authorise GitHub to connect with Zenodo <a name="Authorise"></a>
 
 On the Zenodo website authorise it to connect to your GitHub account in the '[Using GitHub](https://zenodo.org/account/settings/github/)' section. Here, Zenodo will redirect you to GitHub to ask for permissions to use '[webhooks](https://developer.github.com/webhooks/)' on your repositories. You want to authorise Zenodo here with the permissions it needs to form those links.
+
+![Authorize Zenodo to connect with GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/zenodo_github.png)
+
+<p align="center"><i>Authorize Zenodo to connect with GitHub</i></p>
 
 If you are trying to give Zenodo access to an organisational repository, you (or an administrator) will need to make sure that Zenodo is granted third party access permissions. GitHub will send an authorisation email that needs confirming. At this point, back in the settings of your repository on GitHub, you also need to make sure that the repository is set to 'public', not private.
 
@@ -40,31 +50,53 @@ If you are trying to give Zenodo access to an organisational repository, you (or
 
 If you have got this far, this means that Zenodo is now authorised to configure the repository webhooks that it needs to archive the repository and issue it a DOI. To do this, on the Zenodo website navigate to the [GitHub repository listing page](https://zenodo.org/account/settings/github/) and simply click the 'on' button next to your repository.
 
+![Enable individual GitHub repositories to be preserved in Zenodo](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/enable_repos.png)
+
+<p align="center"><i>Enable individual GitHub repositories to be preserved in Zenodo</i></p>
+
 ## Check repository settings <a name="Check"></a>
 
 Now you have set up a new webhook between Zenodo and your repository. In GitHub, click on the settings for your repository, and the Webhooks tab on the left hand side menu. This should display the new Zenodo webhook configured to Zenodo. Note, it may take a little time for the webhook listing to show up.
+
+![Check that webhooks are enabled for your GitHub repository](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/webhooks.png)
+
+<p align="center"><i>Check that webhooks are enabled for your GitHub repository. Example here using the Open Scholarship Strategy</i></p>
 
 ## Create a new release <a name="Release"></a>
 
 The first time you archive a repository is known as the 'first release'. Each time you create a new version of that repository and archive it, you create a new release. This can be tracked in the 'releases' tab for your repository on GitHub (top center).
 
-For the first archived version of your repository, click 'Create a new release'. Fill in the form and give some details as to what the release entails. For the first release, make sure to call it v1.0.0, as it standard practice.
+![Check that the repository first release was successful](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/first_release.png)
+
+<p align="center"><i>Check that the repository first release was successful. Example here using the Open Scholarship Strategy</i></p>
+
+For the first archived version of your repository, click 'Create a new release' back in Zenodo. Fill in the form and give some details as to what the release entails. For the first release, make sure to call it v1.0.0, as is standard practice.
+
+![Create a new release](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/create_release.png)
+
+<p align="center"><i>Create a new release. Example here using the Open Scholarship Strategy, for which a first release already exists</i></p>
 
 Finally, click 'publish release', and your archive will be published and versioned on GitHub.
 
-To view your release on Zenodo you need to visit the '[Upload](https://zenodo.org/deposit)' tab. To finish the archiving a few more details are needed on Zenodo.
+To view your release on Zenodo you need to visit the [Upload](https://zenodo.org/deposit) tab. To finish the archiving a few more details are needed on Zenodo.
+
+![Check release has been uploaded](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/upload_release.png)
+
+<p align="center"><i>Check the new release has been uploaded. Example here shown using the Open Scholarship Strategy</i></p>
 
 ## Getting a DOI <a name="DOI"></a>
 
-This is sometimes referred to as DOI 'minting', and requires a couple of extra bits of information about the repository on Zenodo. On Zenodo click the '[Upload](https://zenodo.org/deposit)' tab in the main menu, and your newly uploaded repository should be there. Scroll down the page and fill in the extra information as needed, required fields are marked with a red asterisk, and then click 'Publish'.
+This is sometimes referred to as DOI 'minting', and requires a couple of extra bits of information about the repository on Zenodo. On Zenodo click the [Upload](https://zenodo.org/deposit) tab in the main menu, and your newly uploaded repository should be there. Scroll down the page and fill in the extra information as needed, required fields are marked with a red asterisk, and then click 'Publish'.
 
-Note: Only after this extra information has been added will your DOI become live. It may also take a short time for the DOI to become active.
+**Note**: Only after this extra information has been added will your DOI become live. It may also take a short time for the DOI to become active. Example DOI shown below (for the Open Scholarship Strategy again).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1323437.svg)](https://doi.org/10.5281/zenodo.1323437)
 
 The GitHub/Zenodo integration will now assign a DOI to each version/release of a project repository. This enables users to refer to and cite specific versions of projects. Also, the list of authors for the citation is automatically determined by the GitHub user account names used by the repository - this means no-one gets left out. Author details can be edited later on Zenodo. DOIs used in Zenodo are registered through the [DataCite](https://www.datacite.org/) service.
 
 > **Pro-tip**: Copy the URL for the DOI into the README file for your GitHub repo to make cross-linking even easier, as well as present a clear highlighted DOI badge for users to see and make use of your DOI. You only need to do this once with your first release DOI as it acts as a 'concept DOI' and is linked to all subsequent release DOIs.
 
-**Congratulations!!**
+**CONGRATULATIONS!!**
 
 Your GitHub repository is now archived in Zenodo, and with a DOI that can be versioned to reflect updates to the repository version through time. You should be able to see details of this on the GitHub Zenodo page for your repository. This also means that your archived projects can get picked up by other indexing services and search engines that use DOIs too.
 
