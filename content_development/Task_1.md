@@ -25,14 +25,16 @@ A 'repository' is really just a fancy name for a project on GitHub. GitHub is a 
 One of the most important things to consider at this early stage is to think about how you want the wider community to interact with your project. As you are working in the open, you want to make sure others feel comfortable in accessing, viewing, and engaging with your work. Setting up a repository in a way that lowers the barriers to entry, and the fear of being an 'outsider' is the first step towards maintaining a successful project.
 
 
-![Octocat, GitHub's little mascot](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/octocat.png) [(GitHub)](https://github.com/)
+![Octocat, GitHub's little mascot](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/octocat.png =150x150) 
+
+[(GitHub)](https://github.com/)
 
 
 ### Setting up a GitHub profile <a name="Profile"></a>
 
 To set up a GitHub profile, simply head to the main page and click [Sign Up for GitHub](https://github.com/join). Here, you can create your personal account, with a username, email, and password as standard.
 
-![Sgn up for GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/github_signup.png)
+![Sign up for GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/github_signup.png "Sign up for GitHub")
 
 The next step is to set up a personal plan. For now, simply select the 'Unlimited public repositories for free' plan, unless you are concerned about privacy, in which case select the private plan. If you intend to set up a project for an organisation, you can select that option too.
 
@@ -179,6 +181,8 @@ A code of conduct not only provides expectations of behaviour, but also describe
 
 To add a code of conduct, you can create your own from scratch by adding a new markdown file, or use existing templates such as the [Contributor Covenant](https://contributor-covenant.org/). Name your file CODE_OF_CONDUCT.md, and make sure it is visible in the README file.
 
+![Part of the CODE OF CONDUCT file for this module, based on the Contributor Covenant](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/code_of_conduct.png)
+
 Making sure to enforce the code of conduct is important, as it shows that not only do you value the code, but you respect the influence that it has on your community. It is important to treat each member of the community with the respect, courtesy, and importance that they deserve. Should a violation occur, or a repeat offender makes consistent violations, it is best to refer to the [Open Source Guide](https://opensource.guide/code-of-conduct/#enforcing-your-code-of-conduct) to see how to enforce the code of conduct.
 
 
@@ -201,6 +205,8 @@ Key elements for issues include:
 * Milestones to associate issues with specific features or project phases;
 * Assignees indicate who is responsible for working on an issue;
 * Comments for providing feedback.
+
+![The issue tracker for the Open Scholarship Strategy project](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/issues.png) [source](https://open-scholarship-strategy.github.io/site/)
 
 Within issues it is possible to use @ mentions to notify other contirbutors about the issue, and to get the right people engaged in an effective manner. GitHub has an internal system of notifications, just like Facebook or Twitter, and can also send emails to people who are mentioned in the issue tracker. This can all be customised for individuals within the user settings.
 
