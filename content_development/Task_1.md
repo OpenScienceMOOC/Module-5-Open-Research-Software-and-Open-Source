@@ -79,7 +79,7 @@ On your GitHub profile, click the 'Create new repository'. The first step is to 
 
 ![Create a new repository](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/new_repo.png)
 
-<p align="center">*Create a new repository*</p>
+<p align="center"><i>Create a new repository</i></p>
 
 Make sure not to duplicate names, infringe upon other trademarks, or name it anything that could be considered to be offensive.
 
@@ -106,7 +106,7 @@ So you should end up with a foundational file selection like this:
 
 ![The basic repository structure](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/foundation.png)
 
-<p align="center">*The basic repository structure*</p>
+<p align="center"><i>The basic repository structure</i></p>
 
 ### Choosing a license <a name="License"></a>
 
@@ -124,7 +124,7 @@ Thankfully, when you start a new repository on GitHub, you are given the option 
 
 ![Choosing a license](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/license.png)
 
-<p align="center">*Choosing an example license*</p>
+<p align="center"><i>Choosing an example license</i></p>
 
 If they don't have one you want, you can add one you like manually. To do this, simply click 'Create new file' in the repository, and copy and paste an existing license text in. Name the file something like 'LICENSE.txt' or 'LICENSE.md' to make it clear, and keep it in the main repository folder (i.e., the root). Make sure to add a clean commit message, and you're done!
 
@@ -135,7 +135,7 @@ When you initialise your new repository, there should be an option to do so with
 
 ![Part of the README file for this module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/readme.png)
 
-<p align="center">*Part of the README file for this module*</p>
+<p align="center"><i>Part of the README file for this module</i></p>
 
 The file will originally be in markdown (.md) format. This is a lightweight markup language with a plain text format. To learn some basic markdown, see [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). But for now, we can just use plain text.
 
@@ -163,7 +163,7 @@ Contributing guidelines are designed to communicate to potential contributors a 
 
 ![Part of the CONTRIBUTING file for this module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/contributing.png)
 
-<p align="center">*Part of the CONTRIBUTING guidelines for this module*</p>
+<p align="center"><i>Part of the CONTRIBUTING guidelines for this module</i></p>
 
 Sticking with the all caps file names, the next step is to create a CONTRIBUTING file. Click 'Create new file', and make sure to save it in markdown format as before. This file will tell other users how they can engage with and participate in your project. This is the first step towards establishing a community around your project, so make it engaging, concise, and informative.
 
@@ -194,7 +194,7 @@ To add a code of conduct, you can create your own from scratch by adding a new m
 
 ![Part of the CODE OF CONDUCT file for this module, based on the Contributor Covenant](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/code_of_conduct.png)
 
-<p align="center">*Part of the CODE OF CONDUCT file for this module, based on the Contributor Covenant*</p>
+<p align="center"><i>Part of the CODE OF CONDUCT file for this module, based on the Contributor Covenant</i></p>
 
 Making sure to enforce the code of conduct is important, as it shows that not only do you value the code, but you respect the influence that it has on your community. It is important to treat each member of the community with the respect, courtesy, and importance that they deserve. Should a violation occur, or a repeat offender makes consistent violations, it is best to refer to the [Open Source Guide](https://opensource.guide/code-of-conduct/#enforcing-your-code-of-conduct) to see how to enforce the code of conduct.
 
@@ -221,7 +221,7 @@ Key elements for issues include:
 
 ![The issue tracker for the Open Scholarship Strategy project](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/issues.png) [source](https://open-scholarship-strategy.github.io/site/)
 
-<p align="center">*The issue tracker for the Open Scholarship Strategy project*</p>
+<p align="center"><i>The issue tracker for the Open Scholarship Strategy project</i></p>
 
 Within issues it is possible to use @ mentions to notify other contirbutors about the issue, and to get the right people engaged in an effective manner. GitHub has an internal system of notifications, just like Facebook or Twitter, and can also send emails to people who are mentioned in the issue tracker. This can all be customised for individuals within the user settings.
 
