@@ -28,7 +28,7 @@ One of the most important things to consider at this early stage is to think abo
   <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/octocat.png" width="150px" height="125px"/>
 </p>
 
-<p align="center">*Octocat, [GitHub's](https://github.com/) little mascot*</p>
+<p align="center"><i>Octocat, GitHub's little mascot</i></p>
 
 ### Setting up a GitHub profile <a name="Profile"></a>
 
@@ -36,7 +36,7 @@ To set up a GitHub profile, simply head to the main page and click [Sign Up for 
 
 ![Sign up for GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/github_signup.png)
 
-<p align="center">*Sign up for GitHub*</p>
+<p align="center">Sign up for GitHub</p>
 
 The next step is to set up a personal plan. For now, simply select the 'Unlimited public repositories for free' plan, unless you are concerned about privacy, in which case select the private plan. If you intend to set up a project for an organisation, you can select that option too.
 
