@@ -20,14 +20,19 @@ This task is designed for researchers who want to create an Open Source project 
 
 ## Getting started <a name="Getting_started"></a>
 
-A 'repository' is really just a fancy name for a project on GitHub. GitHub is a place online where you can manage projects, store files, and openly collaborate with others, using version control to track projects as they progress. As such, GitHub is a powerful tool for both software and non-software projects.
+A 'repository' is really just a fancy name for a project on GitHub. GitHub is a place online where you can manage projects, store files, and openly collaborate with others. This is all achieved by using version control to track projects as they progress. As such, GitHub is a powerful tool for both software and non-software projects.
 
-One of the most important things to consider at this stage is how the community will interact with your project. As you are working in the open, you want to make sure others feel comfortable in accessing, viewing, and engaging with your work. Setting up a repository in a way that lowers the barriers to entry, and the fear of being an 'outsider' is the first step towards maintaining a successful project.
+One of the most important things to consider at this early stage is to think about how you want the wider community to interact with your project. As you are working in the open, you want to make sure others feel comfortable in accessing, viewing, and engaging with your work. Setting up a repository in a way that lowers the barriers to entry, and the fear of being an 'outsider' is the first step towards maintaining a successful project.
+
+
+![Octocat, GitHub's little mascot](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/octocat.png) [(GitHub)](https://github.com/)
 
 
 ### Setting up a GitHub profile <a name="Profile"></a>
 
-To set up a GitHub profile, simply head to the main page and click [Sign Up](https://github.com/join). Here, you can create your personal account, with a username, email, and password as standard.
+To set up a GitHub profile, simply head to the main page and click [Sign Up for GitHub](https://github.com/join). Here, you can create your personal account, with a username, email, and password as standard.
+
+![Sgn up for GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/github_signup.png)
 
 The next step is to set up a personal plan. For now, simply select the 'Unlimited public repositories for free' plan, unless you are concerned about privacy, in which case select the private plan. If you intend to set up a project for an organisation, you can select that option too.
 
@@ -57,7 +62,9 @@ This is possibly the most confusing and off-putting aspect of GitHub. Here are s
 - **Pull request**: A request to merge an updated branch into the master branch.
 - **Issue**: Suggested improvements, tasks, or questions related to a repository.
 
-Whew! You can probably see how some of these are fairly similar to things like save, copy, paste - standard workflow operations, but adapted for a software management process. There are a [few more](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitglossary.html) too, but this should do for getting started.
+Whew! Don't worry about memorising *all* of these for now. Like any new skill, familiarity comes with experience.  
+
+You can probably see how some of these are fairly similar to things like save, copy, paste - standard workflow operations, but adapted for a software management process. There are a [few more](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitglossary.html) too, but this should do for getting started.
 
 If you are interested, most of these terms come from the underlying [Git system](https://git-scm.com). Git was built to allow developers to manage different versions of source code in a distributed manner, which is great. It has lots of features and the ability to do lots of complex stuff, written by a [very clever guy](https://www.linuxfoundation.org/blog/10-years-of-git-an-interview-with-git-creator-linus-torvalds/).  However, the [user interface was not designed with new users in mind](https://xkcd.com/1597/), so it can be hard to learn. 
 
@@ -66,6 +73,8 @@ If you are interested, most of these terms come from the underlying [Git system]
 
 On your GitHub profile, click the 'Create new repository'. The first step is to create a name as the brand for your project. Ideally, it should be memorable and give some indication of what the project does.
 
+![Create a new repository](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/new_repo.png)
+
 Make sure not to duplicate names, infringe upon other trademarks, or name it anything that could be considered to be offensive.
 
 
@@ -73,10 +82,10 @@ Make sure not to duplicate names, infringe upon other trademarks, or name it any
 
 Any GitHub repository requires 4 key elements to get started and to begin developing a welcoming community:
 
-1. An Open Source license
-1. A README file
-1. Contributing guidelines
-1. A Code of Conduct
+1. An Open Source license;
+2. A README file;
+3. Contributing guidelines; and
+4. A Code of Conduct.
 
 These are critical aspects and best practices of any project for users to understand their legal rights, their expectations, the purpose of the project, and to improve the overall user experience. 
 
@@ -85,9 +94,11 @@ All four of these files should be kept in the root directory for your project re
 So you should end up with a foundational file selection like this:
 
 1. LICENSE.md
-1. README.md
-1. CONTRIBUTING.md
-1. CODE_OF_CONDUCT.md
+2. README.md
+3. CONTRIBUTING.md
+4. CODE_OF_CONDUCT.md
+
+![The basic repository structure](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/foundation.png)
 
 
 ### Choosing a license <a name="License"></a>
@@ -103,6 +114,8 @@ The three primary ones to choose from are:
 * **GNU General Public License (GPL) v3**: A [copyleft](https://en.wikipedia.org/wiki/Copyleft) license that requires anyone who redistributes your code, or a derivative work, to make the source available under the same terms as the original license; also provides an express grant of patent rights from contributors to users.
 
 Thankfully, when you start a new repository on GitHub, you are given the option to select an existing license from a drop-down menu.  You should always (with very few exceptions) use an existing license, since this is what potential users and contributors will see before they choose to use or contribute to your software.
+
+![Choosing a license](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/license.png)
 
 If they don't have one you want, you can add one you like manually. To do this, simply click 'Create new file' in the repository, and copy and paste an existing license text in. Name the file something like 'LICENSE.txt' or 'LICENSE.md' to make it clear, and keep it in the main repository folder (i.e., the root). Make sure to add a clean commit message, and you're done!
 

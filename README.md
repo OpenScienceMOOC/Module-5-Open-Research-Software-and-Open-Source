@@ -1,5 +1,7 @@
 # Module 5: Open Research Software and Open Source
 
+Welcome to Module 5 of the Open Science MOOC! Here you can find important information on the development of the module, including the latest updates to the content.
+
 - [**Content Development**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development) - This is where you can find all content currently being developed for the MOOc, and also contribute yourself.
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit) - This is where the basic protocols and outline for the module development are kept. It includes a tracking scheme as the content development progresses.
