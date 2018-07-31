@@ -27,7 +27,7 @@ This module is designed primarily for computational researchers at the graduate 
 
 Software and technology underpin modern science, which is now almost inevitably computational to varying degrees. There is an ever-increasing demand for more sophisticated Open Source Software, matched by an increasing willingness for researchers to openly collaborate on new tools. The power of Open Source is in that it lowers the barriers to collaboration and adoption, therefore allowing ideas and technology to spread more rapidly. This Module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
 
-![Open Source vs. Closed Source](/images/open_research_software_open_source.png)
+![Open Source vs. Closed Source](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/open_research_software_open_source.png)
 Image by Patrick Hochstenbach (CC0 1.0 Universal) ([source]https://www.fosteropenscience.eu/trainers-materials)
 
 ### **Specific learning outcomes for this Module**:
