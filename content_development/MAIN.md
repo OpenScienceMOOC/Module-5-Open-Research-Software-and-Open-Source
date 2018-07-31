@@ -14,6 +14,9 @@
  - [Collaborating through Open Source](#Collaborating)
  - [Where to go from here](#Future_OSS)
 
+<style>
+body {text-align: justify}
+</style>
 
 ## Introduction <a name="Introduction"></a>
 
@@ -158,7 +161,7 @@ An extension of this that can help to make things even easier for future re-use 
 
 ### 10 simple rules for reproducible computational research
 
-The 10 simple rules for making computational research more reproducible, based on Sandve et al., (2013), are:
+The 10 simple rules for making computational research more reproducible, based on [Sandve et al., (2013)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Sandve%20et%20al.%2C%202013.PDF), are:
 
 1. For every result, keep track of how it was produced.
 2. Avoid manual data manipulation steps.
@@ -171,7 +174,10 @@ The 10 simple rules for making computational research more reproducible, based o
 9. Connect textual statements to underlying results.
 10. Provide public access to scripts, runs, and results.
 
-If you follow these steps, along with the processes in Task and Task 2, you should be fine!
+![10 simple rules for reproducible computational research](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/simple_rules.png)
+Infographic adapted from Sandve et al., (2013). Feel free to download this and keep handy during your research! 
+
+If you follow these steps, along with the processes in [**Task 1**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md) and [**Task 2**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md), you should be fine!
 
 ## Open Source licensing <a name="Licensing"></a>
 
@@ -204,7 +210,7 @@ In 2016, [Smith et al., 2016](https://github.com/OpenScienceMOOC/Module-5-Open-R
 - version number, and
 - the unique identifier/locator (DOI or URL).
 
-The six principles of software citation by [Smith et al., 2016](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202016.pdf) are provided here:
+The six principles of software citation by [Smith et al., (2016)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Smith%20et%20al.%2C%202016.pdf) are provided here:
 
 * **Importance**: Software should be considered a legitimate and citable product of research. Software citations should be accorded the same importance in the scholarly record as citations of other research products, such as publications and data; they should be included in the metadata of the citing work, for example in the reference list of a journal article, and should not be omitted or separated. Software should be cited on the same basis as any other research product such as a paper or a book, that is, authors should cite the appropriate set of software products just as they cite the appropriate set of papers.
 
@@ -218,7 +224,7 @@ The six principles of software citation by [Smith et al., 2016](https://github.c
 
 * **Specificity**: Software citations should facilitate identification of, and access to, the specific version of software that was used. Software identification should be as specific as necessary, such as using version numbers, revision numbers, or variants such as platforms.
 
-Note: For instructions on 'how to make your software citable' see the section **Using GitHub and Zenodo** and **Task 2: Linking GitHub and Zenodo**.
+Note: For instructions on 'how to make your software citable' see the section [**Using GitHub and Zenodo**](#GitHub_Zenodo) and [**Task 2: Linking GitHub and Zenodo**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md).
 
 ## Using GitHub and Zenodo <a name="GitHub_Zenodo"></a>
 
