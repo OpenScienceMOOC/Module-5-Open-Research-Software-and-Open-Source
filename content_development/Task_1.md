@@ -19,7 +19,9 @@ Estimated time to complete: 30-45 minutes.
 * [Keeping your issues up to date](#Issues)
 * [Check-list for launching your project](#Check-list)
 
-<img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/Task1.png" alt="Task 1 workflow" width="600" height="861" style="margin-right: 30px; margin-left: 10px;" onmouseover="this.width='1200'; this.height='1722'" onmouseout="this.width='600'; this.height='861'">
+<p align="center">
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/Task1.png" alt="Task 1 workflow" width="600" height="861" style="margin-right: 30px; margin-left: 10px;" onmouseover="this.width='1200'; this.height='1722'" onmouseout="this.width='600'; this.height='861'">
+</p>
 
 <p align="center"><i>The workflow for Task 1. Keep this handy as you work through the task!</i></p>
 
