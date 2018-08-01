@@ -29,7 +29,6 @@ Software and technology underpin modern science, which is now almost inevitably 
 
 <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/open_research_software_open_source.png" width="800" />
 
-![Open Source vs. Closed Source](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/open_research_software_open_source.png)
 Image by Patrick Hochstenbach (CC0 1.0 Universal) ([source](https://www.fosteropenscience.eu/trainers-materials))
 
 ### **Specific learning outcomes for this Module**:
