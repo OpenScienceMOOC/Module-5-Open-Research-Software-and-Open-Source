@@ -149,7 +149,7 @@ Version control is essentially a process that takes snapshots of the files in a 
 
 For a lightning introduction to GitHub, including a simple working example, check the video below from GitHub On Demand (CC BY)!
 
-<p align="center">[![Intro to GitHub Lightning Video](https://img.youtube.com/vi/rXjtDj4mqIc/0.jpg)](https://www.youtube.com/watch?v=rXjtDj4mqIc)</p>
+[![Intro to GitHub Lightning Video](https://img.youtube.com/vi/rXjtDj4mqIc/0.jpg)](https://www.youtube.com/watch?v=rXjtDj4mqIc)
 
 Other similar project hosting services include [BitBucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/), and [Launchpad](https://launchpad.net/).
 
