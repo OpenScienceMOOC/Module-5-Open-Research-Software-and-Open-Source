@@ -2,6 +2,14 @@
 
 Welcome to Module 5 of the Open Science MOOC! Here you can find important information on the development of the module, including the latest updates to the content.
 
+**STATUS**: The first release for this module is now ready, and has been published on Zenodo: 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
+
+To cite this work, please use the following:
+
+Tennant, J. et al. (01/08/2018) Open Science MOOC: Module 5, Open Research Software and Open Source (Version 1.0) Zenodo. [https://doi.org/10.5281/zenodo.1325081](https://zenodo.org/record/1325081#.W2GqGtL7RPY)
+
 - [**Content Development**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development) - This is where you can find all content currently being developed for the MOOc, and also contribute yourself.
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit) - This is where the basic protocols and outline for the module development are kept. It includes a tracking scheme as the content development progresses.
