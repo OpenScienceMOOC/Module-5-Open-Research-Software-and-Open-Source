@@ -33,13 +33,14 @@ Software and technology underpin modern science, which is now almost inevitably 
 
 <br/>
 
-### **Specific learning outcomes for this Module**:
+### **Specific learning objectives for this Module**:
 
-* You will be able to define the characteristics of Open Source research software, and the ethical, legal, economic and research impact arguments for and against it.
-* Based on community standards, you will be able to describe the quality requirements of sharing and re-using open code.
-* You will be able to use a range of research tools that utilise open source software.
-* You will be able to transform code designed for your personal use into code that is accessible and re-usable by others.
-* Software developers will be able to make their software citable, and software users will know how to cite the software they use.
+
+1. Learn the characteristics of open software; understand the **ethical, legal, economic, and research impact arguments for and against open software**, and further understand the quality requirements of open code.
+
+2. Be able to turn code made for personal use into open code which is accessible by others.
+
+3. Use software (tools) that utilizes open content.
 
 <br/>
 
@@ -276,6 +277,8 @@ The **learning outcomes** from this should be:
 2. Based on community standards, you will now be able to describe the quality requirements of sharing and re-using open code.
 3. You will now be able to use a range of research tools that utilise OSS.
 4. You will now be able to transform code designed for their personal use into code that is accessible and re-usable by others.
+5. Software developers will be able to make their software citable, and software users will know how to cite the software they use.
+
 
 However, the Open Source journey does not stop here! This was just the beginning, and there are some incredible resources out there if you would like to do or learn more:
 
