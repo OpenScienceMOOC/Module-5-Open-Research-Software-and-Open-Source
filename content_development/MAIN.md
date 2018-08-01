@@ -149,7 +149,7 @@ Version control is essentially a process that takes snapshots of the files in a 
 
 For a lightning introduction to GitHub, including a simple working example, check the video below from GitHub On Demand (CC BY)!
 
-[![Intro to GitHub Lightning Video](https://img.youtube.com/vi/rXjtDj4mqIc/0.jpg)](https://www.youtube.com/watch?v=rXjtDj4mqIc)
+<p align="center">[![Intro to GitHub Lightning Video](https://img.youtube.com/vi/rXjtDj4mqIc/0.jpg)](https://www.youtube.com/watch?v=rXjtDj4mqIc)</p>
 
 Other similar project hosting services include [BitBucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/), and [Launchpad](https://launchpad.net/).
 
@@ -184,7 +184,7 @@ The 10 simple rules for making computational research more reproducible, based o
 9. Connect textual statements to underlying results.
 10. Provide public access to scripts, runs, and results.
 
-<img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/simple_rules.png" width="800" align="center" />
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/simple_rules.png" width="800" /></p>
 
 <p align="center"><i>Infographic adapted from Sandve et al., (2013). Feel free to download this to keep handy during your research!</i></p>
 
