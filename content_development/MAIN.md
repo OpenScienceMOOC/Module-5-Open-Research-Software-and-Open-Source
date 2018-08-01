@@ -29,7 +29,9 @@ Software and technology underpin modern science, which is now almost inevitably 
 
 <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/open_research_software_open_source.png" width="800" />
 
-Image by Patrick Hochstenbach (CC0 1.0 Universal) ([source](https://www.fosteropenscience.eu/trainers-materials))
+<p align="center"><i>Image by Patrick Hochstenbach (CC0 1.0 Universal) ([source](https://www.fosteropenscience.eu/trainers-materials))</i></p>
+
+<br/>
 
 ### **Specific learning outcomes for this Module**:
 
@@ -39,6 +41,7 @@ Image by Patrick Hochstenbach (CC0 1.0 Universal) ([source](https://www.fosterop
 * You will be able to transform code designed for your personal use into code that is accessible and re-usable by others.
 * Software developers will be able to make their software citable, and software users will know how to cite the software they use.
 
+<br/>
 
 ## What is Open Source Software <a name="What_OSS"></a>
 
@@ -63,6 +66,7 @@ Commonly used OSS services include the [Mozilla Firefox](https://www.mozilla.org
 
 Some regard the OSS movement to represent a counter-movement to neoliberalism and privatisation, through defiance of regulations and norms in the construction and re-use of information, and a potential transformation of modern-day capitalism through making software abundantly available with minimal effort.
 
+<br/>
 
 ## Principles of Open Source Software <a name="Principles"></a>
 
@@ -94,7 +98,9 @@ The big difference between free software and OSS is that the former must distrib
 
 These definitions have now become widely adopted, both by international governments, as well as some large organisations such as the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) and the [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home).
 
-### An Open Source checklist
+<br/>
+
+## An Open Source checklist
 
 There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/es/02opensciencebasics/03openresearchsoftwareandopensource#knowledge) provides a check-list to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
 
@@ -105,6 +111,7 @@ There are a number of existing platforms and tools that support OSS and collabor
 * Is the full history of the source code available for inspection through a publicly available version history?
 * Are the dependencies of the software (hardware and software) described properly? Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
 
+<br/>
 
 ## The Open Source community and its governance <a name="OS_Community"></a>
 
@@ -124,6 +131,7 @@ A *maintainer* is a user with 'commit' access to implement suggested changes to 
 
 Typically, roles are made public through either the README file, a Contributors file, or a separate team page for the project.
 
+<br/>
 
 ## Existing platforms and tools for Open Source Software <a name="Platforms"></a>
 
@@ -145,7 +153,9 @@ For a lightning introduction to GitHub, including a simple working example, chec
 
 Other similar project hosting services include [BitBucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/), and [Launchpad](https://launchpad.net/).
 
-**[Task 1: Building a GitHub repository](Task_1.md)**
+**[GO TO TASK 1: Building your first GitHub repository](Task_1.md)**
+
+<br/>
 
 ## Making good software for re-use <a name="Reuse"></a>
 
@@ -157,7 +167,9 @@ The purpose here is to provide sufficient information to maximise the re-use and
 
 An extension of this that can help to make things even easier for future re-use is container technology. Containers are like an ecosystem frozen in time, where the code, the data, any other dependencies, are all packaged and saved in the present functioning versions so that in the future any one can come in and run the analyses again. As such, they are generally good for re-use, but this can come at the sacrifice of modification or understanding by others, as often a lot of details can be hidden within the source code and its dependencies. Common examples of container implementation in research include [Rocker](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Boettiger%20and%20Eddelbuettel%2C%202017.pdf) (a Docker container for the R language), [Binder](https://mybinder.readthedocs.io/en/latest/), and [Code Ocean](https://codeocean.com/). Sustainable software is good software.
 
-### 10 simple rules for reproducible computational research
+<br/>
+
+## 10 simple rules for reproducible computational research
 
 The 10 simple rules for making computational research more reproducible, based on [Sandve et al., (2013)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Sandve%20et%20al.%2C%202013.PDF), are:
 
@@ -172,13 +184,15 @@ The 10 simple rules for making computational research more reproducible, based o
 9. Connect textual statements to underlying results.
 10. Provide public access to scripts, runs, and results.
 
-![10 simple rules for reproducible computational research](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/simple_rules.png) 
+<img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/simple_rules.png" width="800" align="center" />
+
+<p align="center"><i>Infographic adapted from Sandve et al., (2013). Feel free to download this to keep handy during your research!</i></p>
 
 <br/>
 
-Infographic adapted from Sandve et al., (2013). Feel free to download this to keep handy during your research!
-
 If you follow these steps, along with the processes in [**Task 1**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md) and [**Task 2**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md), you should be fine!
+
+<br/>
 
 ## Open Source licensing <a name="Licensing"></a>
 
@@ -199,6 +213,7 @@ There are two ways in which contributions to a project become licensed:
 
 Thankfully, the process of selecting an Open Source license is relatively trivial, thanks to user-friendly tools such as [Choose A License](https://choosealicense.com/). Each of these licenses allows other users to use, copy, distribute, and build upon your work, often while ensuring that the creators are appropriately recognised for their work. Here, the key is selecting an appropriate license for your work, depending on what you want, or do not want, others to do with it.
 
+<br/>
 
 ## Software citation <a name="Citation"></a>
 
@@ -219,13 +234,15 @@ The six principles of software citation by [Smith et al., (2016)](https://github
 
 * **Unique identification**: A software citation should include a method for identification that is machine actionable, globally unique, interoperable, and recognized by at least a community of the corresponding domain experts, and preferably by general public researchers.
 
-* **Persistence**: Unique identifiers and metadata describing the software and its disposition should persist—even beyond the lifespan of the software they describe.
+* **Persistence**: Unique identifiers and metadata describing the software and its disposition should persist - even beyond the lifespan of the software they describe.
 
 * **Accessibility**: Software citations should facilitate access to the software itself and to its associated metadata, documentation, data, and other materials necessary for both humans and machines to make informed use of the referenced software.
 
 * **Specificity**: Software citations should facilitate identification of, and access to, the specific version of software that was used. Software identification should be as specific as necessary, such as using version numbers, revision numbers, or variants such as platforms.
 
 Note: For instructions on 'how to make your software citable' see the section [**Using GitHub and Zenodo**](#GitHub_Zenodo) and [**Task 2: Linking GitHub and Zenodo**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md).
+
+<br/>
 
 ## Using GitHub and Zenodo <a name="GitHub_Zenodo"></a>
 
@@ -237,13 +254,17 @@ One of the more popular and useful functions of GitHub is the [issue tracker](ht
 
 A lot of researchers might typically be afraid of sharing code which is incomplete, buggy, or imperfect. However, in the OSS community, such a practice of sharing 'raw' code is fairly commonplace. Sharing code openly enables others to re-use and improve it, as well as to engage in a deeper way with any research associated with it. This is one of the fundamental aspects of peer-collaboration, perhaps best exemplified by the traditional process of research manuscript peer review.
 
-**[Task 2: Linking GitHub and Zenodo](Task_2.md)**
+**[GO TO TASK 2: Linking GitHub and Zenodo](Task_2.md)**
+
+<br/>
 
 ## Collaborating and contributing through Open Source <a name="Collaborating"></a>
 
 Often, OSS is developed in a public, decentralised, collaborative manner between multiple contributors. The purpose of this is to enhance the diversity and scope of a project and its design, in order to become more beneficial and sustainable. Such an approach was famously likened to a 'bazaar' model by Eric Raymond, an early OSS proponent. One of the major guiding principles of this is that of peer production, which relies on self-organised communities to regulate the development of content, co-ordinated towards a shared goal or outcome.
 
 OSS projects rely heavily on volunteer collaboration, which often entails a constant flux of newcomers in order to become productive and sustainable ([Steinmacher et al., 2014](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Steinmacher%20et%20al.%2C%202014.pdf)). Creating the right social atmosphere for a project, and a welcoming engagement environment, are often critical to successful collaboraitons in OSS.
+
+<br/>
 
 ## Where to go from here <a name="Future_OSS"></a>
 
@@ -268,6 +289,7 @@ However, the Open Source journey does not stop here! This was just the beginning
 
 * More formalised journal venues also exist for software-based articles, including [The Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) and [The Journal of Open Source Software](https://joss.theoj.org/).  A list of such venues is also [available](https://www.software.ac.uk/which-journals-should-i-publish-my-software).
 
+<br/>
 
 ### Further reading <a name="Reading"></a>
 
@@ -288,6 +310,7 @@ However, the Open Source journey does not stop here! This was just the beginning
 * Four simple recommendations to encourage best practices in research software [(Jiménez et al., 2017)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Jim%C3%A9nez%20et%20al.%2C%202018.pdf).
 * Perspectives on Reproducibility and Sustainability of Open-Source Scientific Software from Seven Years of the Dedalus Project [(Oishi et al., 2018)](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Oishi%20et%20al.%2C%202018.pdf).
 
+<br/>
 
 ### Development Team <a name="Development_team"></a>
 
