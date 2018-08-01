@@ -45,7 +45,7 @@ One of the most important things to consider at this early stage is to think abo
 
 To set up a GitHub profile, simply head to the main page and click [Sign Up for GitHub](https://github.com/join). Here, you can create your personal account, with a username, email, and password as standard.
 
-![Sign up for GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/github_signup.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/github_signup.png" width="800" /></p>
 
 <p align="center"><i>Sign up for GitHub</i></p>
 
@@ -92,7 +92,7 @@ If you are interested, most of these terms come from the underlying [Git system]
 
 On your GitHub profile, click the 'Create new repository'. The first step is to create a name as the brand for your project. Ideally, it should be memorable and give some indication of what the project does.
 
-![Create a new repository](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/new_repo.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/new_repo.png" width="800" /></p>
 
 <p align="center"><i>Create a new repository</i></p>
 
@@ -122,7 +122,7 @@ So you should end up with a foundational file selection like this:
 3. CONTRIBUTING.md
 4. CODE_OF_CONDUCT.md
 
-![The basic repository structure](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/foundation.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/foundation.png" width="800" /></p>
 
 <p align="center"><i>The basic repository structure</i></p>
 
@@ -142,7 +142,7 @@ The three primary ones to choose from are:
 
 Thankfully, when you start a new repository on GitHub, you are given the option to select an existing license from a drop-down menu.  You should always (with very few exceptions) use an existing license, since this is what potential users and contributors will see before they choose to use or contribute to your software.
 
-![Choosing a license](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/license.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/license.png" width="800" /></p>
 
 <p align="center"><i>Choosing an example license</i></p>
 
@@ -156,7 +156,7 @@ If they don't have one you want, you can add one you like manually. To do this, 
 
 When you initialise your new repository, there should be an option to do so with a README file. Just like Alice in Wonderland, these do exactly what they say - provide key information about the project. These are typically the first thing outside contributors will see when they come to your repository, so making them informative and welcoming is key.
 
-![Part of the README file for this module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/readme.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/readme.png" width="800" /></p>
 
 <p align="center"><i>Part of the README file for this module</i></p>
 
@@ -187,7 +187,7 @@ When the README file is included in the root directory, GitHub will automaticall
 
 Contributing guidelines are designed to communicate to potential contributors a short guide on how to engage with your project and community. You want to make sure to be welcoming, and indicate that you are eager for participants to engage with your project. Whenever a participant opens a new pull request or creates a new issue, they will see a link to your contribution file.
 
-![Part of the CONTRIBUTING file for this module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/contributing.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/contributing.png" width="800" /></p>
 
 <p align="center"><i>Part of the CONTRIBUTING guidelines for this module</i></p>
 
@@ -221,7 +221,7 @@ A code of conduct not only provides expectations of behaviour, but also describe
 
 To add a code of conduct, you can create your own from scratch by adding a new markdown file, or use existing templates such as the [Contributor Covenant](https://contributor-covenant.org/). Name your file CODE_OF_CONDUCT.md, and make sure it is visible in the README file.
 
-![Part of the CODE OF CONDUCT file for this module, based on the Contributor Covenant](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/code_of_conduct.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/code_of_conduct.png" width="800" /></p>
 
 <p align="center"><i>Part of the CODE OF CONDUCT file for this module, based on the Contributor Covenant</i></p>
 
@@ -253,7 +253,7 @@ Key elements for issues include:
 * Assignees indicate who is responsible for working on an issue;
 * Comments for providing feedback.
 
-![The issue tracker for the Open Scholarship Strategy project](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/issues.png) [source](https://open-scholarship-strategy.github.io/site/)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/issues.png" width="800" /></p>
 
 <p align="center"><i>The issue tracker for the Open Scholarship Strategy project</i></p>
 

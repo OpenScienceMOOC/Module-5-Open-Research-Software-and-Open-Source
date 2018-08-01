@@ -40,7 +40,7 @@ Once on your GitHub project listings page at [github.com](https://github.com) he
 
 Now head over to [zenodo.org](https://zenodo.org). [Zenodo](https://zenodo.org/) is a platform where you can permanently archive your code and other project elements. Zenodo does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable. This is different to GitHub, which acts as a place where the actual work on a project takes place, rather than long-term archiving of it. At GitHub, content can be modified, deleted, rewritten, and irreversibly changed, which makes it a bit concerning to be used for longer lasting referencing purposes. Zenodo offers more security and permanence for research outputs.
 
-![Sign up for Zenodo](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/zenodo.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/zenodo.png" width="800" /></p>
 
 <p align="center"><i>Sign up for Zenodo</i></p>
 
@@ -54,7 +54,7 @@ If you already have a Zenodo account, this is easy. If not, follow the steps to 
 
 On the Zenodo website authorise it to connect to your GitHub account in the '[Using GitHub](https://zenodo.org/account/settings/github/)' section. Here, Zenodo will redirect you to GitHub to ask for permissions to use '[webhooks](https://developer.github.com/webhooks/)' on your repositories. You want to authorise Zenodo here with the permissions it needs to form those links.
 
-![Authorize Zenodo to connect with GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/zenodo_github.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/zenodo_github.png" width="800" /></p>
 
 <p align="center"><i>Authorize Zenodo to connect with GitHub</i></p>
 
@@ -68,7 +68,7 @@ If you are trying to give Zenodo access to an organisational repository, you (or
 
 If you have got this far, this means that Zenodo is now authorised to configure the repository webhooks that it needs to archive the repository and issue it a DOI. To do this, on the Zenodo website navigate to the [GitHub repository listing page](https://zenodo.org/account/settings/github/) and simply click the 'on' button next to your repository.
 
-![Enable individual GitHub repositories to be preserved in Zenodo](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/enabled_repos.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/enabled_repos.png" width="800" /></p>
 
 <p align="center"><i>Enable individual GitHub repositories to be preserved in Zenodo</i></p>
 
@@ -78,7 +78,7 @@ If you have got this far, this means that Zenodo is now authorised to configure 
 
 Now you have set up a new webhook between Zenodo and your repository. In GitHub, click on the settings for your repository, and the Webhooks tab on the left hand side menu. This should display the new Zenodo webhook configured to Zenodo. Note, it may take a little time for the webhook listing to show up.
 
-![Check that webhooks are enabled for your GitHub repository](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/webhooks.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/webhooks.png" width="800" /></p>
 
 <p align="center"><i>Check that webhooks are enabled for your GitHub repository. Example here using the Open Scholarship Strategy</i></p>
 
@@ -88,7 +88,7 @@ Now you have set up a new webhook between Zenodo and your repository. In GitHub,
 
 The first time you archive a repository is known as the 'first release'. Each time you create a new version of that repository and archive it, you create a new release. This can be tracked in the 'releases' tab for your repository on GitHub (top center).
 
-![Check that the repository first release was successful](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/first_release.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/first_release.png" width="800" /></p>
 
 <p align="center"><i>Check that the repository first release was successful. Example here using the Open Scholarship Strategy</i></p>
 
@@ -96,7 +96,7 @@ The first time you archive a repository is known as the 'first release'. Each ti
 
 For the first archived version of your repository, click 'Create a new release' back in Zenodo. Fill in the form and give some details as to what the release entails. For the first release, make sure to call it v1.0.0, as is standard practice.
 
-![Create a new release](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/create_release.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/create_release.png" width="800" /></p>
 
 <p align="center"><i>Create a new release. Example here using the Open Scholarship Strategy, for which a first release already exists</i></p>
 
@@ -106,7 +106,7 @@ Finally, click 'publish release', and your archive will be published and version
 
 To view your release on Zenodo you need to visit the [Upload](https://zenodo.org/deposit) tab. To finish the archiving a few more details are needed on Zenodo.
 
-![Check release has been uploaded](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/upload_release.png)
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/upload_release.png" width="800" /></p>
 
 <p align="center"><i>Check the new release has been uploaded. Example here shown using the Open Scholarship Strategy</i></p>
 
