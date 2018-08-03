@@ -26,6 +26,8 @@ These are the draft content files. The content in them is fully accessible, and 
 
 ### In iPython notebook format
 
+Note: These are best viewed in Juypter for full functionality, as opposed to the GitHub viewer. 
+
 - [**MAIN CONTENT**](MAIN.ipynb)
 - [**TASK 1**](Task_1.ipynb)
 - [**TASK 2**](Task_2.ipynb)
