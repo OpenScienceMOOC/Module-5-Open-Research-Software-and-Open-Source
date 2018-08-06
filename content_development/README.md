@@ -28,9 +28,9 @@ These are the draft content files. The content in them is fully accessible, and 
 
 Note: These are best viewed in Juypter for full functionality, as opposed to the GitHub viewer. 
 
-- [**MAIN CONTENT**](MAIN.ipynb)
-- [**TASK 1**](Task_1.ipynb)
-- [**TASK 2**](Task_2.ipynb)
+- [**MAIN CONTENT**](MAIN.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.ipynb) to view)
+- [**TASK 1**](Task_1.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.ipynb) to view)
+- [**TASK 2**](Task_2.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.ipynb) to view)
 
 ## Production files
 
