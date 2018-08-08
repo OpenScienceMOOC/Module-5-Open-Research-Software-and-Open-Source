@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Task 1: How to set up a repository on GitHub
 
 This task is designed for students and researchers who want to create their first Open Source project (software or non-software) on GitHub.
