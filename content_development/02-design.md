@@ -33,13 +33,13 @@
     - Task 2: Integrate a GitHub repo with Zenodo
    
    3. Find resources (video, illustrations, screencasts, podcasts, assignments, quizzes, presentations)
-    - TBC
+    - In prep
    
    4. Write concise, engaging video (and audio) scripts
-    - TBC
+    - In prep
    
    5. Review all learning resources, adjusting as needed
-    - TBC
+    - In prep
    
    6. Finalise all scripts
     - TBC

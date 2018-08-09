@@ -60,7 +60,7 @@
       - [Chris DiBona](https://twitter.com/cdibona)
       - [Arfon Smith](https://twitter.com/arfon)
       - [Jan Gondol](https://twitter.com/jangondol)
-      - [Konrad Förstner](https://twitter.com/konradfoerstner)
+      - [Konrad Foerstner](https://twitter.com/konradfoerstner)
       - [Ina Smith](https://twitter.com/ismonet)
       - [Coko Foundation](https://twitter.com/CokoFoundation)
       - [Google Open Source](https://twitter.com/GoogleOSS)

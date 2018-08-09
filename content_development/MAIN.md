@@ -12,6 +12,7 @@ output:
  - [Principles of Open Source Software](#Principles)
  - [The Open Source community, governance, and contributions](#OS_Community)
  - [Existing platforms and tools for Open Source Software](#Platforms)
+ - [Open Source Software used in research](#Research)
  - [Making good software for re-use](#Reuse)
  - [Open Source licensing](#Licensing)
  - [Software citation](#Citation)
@@ -135,11 +136,11 @@ Major organisations in the FLOSS space include the UK's [Software Sustainability
 
 Within OSS projects, there are typically three main formal roles:
 
-* Maintainer;
-* Contributor; and
-* Committer.
+* **Maintainer**;
+* **Contributor**; and
+* **Committer**.
 
-A *maintainer* is a user with 'commit' access to implement suggested changes to the project. They have responsibility for the direction and improvement of the project. A *contributor* is someone who directly adds value to the project through issue resolution, code writing, or even external activities such as communications and event organisation. A *committer* is someone who can make 'commits' to the project (see [Task 1](Task_1.md)).
+A **maintainer** is a user with 'commit' access to implement suggested changes to the project. They have responsibility for the direction and improvement of the project. A **contributor** is someone who directly adds value to the project through issue resolution, code writing, or even external activities such as communications and event organisation. A **committer** is someone who can make 'commits' to the project (see [Task 1](Task_1.md)).
 
 Typically, roles are made public through either the README file, a Contributors file, or a separate team page for the project.
 
@@ -168,6 +169,16 @@ Other similar project hosting services include [BitBucket](https://bitbucket.org
 **[GO TO TASK 1: Building your first GitHub repository](Task_1.md)**
 
 <br/>
+
+
+## Open Source Software used in research <a name="Research"></a>
+
+[THIS SECTION TBC]
+
+What we need to discuss here, I think, is actual open source software used in research, such as R and Rstudio, python tools, QGIS, basically all of the bioinformatics tools, etc. and point out the culture that surrounds them, where scientists develop tools and libraries, and publish them.
+
+<br/>
+
 
 ## Making good software for re-use <a name="Reuse"></a>
 
