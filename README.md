@@ -32,11 +32,11 @@ Software and technology underpin modern science. There is an increasing demand f
 
 ## Learning outcomes <a name="Learning_outcomes"></a>
 
-  - The researcher will be able to define the characteristics of open source research software, and the ethical, legal, economic and research impact arguments for and against it.
-  - Based on community standards, researchers will be able to describe the quality requirements of sharing and re-using open code.
-  - The researcher will be able to use a range of research tools that utilise open source software.
-  - Individual researchers will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
-  - Software developers will be able to make their software citable, and software users will know how to cite the software they use.
+- The researcher will be able to define the characteristics of open source research software, and the ethical, legal, economic and research impact arguments for and against it.
+- Based on community standards, researchers will be able to describe the quality requirements of sharing and re-using open code.
+- The researcher will be able to use a range of research tools that utilise open source software.
+- Individual researchers will be able to transform code designed for their personal use into code that is accessible and re-usable by others.
+- Software developers will be able to make their software citable, and software users will know how to cite the software they use.
 
 
 ## Development team <a name="Development_team"></a>
@@ -51,13 +51,13 @@ Software and technology underpin modern science. There is an increasing demand f
 
 ## Key documents <a name="Key_documents"></a>
 
-- [Contributing](CONTRIBUTING.md)
-- [Module design protocol](MODULE_DESIGN_PROTOCOL.md)
-- [Code of conduct](CODE_OF_CONDUCT.md)
-- [Key elements](key_elements.md)
-- [Reading material](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software)
+- [Contributing](CONTRIBUTING.md) - How to contribute to the development of this module.
+- [Module design protocol](MODULE_DESIGN_PROTOCOL.md) - The procedure for content development.
+- [Code of conduct](CODE_OF_CONDUCT.md) - The code of conduct that we expect contributors to adhere to.
+- [Key elements](key_elements.md) - Important reading materials and tools.
+- [Reading material](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software) - Specifically reports and peer reviewed papers.
 
-Pleaee note that all the reading materials are Open Access. Please do not upload articles which are paywalled or which are not openly licensed.
+Please note that all the reading materials are Open Access. Please do not upload articles which are paywalled or which are not openly licensed.
 
 
 ## Licenses <a name="Licenses"></a>
