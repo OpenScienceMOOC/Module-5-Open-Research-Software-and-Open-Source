@@ -23,21 +23,21 @@ output:
 
 ## Introduction <a name="Introduction"></a>
 
-Welcome to Module 5 of the Open Science MOOC: Open Research Software and Open Source. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-).
+Welcome to **Module 5 **of the Open Science MOOC: **Open Research Software and Open Source**. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-).
 
 ### Why should you take this module?
 
 [TO ADD: Introductory video]
 
-See [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/issues/8#issuecomment-411416069) for details.
+[NOTE - See [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/issues/8#issuecomment-411416069) for details.]
 
 ### Who is this module for?
 
-This module is designed primarily for computational researchers at the graduate and undergraduate level, as well as budding data scientists, and any other researcher who uses analytical code or software.
+This module is designed primarily for computational researchers at the graduate and undergraduate level, as well as budding data scientists and any other researcher who uses analytical code or software. In a modern day research environment, this covers pretty much anyone who uses a computer.
 
-> "An article about computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result." (J. Buckheit and D. L. Donoho, 1995)
+> "An article about computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result." - J. Buckheit and D. L. Donoho, 1995.
 
-Software and technology underpin modern science, which is now almost inevitably computational to varying degrees. There is an ever-increasing demand for more sophisticated Open Source Software, matched by an increasing willingness for researchers to openly collaborate on new tools. The power of Open Source is in that it lowers the barriers to collaboration and adoption, therefore allowing ideas and technology to spread more rapidly. This Module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
+Software and technology underpin much of modern science, which is now almost inevitably computational in one way or another - search engines, social networking platforms, analytical software, digital publishing. With this, tThere is an ever-increasing demand for more sophisticated Open Source Software, matched by an increasing willingness for researchers to openly collaborate on new tools. The power of Open Source is in that it lowers the barriers to collaboration and adoption, therefore allowing ideas and technology to spread more rapidly. This Module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
 
 <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/open_research_software_open_source.png" width="800" />
 
@@ -130,7 +130,7 @@ There are a number of existing platforms and tools that support OSS and collabor
 
 There are two main camps within the free software community: The free software movement, and the OSS movement. Both have differing ideologies based on user liberties and the practical applications of software. Often, the term 'FLOSS' is used to reconcile these two political camps, and means 'Free/Libre and Open Source Software'; Libre being French and Spanish for 'free' in the context of freedom.
 
-Major organisations in the FLOSS space include the UK's [Software Sustainability Institute](https://www.software.ac.uk/),
+Major organisations in the FLOSS space include the UK's [Software Sustainability Institute](https://www.software.ac.uk/), who produce valuable resources such as their recent [Software Deposit Guidance for Researchers](https://softwaresaved.github.io/software-deposit-guidance/).
 
 ### For individual projects
 
