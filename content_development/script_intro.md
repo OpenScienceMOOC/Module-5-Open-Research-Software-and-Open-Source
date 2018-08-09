@@ -1,4 +1,4 @@
-Script template
+Script
 ===============
 
 Course title: Open Science MOOC
