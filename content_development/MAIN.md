@@ -23,7 +23,7 @@ output:
 
 ## Introduction <a name="Introduction"></a>
 
-Welcome to **Module 5 **of the Open Science MOOC: **Open Research Software and Open Source**. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-).
+Welcome to **Module 5** of the Open Science MOOC: **Open Research Software and Open Source**. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-).
 
 ### Why should you take this module?
 
@@ -37,7 +37,7 @@ This module is designed primarily for computational researchers at the graduate 
 
 > "An article about computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result." - J. Buckheit and D. L. Donoho, 1995.
 
-Software and technology underpin much of modern science, which is now almost inevitably computational in one way or another - search engines, social networking platforms, analytical software, digital publishing. With this, tThere is an ever-increasing demand for more sophisticated Open Source Software, matched by an increasing willingness for researchers to openly collaborate on new tools. The power of Open Source is in that it lowers the barriers to collaboration and adoption, therefore allowing ideas and technology to spread more rapidly. This Module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
+Software and technology underpin much of modern science, which is now almost inevitably computational in one way or another - search engines, social networking platforms, analytical software, digital publishing. With this, there is an ever-increasing demand for more sophisticated Open Source Software, matched by an increasing willingness for researchers to openly collaborate on new tools. The power of Open Source is in that it lowers the barriers to collaboration and adoption, therefore allowing ideas and technology to spread more rapidly. This Module will introduce the necessary tools required for transforming software into something that can be openly accessed and re-used by others.
 
 <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/open_research_software_open_source.png" width="800" />
 
