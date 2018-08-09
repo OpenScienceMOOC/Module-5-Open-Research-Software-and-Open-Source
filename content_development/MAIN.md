@@ -24,6 +24,12 @@ output:
 
 Welcome to Module 5 of the Open Science MOOC: Open Research Software and Open Source. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-).
 
+### Why should you take this module?
+
+[TO ADD: Introductory video]
+
+See [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/issues/8#issuecomment-411416069) for details.
+
 ### Who is this module for?
 
 This module is designed primarily for computational researchers at the graduate and undergraduate level, as well as budding data scientists, and any other researcher who uses analytical code or software.
