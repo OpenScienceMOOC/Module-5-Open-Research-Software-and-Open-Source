@@ -187,6 +187,23 @@ Tools such as R and python are essentially software for writing software. Althou
 Lastly, open source software is also used in scientific research for reasons that more closely mirror those that drive the adoption of OSS in wider society, namely that it is cheap. For example, individuals or organizations might decide to switch from Microsoft Office to LibreOffice for manuscript writing or spreadsheet processing because the latter is free (both as in 'free beer' and 'free speech'). Likewise, the choice to switch from ArcGIS to [QGIS](https://www.qgis.org/en/site/) for the analysis of geographic information might be prompted simply by cost considerations.
 <br/>
 
+## Getting Started with OSS - FAQ
+**I'm using X[e.g. Matlab,STATA,Excel] and I want to transition to something more open. What are the next steps?**  
+Even if you are using proprietary software, you can usually still share your source code/documents etc. *The best first step is sharing whatever you can*.  
+**Great! I can put them in my new github repo.**  
+
+ If that's enough for you for now great! If not for most pieces of proprietary software there are Open Source equivalents. Have a go with one and see what you think.  
+
+| Closed | Open |
+| --- | --- |
+| Matlab | Python, Julia |
+| STATA/SPSS | R |
+| MS Office | Libre Office |
+| Mathematica | JupyterLab |
+| Test out your new [Pull Request -PR-](https://help.github.com/articles/about-pull-requests/) Skills ... | ... by adding your own example [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.md) |
+
+**Cool! But if I make the switch will I be stuck: taking ages to learn a new tool/ without support /with buggy software.**  
+Good question! The answer is it depends. The best thing to do is find someone who's made the switch before and learn from their experience. Or just do a google search! Some OSS is much better than their closed counterparts, some aren't, so it's worth choosing carefully.  
 
 ## Making good software for re-use <a name="Reuse"></a>
 
