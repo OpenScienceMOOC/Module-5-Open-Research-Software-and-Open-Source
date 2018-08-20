@@ -9,11 +9,15 @@ Video title: Why Open Source is important to researchers
 
 Location: Dependent on presenter
 
+Recording device: Depending on what is available, either webcam, mobile phone, or camera. If Jon can get to you on location, then we can use professional equipment.
+
 Proposed style: Monologue
 
 Content visualisations: None (optional)
 
 Format: Informal, outside of classroom/lab
+
+Opening: MOOC main logo, MOOC module logo, title of this video.
 
 Presenters:
 
