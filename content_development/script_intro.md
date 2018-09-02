@@ -80,14 +80,14 @@ Hopefully, by the end of the module, you will be able to apply these skills and 
 * Edit videos together for continuity
 * Add statements between presenters in middle parts if needed *or* add a brief pause with a slide of information between each presenter (name, discipline, software name, affiliation)
 
-## Copyright statement
+## Licensing statement
 
 I/we grant the Open Science MOOC the right to re-use the content that
 I/we provide for the project. Specifically, I/we give permission to:
 
 -   Use the material for educational purposes for the project
 
--   Publish the educational videos to the MOOC platform, and share any
+-   Publish the educational videos to the MOOC platform(s), and share any
     relevant ones on social media
 
 -   Release the content under a Creative Commons CC BY 4.0
