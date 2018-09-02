@@ -5,7 +5,7 @@ output:
 ---
 # Task 1: How to set up a repository on GitHub
 
-This task is designed for students and researchers who want to create their first Open Source project (software or non-software) on GitHub. GitHub is really a place for you to come and play and experiment with new research workflows, and is really just the beginning to help set the stage for your own pathways and ideas.
+This task is designed for students and researchers who want to create their first Open Source project (software or non-software) on GitHub. GitHub is a place for you to come and play and experiment with new research workflows, and is really just the beginning to help set the stage for your own pathways and ideas.
 
 Estimated time to complete: 30-45 minutes.
 
