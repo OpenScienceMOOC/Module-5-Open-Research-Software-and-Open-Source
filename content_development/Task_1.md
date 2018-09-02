@@ -5,9 +5,11 @@ output:
 ---
 # Task 1: How to set up a repository on GitHub
 
-This task is designed for students and researchers who want to create their first Open Source project (software or non-software) on GitHub.
+This task is designed for students and researchers who want to create their first Open Source project (software or non-software) on GitHub. GitHub is really a place for you to come and play and experiment with new research workflows, and is really just the beginning to help set the stage for your own pathways and ideas.
 
 Estimated time to complete: 30-45 minutes.
+
+Estimate time saving once complete: Unimaginable..
 
 ## Table of contents
 
@@ -281,7 +283,7 @@ So now you are ready to launch your project, begin advertising it, and getting c
 
 **CONGRATULATIONS!** 
 
-You have now launched an Open Source research project! Hopefully, from here on out, your work will act to benefit the wider community, forge new collaborations, and create new and fantastic opportunities for you all.
+You have now launched an Open Source research project! Hopefully, from here on out, your work will act to benefit the wider community, forge new collaborations, and create new and fantastic opportunities for you all. Try and think about ways in which these skills can be applied to future projects, and how they might also have helped with some in the past.
 
 From now on, it is all up to you! Some advice is to:
 
@@ -293,3 +295,7 @@ From now on, it is all up to you! Some advice is to:
 * Make use of the description and tag functions;
 * Don't fork someone else's repository unless you intend to work on them;
 * Make sure to contribute to other people's projects too.
+
+**Know a way this content can be improved?**
+
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md). If you have a suggsted improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator! 

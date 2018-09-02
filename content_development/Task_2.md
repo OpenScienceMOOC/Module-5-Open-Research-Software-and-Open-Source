@@ -153,3 +153,7 @@ So now you have a sustainably archived GitHub repository in Zenodo that is ready
 ### Additional resources <a name="Resources"></a>
 
 [Making your code citable](https://guides.github.com/activities/citable-code/) - GitHub Guides.
+
+**Know a way this content can be improved?**
+
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md). If you have a suggsted improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator! 

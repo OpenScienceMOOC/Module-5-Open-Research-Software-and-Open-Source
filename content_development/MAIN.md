@@ -24,7 +24,11 @@ output:
 
 ## Introduction <a name="Introduction"></a>
 
-Welcome to **Module 5** of the Open Science MOOC: **Open Research Software and Open Source**. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-).
+Welcome to **Module 5** of the Open Science MOOC: **Open Research Software and Open Source**. 
+
+This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-). Everything you see here has been developed in the open through interactive feedback and collaboration from the wider community. It comprises a series of videos, infographics, text-based reading (sorry), and practical tasks for you to sink you teeth into.
+
+Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself, and tell us a bit about who you are, your background, and how you ended up here!
 
 ### Why should you take this module?
 
@@ -405,3 +409,7 @@ However, the Open Source journey does not stop here! This was just the beginning
 - [Ivo Grigorov](https://twitter.com/OAforClimate), Open Source Robin, Denmark.
 - [Rutger Vos](https://twitter.com/rvosa), Open Sourceror, Naturalis Biodiversity Center, the Netherlands.
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.
+
+**Know a way this content can be improved?**
+
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.md). If you have a suggsted improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator! 
