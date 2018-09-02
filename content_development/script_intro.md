@@ -1,11 +1,11 @@
 Script
 ===============
 
-Course title: Open Science MOOC
+Course title: **Open Science MOOC**
 
-Module title: Open Source and Open Research Software
+Module title: **Open Source and Open Research Software**
 
-Video title: Why Open Source is important to researchers
+Video title: **Why Open Source is important for researchers**
 
 Location: Dependent on presenter
 
@@ -15,7 +15,7 @@ Proposed style: Monologue
 
 Content visualisations: None (optional)
 
-Format: Informal, outside of classroom/lab
+Format: Informal, casual, outside of classroom/lab
 
 Opening: MOOC main logo, MOOC module logo, title of this video.
 
@@ -31,11 +31,11 @@ Presenters:
 
 ## Background
 
-The intention of this video is to explain to learners *why* they should be doing this module. What the advantage of learning this material is, in terms of how it will affect their daily research practices. For this, it has to be personal stories: How OSS has impacted you, why it is important to you, and a real world experience of it. So, for example, 'Using OSS, I was able to remotely collaborate with researcher X in country Y, which led to the sharing of research code and data and ultimately a publication in journal Z.'
+The intention of this video is to explain to learners *why* they should be doing this module. What the advantage of learning this material is, in terms of how it will affect their daily research practices. For this, it has to be personal stories: How OSS has impacted you, why it is important to you, and a real world experience of it. So, for example, "Using Open Source Software, I was able to remotely collaborate with researcher X in country Y, which led to the sharing of research code and data and ultimately a publication in journal Z."
 
-This video will come in at the Introduction just before the learning outcomes, and really nail why people should be doing the module in terms of a human component.
+This video will come in at the Introduction just before the learning outcomes, and really nail why people should be taking this module by prociding a real human component and narrative. 
 
-Now, importantly, I want this video to be completely distinct from something like a formal university lecture. I want it to be personal, natural, and engaging. So less floating heads and instructional, and more casual. What I want produce ultimately is something inspirational that gets people to go 'OK, this sounds useful to me and I should take and complete this module'.
+Now, importantly, I want this video to be completely distinct from something like a formal university lecture, where the learning is plain and uni-directional from teacher to learner. I want it to be personal, natural, and engaging - you are all members of the community, and I see this ss more peer-to-peer. So less floating heads and instructional, and more casual. What I want produce ultimately is something inspirational that gets people to go 'OK, this sounds useful to me and I should take and complete this module'.
 
 ## Brief layout
 
@@ -47,9 +47,9 @@ Now, importantly, I want this video to be completely distinct from something lik
 Introduction - Jon
 ------------
 
-"Welcome to Module 5 of the Open Science MOOC, on Open Research Software and Open Source. In this module, you will learn about the importance of open source software in modern research. We will provide you with the relevant knowledge and tools to transform software into something that can be openly accessed and re-used by others.
+"Welcome to Module 5 of the Open Science MOOC, on Open Research Software and Open Source. In this module, we will learn about the importance of open source software in modern research. The module will help to equip us the relevant knowledge and tools to transform software into something that can be openly accessed and re-used by others.
 
-This video will answer a key question: Why is Open Source Software important for you and your research? To help with this, we have spoken with 6 researchers across the world who use Open Source Software in their daily practices, and can testify to the great impact it can have on their research workflows."
+This video will answer a key question: Why is Open Source Software important for you and your research? To help with this, we have spoken with 6 researchers across the world who use Open Source Software in their daily practices, and can testify to the great impact it can have on their research workflows. Because Open Source is just as much about the people as it is the technology."
 
 
 Middle (body) - All
@@ -66,11 +66,11 @@ Middle (body) - All
 Conclusions - Jon
 -----------
 
-"So there we have it, 6 awesome stories from some talented researchers about the transformation that Open Source Software can have on your research practices. These tools have the potential to make your life as a researcher much easier, making your research more efficient, cost-effective, and transparent.
+"So there we have it, 6 awesome stories from some talented researchers about the transformation that Open Source Software can have on our research practices. These tools have the potential to make our lives as researchers much easier, making our research more efficient, cost-effective, and transparent.
 
-In the rest of this module, you will learn a little more about the principles and community behind Open Source Software, how to make your own good software for re-use, and also how to cite any software you use in your own research. As well as this, we have two practical tasks, that will help you firstly set up your own project in GitHub, and then how to archive this project in Zenodo.
+In the rest of this module, we will learn a little more about the principles and community behind Open Source Software, how to make our own good software for re-use, and also how to cite any software we use in our own research. As well as this, we have three practical tasks, that will help us firstly set up your own project in GitHub, and then how to archive this project in Zenodo, and finally how to integrate Git with the programming language, R.
 
-Hopefully, by the end of the module, you will be able to apply these skills and knowledge to make your daily activities as a researcher more efficient."
+Hopefully, by the end of the module, you will be able to apply these skills and knowledge to make your daily activities as a researcher more efficient. The next part of this module is just what is Open Source Software - enjoy!"
 
 ## Post-recording tasks
 
