@@ -191,11 +191,7 @@ Version control is essentially a process that takes snapshots of the files in a 
 
 <br/>
 
-For a lightning introduction to GitHub, including a simple working example, check the video below from GitHub On Demand (CC BY)!
-
-[![Intro to GitHub Lightning Video](https://img.youtube.com/vi/rXjtDj4mqIc/0.jpg)](https://www.youtube.com/watch?v=rXjtDj4mqIc)
-
-Other similar project hosting services include [BitBucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/), and [Launchpad](https://launchpad.net/).
+Other similar project hosting services include [BitBucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/), and [Launchpad](https://launchpad.net/). If the recent acquisition of GitHub by Microsoft is a bit off-putting to you, these are great alternatives.
 
 **[GO TO TASK 1: Building your first GitHub repository](Task_1.md)**
 
@@ -204,18 +200,21 @@ Other similar project hosting services include [BitBucket](https://bitbucket.org
 
 ## Open Source Software used in research <a name="Research"></a>
 
-Especially in scientific research, open source software usage and development has become practically the norm. There's a number of reasons for this beyond those that apply to the general acceptance of OSS by, for example, consumers, industry, or government. Among these reasons are:
+Especially in scientific research, Open Source Software usage and development has become practically the norm. There's a number of reasons for this beyond those that apply to the general acceptance of OSS by, for example, consumers, industry, or government. Among these reasons are:
 
 - Increasingly, algorithms implemented in analysis software form an integral part of the methods described in scholarly publications. As such, it is completely at odds with rigorous peer review if these algorithm implementations are closed to outsiders.
+
 - Scientific collaboration more often than not spans multiple institutions and distributed research networks where secrecy and command hierarchy is not maintained in a way that is 'necessary' for closed source development.
+
 - Many computational analyses are run in virtualized environments (such as institutional, national, or international 'cloud' infrastructures) and hosted on multi-user servers. Closed-source, commercial software often disallows such usage.
-- Open source software development often relies on volunteers. In a time of budgetary constraints for scientific research, this is a clear advantage.
 
-For these and other reasons, open source tools are very commonly used in scientific research. This includes usage in fields where many researchers are amateur developers themselves and rely on tools such as [R](https://www.r-project.org/) for statistical analysis and scripting, which, in the last decade, has almost completely displaced commercial software for statistical analysis such as SPSS or JMP in a lot of fields. In fields such as bioinformatics, that involve a lot of file handling of the outputs of DNA sequencing platforms, general purpose scripting languages such as [python](https://www.python.org/) and commonly used libraries built on top of it (such as [biopython](http://biopython.org)) have become a vital part of the toolkit of many researchers.
+- OSS development often relies on volunteers. In a time of budgetary constraints for scientific research, this is a clear advantage.
 
-Tools such as R and python are essentially software for writing software. Although programming is an increasingly common activity among researchers, of course not every scientist does this. One step away from programming is the chaining together of the inputs and outputs of various analysis tools in longer workflows. As an example from genomics, a very common workflow is to start out with high-throughput sequencing reads and then i) do basic quality control checks; ii) map the reads against a reference genome; iii) identify the points where the new data are at variance with the reference. These steps are routinely executed as a workflow where a different open source executable is run in a Linux command-line environment for each of the three steps. Although this is arguably not quite open source software development, it does involve the usage and production of open source artifacts (such as Linux shell scripts) for which the principles that we discuss in this module are applicable.
+For these and other reasons, Open Source tools are very commonly used in scientific research. This includes usage in fields where many researchers are amateur developers themselves and rely on tools such as [R](https://www.r-project.org/) for statistical analysis and scripting, which, in the last decade, has almost completely displaced commercial software for statistical analysis such as SPSS or JMP in a lot of fields. In fields such as bioinformatics, that involve a lot of file handling of the outputs of DNA sequencing platforms, general purpose scripting languages such as [Python](https://www.python.org/) and commonly used libraries built on top of it (such as [biopython](http://biopython.org)) have become a vital part of the toolkit of many researchers.
 
-Lastly, open source software is also used in scientific research for reasons that more closely mirror those that drive the adoption of OSS in wider society, namely that it is cheap. For example, individuals or organizations might decide to switch from Microsoft Office to LibreOffice for manuscript writing or spreadsheet processing because the latter is free (both as in 'free beer' and 'free speech'). Likewise, the choice to switch from ArcGIS to [QGIS](https://www.qgis.org/en/site/) for the analysis of geographic information might be prompted simply by cost considerations.
+Tools such as R and Python are essentially software for writing software. Although programming is an increasingly common activity among researchers, of course not *every* scientist does this. One step away from programming is the chaining together of the inputs and outputs of various analysis tools in longer workflows. As an example from genomics, a very common workflow is to start out with high-throughput sequencing reads and then i) do basic quality control checks; ii) map the reads against a reference genome; iii) identify the points where the new data are at variance with the reference. These steps are routinely executed as a workflow where a different Open Source executable is run in a Linux command-line environment for each of the three steps. Although this is arguably not quite open source software development, it does involve the usage and production of open source artifacts (such as Linux shell scripts) for which the principles that we discuss in this module are applicable.
+
+Lastly, OSS is also used in scientific research for reasons that more closely mirror those that drive the adoption of OSS in wider society, namely that it is cheap. For example, individuals or organizations might decide to switch from Microsoft Office to LibreOffice for manuscript writing or spreadsheet processing because the latter is free (both as in [**'free beer'**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and 'free speech'). Likewise, the choice to switch from ArcGIS to [QGIS](https://www.qgis.org/en/site/) for the analysis of geographic information might be prompted simply by cost considerations.
 <br/>
 
 ## Getting Started with OSS - FAQ <a name="FAQ"></a>

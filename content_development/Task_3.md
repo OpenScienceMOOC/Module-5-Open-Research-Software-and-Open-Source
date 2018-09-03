@@ -16,6 +16,21 @@ Estimate time saving once complete:
 
 * [Getting started](#Getting_started)
 
+https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN
+
+https://www.r-bloggers.com/rstudio-and-github/
+
+http://r-pkgs.had.co.nz/git.html
+
+http://r-bio.github.io/intro-git-rstudio/
+
+https://jennybc.github.io/2014-05-12-ubc/r-setup.html
+
+http://happygitwithr.com/rstudio-git-github.html
+
+https://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/
+
+
 
 <p align="center">
   <img src="        " alt="Task 1 workflow" width="600" height="861" style="margin-right: 30px; margin-left: 10px;" onmouseover="this.width='1200'; this.height='1722'" onmouseout="this.width='600'; this.height='861'">
