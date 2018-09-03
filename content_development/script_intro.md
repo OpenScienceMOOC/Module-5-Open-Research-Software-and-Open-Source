@@ -96,3 +96,4 @@ I/we provide for the project. Specifically, I/we give permission to:
 Signed:
 
 [please add names here]
+Heidi Seibold
