@@ -3,6 +3,7 @@ output:
   html_document: default
   pdf_document: default
 ---
+
 # Module 5: Open Research Software and Open Source
 
 ## Table of Contents
@@ -178,9 +179,17 @@ As mentioned [above](#What_OSS), LibreOffice provides an Open Source alternative
 
 ### GitHub <a name="GitHub"></a>
 
+> Did you know that this entire project was build as an open and collaborative community effort in [GitHub](https://github.com/OpenScienceMOOC/)?
+
 [GitHub](https://github.com/) is a popular hosting site for both software and non-software content (often called 'notebooks'), with added capabilities for version control, project management and tracking, and storage services. GitHub is built on top of the OSS [Git](https://git-scm.com/), which enables users to work remotely to maintain, share, and collaborate on research software and other non-software based projects.
 
 Version control is essentially a process that takes snapshots of the files in a repository, and tracks modifications to them. It records when the changes were made, what they were, and who did them. If several people are working on one file at once, any overlapping changes are detected, and must be resolved prior to continuing. This provides a much more streamlined and automated process than manually saving and recording changes as projects develop. It also avoids the inevitable lists of confusing named file versions...
+
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/xkcd.png" width="200" /></p>
+
+<p align="center"><i>GitHub helps us to avoid, er, sub-optimal file naming conventions (source: [XKCD](https://xkcd.com/1459/))</i></p>
+
+<br/>
 
 For a lightning introduction to GitHub, including a simple working example, check the video below from GitHub On Demand (CC BY)!
 

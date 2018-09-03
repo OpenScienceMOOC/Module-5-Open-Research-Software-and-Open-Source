@@ -3,6 +3,7 @@ output:
   pdf_document: default
   html_document: default
 ---
+
 # Task 2: How to make your code citable using GitHub and Zenodo
 
 This task is designed for students and researchers who want to create and re-use GitHub-based projects/repositories in the academic literature.
