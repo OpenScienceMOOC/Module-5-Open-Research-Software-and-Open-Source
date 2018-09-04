@@ -23,7 +23,7 @@ These are the draft content files. The content in them is fully accessible, and 
 - [**MAIN CONTENT**](MAIN.md) - The main content for this Module.
 - [**TASK 1**](Task_1.md) - How to set up a repository on GitHub.
 - [**TASK 2**](Task_2.md) - How to make your code citable using GitHub and Zenodo.
-- [**TASK 3**](Task_3.f) - How to integrate Git with RStudio.
+- [**TASK 3**](Task_3.md) - How to integrate Git with RStudio.
 
 ### In iPython notebook format
 
