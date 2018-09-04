@@ -24,6 +24,9 @@ Estimate time saving once complete:
 * [Step three: Why did I just do that?](#three)
 * [Step four: The perfect marriage between Git and R](#four)
 * [Step five: Getting content with content](#five)
+* [Step six: A brave commitment](#six)
+* [Step seven: PUSH!](#seven)
+
 
 ## Getting started <a name="Getting_started"></a>
 
@@ -138,6 +141,23 @@ Remember that your `README` file is in markdown (.md) format. For a refresher on
 <p align="center"><i>Screenshot of what this module looks in markdown, during development. Meta.</i></p>
 
 <br/>
+
+## Step six: A brave commitment <a name="six"></a>
+
+OK, so now you should have a nicely edited `README` file. Now we are going to 'commit' this to the project using Git. There are a few ways of doing this.
+
+1. Go to Tools > Version Control > Commit
+2. In the environment pane in RStudio, there should be a new 'Git' tab. Handy.
+3. In your console pane, there should now be a new 'Terminal', which you can run Git command lines through.
+
+Let's just stick with the second option for now.
+
+Select the README` file in the Git window, which should show up automatically if you have made any edits to it. Click 'Commit' and a new window should pop up.
+
+Here, you have a chance to review your changes, and write a nice commit message. Type in something brief, but informative about the changes that you have made in this version. You want this to be enough information so that if you look back on it, you'll know why you made this commit and the changes associated with it.
+
+## Step seven: Pull <a name="seven"></a>
+
 
 ## Checklist for integrating Git and R Studio <a name="Checklist"></a>
 
