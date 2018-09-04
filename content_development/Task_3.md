@@ -22,7 +22,8 @@ Estimate time saving once complete:
 * [Step one: Download all the things](#one)
 * [Step two: Configure Git inside RStudio](#two)
 * [Step three: Why did I just do that?](#three)
-* [Step four: Putting it into practice](#four)
+* [Step four: The perfect marriage between Git and R](#four)
+* [Step five: Getting content with content](#five)
 
 ## Getting started <a name="Getting_started"></a>
 
@@ -97,7 +98,7 @@ OK, hold your breathe, we're going to learn some Git commands. Some of the key o
 
 * **Pull**:
 
-## ## Step four: Putting it into practice <a name="four"></a>
+## Step four: The perfect marriage between Git and R <a name="four"></a>
 
 Now, in Task 1, you should have learned how to build your very first GitHub repository. If you haven't done that, we can wait here while you go and do that. If you have already, or have an existing GitHub repository, we can move on.
 
@@ -106,10 +107,37 @@ So, you should have a repository on GitHub, complete with a `README` file, a `LI
 What we are going to do now, is integrate that repository with Git. Steady now.
 
 1. Firstly, go to **Project > Create Project > Version Control > Git**.
-2. Back on GitHub, you should see a bit where there is a https:// URL. That is the link to your repository, and it gives you the option to clone it in your desktop. For now, just copy that link, switch back to RStudio, and paste it into the Repository URL as indicated.
+2. Back on GitHub, you should see a bit where there is a https:// URL. That is the link to your repository, and it gives you the option to clone it in your desktop. For now, just copy that link, switch back to RStudio, and paste it into the 'Repository URL' as indicated.
 3. Give the project a directory name, like test, Jim, or whatever you want.
 4. Next, browse for the place on your desktop where you want this project to live, its subdirectory.
 5. Click 'Create Project', and let the magic be done!
+
+What you just did was tell RStudio to associate a new project in R with specific repository on GitHub.
+
+## Step five: Getting content with content <a name="five"></a>
+
+Remember that `README` file we created a while back? Well, it's time to write it. Thinking back to Task 1, there were some specific things that we said make a good `README` file. Do you remember what any of them were? Just to refresh your memory, these were:
+
+* What is this project about and what does it do.
+* Why should people care, and why is it useful.
+* How can someone get started contributing to the project.
+* Who can be contacted in case someone needs help.
+* A link to the license, contributing guidelines, and code of conduct.
+* A description of the project structure.
+* Who is involved, and what are their roles.
+* The current status of the project.
+
+So, in RStudio, try adding just a bit of information about this for your project. If you are doing this for an actual project, try and make it useful. If you are just tinkering for now, you can add what you want.
+
+Remember that your `README` file is in markdown (.md) format. For a refresher on some of the simple syntax markdown uses, check this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+<p align="center">
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/markdown.png" width="600px"/>
+</p>
+
+<p align="center"><i>Screenshot of what this module looks in markdown, during development. Meta.</i></p>
+
+<br/>
 
 ## Checklist for integrating Git and R Studio <a name="Checklist"></a>
 
