@@ -43,7 +43,7 @@
   - Designing practical exercises: July 2018
   - Finalisation of content: August 2018
   - Check with Steering Committee: end of August 2018
-  - Release for beta testing: September 2018
+  - Release for beta testing: end of September 2018
    
    
 ### Identify promotion channels

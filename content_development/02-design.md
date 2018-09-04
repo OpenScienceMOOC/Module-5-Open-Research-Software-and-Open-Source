@@ -31,18 +31,19 @@
    2. Design learner activities with clear instructions
     - Task 1: Create a GitHub repo
     - Task 2: Integrate a GitHub repo with Zenodo
+    - Task 3: Integrating Git and R Studio
    
    3. Find resources (video, illustrations, screencasts, podcasts, assignments, quizzes, presentations)
-    - In prep
+    - In prep; requires new content to be produced
    
    4. Write concise, engaging video (and audio) scripts
-    - In prep
+    - Complete
    
    5. Review all learning resources, adjusting as needed
     - In prep
    
    6. Finalise all scripts
-    - TBC
+    - Pending
    
    7. Copyright strategy
-    - TBC
+    - Pending
