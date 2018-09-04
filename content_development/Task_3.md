@@ -156,8 +156,19 @@ Select the README` file in the Git window, which should show up automatically if
 
 Here, you have a chance to review your changes, and write a nice commit message. Type in something brief, but informative about the changes that you have made in this version. You want this to be enough information so that if you look back on it, you'll know why you made this commit and the changes associated with it.
 
-## Step seven: Pull <a name="seven"></a>
+> **Pro-tip**: Here, you will see a list of all the changes you have made since your last commit. Old lines are in red, and new lines are in green. Double check these to make sure that the edits you have made are the ones you intended to make. Safety first.
 
+When you click 'Commit', another window will pop up, telling you how many files you have changed and the number of lines within that file you have changed. Close that little window down.
+
+## Step seven: PUSH! <a name="seven"></a>
+
+Click the 'Push' button in the top right of the new window. A new window will pop up now. What this is doing is syncronising the files changed on your local repository with the `README` file to the online version of the project on GitHub. Close that window down, and the next one. Go to your project on GitHub, and check that the `README` file is still there in all its newly edited glory. You should see the commit message you made next to the file too.
+
+**CONGRATULATIONS**
+
+You just integrated Git with R Studio, and made your first change to a version controlled project. Your life will now never be the same, and your research workflow will probably be more rapid, agile, and collaborative than ever. Good luck going back to Word.
+
+The great thing is that this doesn't have to just be used for code. You can use it for plain text, markdown, html, and, well, R code. The possibilities are limitless - what you have just learned is a new form of openly collaborative project management that works for an enormous range of tasks. How you use it is up to you.
 
 ## Checklist for integrating Git and R Studio <a name="Checklist"></a>
 
