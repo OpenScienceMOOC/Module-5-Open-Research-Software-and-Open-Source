@@ -39,7 +39,7 @@ This task will teach you how to integrate the version control software, Git, wit
 If you are one of those researchers who thinks that having code spread across multiple hard-drives that are waiting to break, Dropbox, Google Drive, or any other non-specialist software, this task is just for you. All of us are guilty of this sort of thing once in a while, but there are ways to do it that are better for you, future you, and those who might benefit from your work.
 
 <p align="center">
-  <img src="        " alt="Task 1 workflow" width="600" height="861" style="margin-right: 30px; margin-left: 10px;" onmouseover="this.width='1200'; this.height='1722'" onmouseout="this.width='600'; this.height='861'">
+  <img src="" alt="Task 1 workflow" width="600" height="861" style="margin-right: 30px; margin-left: 10px;" onmouseover="this.width='1200'; this.height='1722'" onmouseout="this.width='600'; this.height='861'">
 </p>
 
 <p align="center"><i>The workflow for Task 3. Keep this handy as you work through the task!</i></p>
@@ -52,25 +52,46 @@ So, what is Git, and how is it different to GitHub? Git is a version control sys
 
 This is important, as all research goes through changes, and some times we want to know what those things were. Did you delete some text that you now think is important? Version control will save that for you. Did your code used to work perfectly, but is now buggy beyond belief? Version control. It's a great way to avoid that chaotic state where you have multiple copies of the same file, but without a stupid and annoying file naming convention. `FINAL_Revised_2.2_supervisor_edits_ver1.7_scream.txt` will be a thing of the past.
 
-GitHub is the platform that allows you to seamlessly share code from your workspace (e.g., laptop) to be hosted in an online space. So, sort of like the public interface to GitHub. The advantafes of this are:
+<p align="center">
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/phdcomics.png" width="600px"/>
+</p>
+
+<p align="center"><i>Never again. (Source: phdcomics.com)</i></p>
+
+<br/>
+
+
+
+GitHub is the platform that allows you to seamlessly share code from your workspace (e.g., laptop) to be hosted in an online space. So, sort of like the public interface to GitHub. The advantages of this are:
 
 1. You get to keep copies of all your work through time;
 2. You can compare work through different copies through time, which helps to spot bugs or errors;
-3. Other people can collaborate openly with your work; and
-4. You have both a local and an online copy of your work that remain in sync.
+3. Other people can collaborate openly with your work; 
+4. You have both a local and an online copy of your work that remain in sync; 
+5. You can see who made a change, why they made, and when;
+6. You can have multiple people working on the same project at once in parallel.
 
 
 ### RStudio <a name="Rstudio"></a>
 
-R studio is a popular coding environment for researchers who use the statistical programming language, R.
+R studio is a popular coding environment for researchers who use the statistical programming language, R. It comes with a text editor, so you don't have to install another and switch between. It also includes a graphical user interface (GUI) to Git and GitHub, which we will be using here.
 
+Isn't it nice when brilliant Open Source tools integrate seamlessly like that.
+
+If at any point you need to install new packages for R, simply use the following command:
+
+`install.packages("PACKAGE NAME", dependencies = TRUE)`
+
+Replacing `PACKAGE NAME` with the, er, package name. Some examples you can play with that might come in useful include `knitr` or `ggplot2`.
 
 ## Step one: Download all the things <a name="one"></a>
 
-1. You should already have a GitHub account by now. If not, [sign up here](https://github.com/).
-2. Download and install the latest version of R.
+1. You should already have a GitHub account by now. If not, [sign up here](https://github.com/). Free unlimited repositories for all!
+2. Download and install the latest version of [R](https://www.r-project.org/). Also available for [Mac](https://cloud.r-project.org/) and [Linux](https://cloud.r-project.org/bin/linux/).
 3. Download and install the latest version of [Rstudio](https://www.rstudio.com/products/rstudio/#Desktop). Oh, hey, looks it Open Source! Swish.
-4. Download and install the latest version of Git.
+4. Download and install the latest version of [Git](https://gitforwindows.org/). **Make sure to Select “Use Git from the Windows Command Prompt” during installation.**
+
+> **Pro-tip**: To update all of your R packages in one, simply execute the following code `update.packages(ask = FALSE, checkBuilt = TRUE)`
 
 For now, just choose all the usual default options for each install. Depending on which Operating System (e.g., Mac, Windows, Linux), this might be different for each of you. For now, and for the rest of this task, we're going to stick with doing things the easy-ish Windows way (but also provide some instructions for using the command line).
 
@@ -80,11 +101,16 @@ If you want, you can also download the [local version of GitHub](https://desktop
 
 Right, that's the easy bit done. Next, go into RStudio, and in the tabs at the top go to Go to **Tools > Options > Git/SVN**. SVN is just another version control system like Git, and we don't need to worry about that here.
 
-In the place where it says 'Git executable', add the pathway here to the git.exe file that you just downloaded. Make sure all the boxes here are ticked.
-
-> **Pro-tip:** You see here where it says 'Use Git Bash as shell for Git projects?' This is the place where you can use the command-line to access Git from outside of RStudio. It's a powerful beast. 
+In the place where it says 'Git executable', add the pathway here to the git.exe file that you just downloaded. Make sure all the boxes here are ticked. 
 
 Restart R Studio. Whew, that was tough. Next.
+
+> **Pro-tip:** You see here where it says 'Use Git Bash as shell for Git projects?' This is the place where you can use the command-line to access Git from outside of RStudio. It's a powerful beast. If you want to play with this, try using the following simple commands:
+
+`git config --global user.name 'YOUR USERNAME'`
+`git config --global user.email 'YOUR EMAIL'`
+
+Hopefully it does not have to be said to substitute in your own GitHub username and email here. You can access this at any point just by finding the 'Shell' within Windows. Or, if you right click on any folder on your Desktop that is linked to a GitHub repo, you can open up the Shell instantly and Bash away.
 
 ## Step three: Why did I just do that? <a name="three"></a>
 
@@ -144,7 +170,9 @@ Remember that your `README` file is in markdown (.md) format. For a refresher on
 
 ## Step six: A brave commitment <a name="six"></a>
 
-OK, so now you should have a nicely edited `README` file. Now we are going to 'commit' this to the project using Git. There are a few ways of doing this.
+OK, so now you should have a nicely edited `README` file. Now we are going to 'commit' this to the project using Git. This is basically the equivalent of saving this version of your project, with a record of what changes were made. Successive commits produce a history that can be examined at a later time, allowing you to work with confidence.
+
+There are a few ways of doing this.
 
 1. Go to Tools > Version Control > Commit
 2. In the environment pane in RStudio, there should be a new 'Git' tab. Handy.
@@ -152,9 +180,9 @@ OK, so now you should have a nicely edited `README` file. Now we are going to 'c
 
 Let's just stick with the second option for now.
 
-Select the README` file in the Git window, which should show up automatically if you have made any edits to it. Click 'Commit' and a new window should pop up.
+Select the README` file in the Git window, which should show up automatically if you have made any edits to it. This adds that file to the 'staging' area, which is sort of like the pre-saving space for your work. Click 'Commit' and a new window should pop up.
 
-Here, you have a chance to review your changes, and write a nice commit message. Type in something brief, but informative about the changes that you have made in this version. You want this to be enough information so that if you look back on it, you'll know why you made this commit and the changes associated with it.
+Here, you have a chance to review your changes, and write a nice commit message. Type in something brief, but informative about the changes that you have made in this version. You want this to be enough information so that if you or someone else looks back on it, you'll know why you made this commit and the changes associated with it.
 
 > **Pro-tip**: Here, you will see a list of all the changes you have made since your last commit. Old lines are in red, and new lines are in green. Double check these to make sure that the edits you have made are the ones you intended to make. Safety first.
 
@@ -162,7 +190,11 @@ When you click 'Commit', another window will pop up, telling you how many files 
 
 ## Step seven: PUSH! <a name="seven"></a>
 
-Click the 'Push' button in the top right of the new window. A new window will pop up now. What this is doing is syncronising the files changed on your local repository with the `README` file to the online version of the project on GitHub. Close that window down, and the next one. Go to your project on GitHub, and check that the `README` file is still there in all its newly edited glory. You should see the commit message you made next to the file too.
+Click the 'Push' button in the top right of the new window. A new window will pop up now. What this is doing is syncronising the files changed on your local repository with the `README` file to the online version of the project on GitHub. 
+
+Some times here you will be prompted to add your username and password from GitHub, which you should do if asked.
+
+Close that window down, and the next one. Go to your project on GitHub, refresh, and check that the `README` file is still there in all its newly edited glory. You should see the commit message you made next to the file too.
 
 **CONGRATULATIONS**
 
@@ -177,7 +209,6 @@ The great thing is that this doesn't have to just be used for code. You can use 
 
 
 **CONGRATULATIONS!** 
-
 
 
 From now on, it is all up to you! Some advice is to:
