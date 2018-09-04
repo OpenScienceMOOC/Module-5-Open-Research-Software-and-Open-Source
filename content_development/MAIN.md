@@ -247,7 +247,7 @@ If that's enough for you for now great! If not for most pieces of proprietary so
 | --- | --- |
 | Matlab | Python, Julia |
 | STATA/SPSS | R |
-| MS Office | Libre Office |
+| MS Office | LibreOffice |
 | Mathematica | JupyterLab |
 | Test out your new [Pull Request -PR-](https://help.github.com/articles/about-pull-requests/) Skills ... | ... by adding your own example [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.md) |
 
