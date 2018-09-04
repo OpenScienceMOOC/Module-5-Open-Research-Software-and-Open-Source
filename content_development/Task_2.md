@@ -8,6 +8,8 @@ output:
 
 This task is designed for students and researchers who want to create and re-use GitHub-based projects/repositories in the academic literature.
 
+Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module5opensource, and tell us a bit about who you are, your background, and how you ended up here!
+
 Estimated time to complete: 45-60 minutes.
 
 ## Table of contents
@@ -34,7 +36,7 @@ Estimated time to complete: 45-60 minutes.
 
 > **Pro-tip**: Make sure to include a LICENSE and README file in your repository. This will indicate to people the purpose of the project, and how they can engage with it in the future.
 
-Find out how to set up a GitHub repository in this other guide [Task 1: Building a GitHub repository](Task_1.md) which is also part of 'Module 5: Open Research Software and Open Source'.
+Find out how to set up a GitHub repository in this other guide [Task 1: Building a GitHub repository](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md) which is also part of 'Module 5: Open Research Software and Open Source'.
 
 ## Choose your GitHub repository <a name="Choose"></a>
 
@@ -44,7 +46,7 @@ Once on your GitHub project listings page at [github.com](https://github.com) he
 
 ## Login to Zenodo <a name="Login"></a>
 
-Now head over to [zenodo.org](https://zenodo.org). [Zenodo](https://zenodo.org/) is a platform where you can permanently archive your code and other project elements. Zenodo does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable. This is different to GitHub, which acts as a place where the actual work on a project takes place, rather than long-term archiving of it. At GitHub, content can be modified, deleted, rewritten, and irreversibly changed, which makes it a bit concerning to be used for longer lasting referencing purposes. Zenodo offers more security and permanence for research outputs.
+Now head over to [zenodo.org](https://zenodo.org). Zenodo is a platform where you can permanently archive your code and other project elements. Zenodo does this by assigning projects a **Digital Object Identifier** (DOI), which also helps to make the work more citable. This is different to GitHub, which acts as a place where the actual work on a project takes place, rather than long-term archiving of it. At GitHub, content can be modified, deleted, rewritten, and irreversibly changed, which makes it a bit concerning to be used for longer lasting referencing purposes. Zenodo offers more security and permanence for research outputs.
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/zenodo.png" width="800" /></p>
 

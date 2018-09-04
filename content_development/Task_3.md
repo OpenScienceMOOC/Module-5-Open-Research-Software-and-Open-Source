@@ -8,6 +8,8 @@ output:
 
 This task is designed for students and researchers who want to implement a system of version control within a standard R-based workflow.
 
+Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module5opensource, and tell us a bit about who you are, your background, and how you ended up here!
+
 Estimated time to complete: 
 
 Estimate time saving once complete: 

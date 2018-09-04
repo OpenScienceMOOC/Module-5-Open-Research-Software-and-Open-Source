@@ -1,7 +1,7 @@
 ---
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 # Module 5: Open Research Software and Open Source
@@ -29,7 +29,7 @@ Welcome to **Module 5** of the Open Science MOOC: **Open Research Software and O
 
 This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-). Everything you see here has been developed in the open through interactive feedback and collaboration from the wider community. It comprises a series of videos, infographics, text-based reading (sorry), and practical tasks for you to sink you teeth into.
 
-Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself, and tell us a bit about who you are, your background, and how you ended up here!
+Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module5opensource, and tell us a bit about who you are, your background, and how you ended up here!
 
 ### Why should you take this module?
 
@@ -261,7 +261,7 @@ The most likely person who might want to re-use your software in the future is..
 
 One of the most critical aspects of this is including an informative `README` file, that accompanies almost every OSS project, and some times even more than one. It can be a good practice to include one such file in every directory, that includes a list of files, a table of contents, and what the purpose of the directory is. The `README` file is typically just plain text or markdown (again, such as all of the ones for the MOOC!), and can include critical information for how to install and run software, previous dependencies and requirements, as well as tutorials or examples.
 
-> Did you know... The term `README` is some times playfully ascribed to the famous scene in Lewis Carroll's Alice's Adventures In Wonderland in which Alice confronts magic munchies labeled with "Eat Me"" and "Drink Me". Potent. 
+> **Did you know...** The term `README` is some times playfully ascribed to the famous scene in Lewis Carroll's Alice's Adventures In Wonderland in which Alice confronts magic munchies labeled with "Eat Me"" and "Drink Me". Potent. 
 
 The purpose here is to provide sufficient information to maximise the re-use and reproducibility of the computational environment, such that someone with no experience with the project can easily access and re-use the software ([Sandve et al., 2013](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Sandve%20et%20al.%2C%202013.PDF)). By lowering the barriers to entry, you increase the chances of others being able to re-use your work, which is one of the ultimate goals of OSS ([Ince et al., 2012](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software/Ince%20et%20al.%2C%202012.pdf)).
 
@@ -361,7 +361,7 @@ A lot of researchers might typically be afraid of sharing code which is incomple
 
 Task 2 will guide you through the process of linking a GitHub repository to Zenodo for archiving.
 
-> Did you know.. All content produced for this MOOC is available as part of a community in [Zenodo](https://zenodo.org/communities/open-science-mooc/)?
+> **Did you know...** All content produced for this MOOC is available as part of a community in [Zenodo](https://zenodo.org/communities/open-science-mooc/)?
 
 **[GO TO TASK 2: Linking GitHub and Zenodo](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md)**
 

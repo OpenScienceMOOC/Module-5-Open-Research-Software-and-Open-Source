@@ -1,12 +1,14 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 # Task 1: How to set up a repository on GitHub
 
 This task is designed for students and researchers who want to create their first Open Source project (software or non-software) on GitHub. GitHub is a place for you to come and play and experiment with new research workflows, and is really just the beginning to help set the stage for your own pathways and ideas.
+
+Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module5opensource, and tell us a bit about who you are, your background, and how you ended up here!
 
 Estimated time to complete: 30-45 minutes.
 
@@ -92,9 +94,16 @@ Whew! Don't worry about memorising *all* of these for now. Like any new skill, f
 
 You can probably see how some of these are fairly similar to things like save, copy, paste - standard workflow operations, but adapted for a software management process. There are a [few more](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitglossary.html) too, but this should do for getting started.
 
-If you are interested, most of these terms come from the underlying [Git system](https://git-scm.com). Git was built to allow developers to manage different versions of source code in a distributed manner, which is great. It has lots of features and the ability to do lots of complex stuff, written by a [very clever guy](https://www.linuxfoundation.org/blog/10-years-of-git-an-interview-with-git-creator-linus-torvalds/).  However, the [user interface was not designed with new users in mind](https://xkcd.com/1597/), so it can be hard to learn. 
+If you are interested, most of these terms come from the underlying [Git system](https://git-scm.com). Git was built to allow developers to manage different versions of source code in a distributed manner, which is great. It has lots of features and the ability to do lots of complex stuff, written by a [very clever guy](https://www.linuxfoundation.org/blog/10-years-of-git-an-interview-with-git-creator-linus-torvalds/).  However, the [user interface was not designed with new users in mind](https://xkcd.com/1597/), so it can be hard to learn.
+
+<p align="center">
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/git.png" width="150px"/>
+</p>
+
+<p align="center"><i>Unbeatable guide to using Git. (Source: XKCD)</i></p>
 
 <br/>
+
 
 ### Creating a new repository <a name="Create_new"></a>
 
@@ -115,20 +124,20 @@ Make sure not to duplicate names, infringe upon other trademarks, or name it any
 Any GitHub repository requires 4 key elements to get started and to begin developing a welcoming community:
 
 1. An Open Source license;
-2. A README file;
+2. A `README` file;
 3. Contributing guidelines; and
 4. A Code of Conduct.
 
 These are critical aspects and best practices of any project for users to understand their legal rights, their expectations, the purpose of the project, and to improve the overall user experience. 
 
-All four of these files should be kept in the root directory for your project repository. It is convention to use markdown file formats (.md) for most of these files (though the license file is most often plain text (.txt)), and capitalise all file names. Instead of spaces in file names, make sure to use underscores _ . 
+All four of these files should be kept in the root directory for your project repository. It is convention to use markdown file formats (`.md`) for most of these files (though the license file is most often plain text (`.txt`)), and capitalise all file names. Instead of spaces in file names, make sure to use underscores `_` . 
 
 So you should end up with a foundational file selection like this:
 
-1. LICENSE.md
-2. README.md
-3. CONTRIBUTING.md
-4. CODE_OF_CONDUCT.md
+1. `LICENSE.md`
+2. `README.md`
+3. `CONTRIBUTING.md`
+4. `CODE_OF_CONDUCT.md`
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/foundation.png" width="800" /></p>
 
@@ -156,13 +165,13 @@ Thankfully, when you start a new repository on GitHub, you are given the option 
 
 <br/>
 
-If they don't have one you want, you can add one you like manually. To do this, simply click 'Create new file' in the repository, and copy and paste an existing license text in. Name the file something like 'LICENSE.txt' or 'LICENSE.md' to make it clear, and keep it in the main repository folder (i.e., the root). Make sure to add a clean commit message, and you're done!
+If they don't have one you want, you can add one you like manually. To do this, simply click 'Create new file' in the repository, and copy and paste an existing license text in. Name the file something like `LICENSE.txt` or `LICENSE.md` to make it clear, and keep it in the main repository folder (i.e., the root). Make sure to add a clean commit message, and you're done!
 
 <br/>
 
 ### Creating a README file <a name="Readme"></a>
 
-When you initialise your new repository, there should be an option to do so with a README file. Just like Alice in Wonderland, these do exactly what they say - provide key information about the project. These are typically the first thing outside contributors will see when they come to your repository, so making them informative and welcoming is key.
+When you initialise your new repository, there should be an option to do so with a `README` file. Just like Alice in Wonderland, these do exactly what they say - provide key information about the project. These are typically the first thing outside contributors will see when they come to your repository, so making them informative and welcoming is key.
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/readme.png" width="800" /></p>
 
@@ -170,9 +179,9 @@ When you initialise your new repository, there should be an option to do so with
 
 <br/>
 
-The file will originally be in markdown (.md) format. This is a lightweight markup language with a plain text format. To learn some basic markdown, see [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). But for now, we can just use plain text.
+The file will originally be in markdown (`.md`) format. This is a lightweight markup language with a plain text format. To learn some basic markdown, see [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). But for now, we can just use plain text.
 
-There are several things you will want to include in your README file:
+There are several things you will want to include in your `README` file:
 
 * What is this project about and what does it do.
 * Why should people care, and why is it useful.
@@ -183,9 +192,9 @@ There are several things you will want to include in your README file:
 * Who is involved, and what are their roles.
 * The current status of the project.
 
-Remember that not everyone coming to your project will be an expert, or understand what it is you are doing and why. Having a well-documented README file will enhance the user experience for people with a range of prior knowledge.
+Remember that not everyone coming to your project will be an expert, or understand what it is you are doing and why. Having a well-documented `README` file will enhance the user experience for people with a range of prior knowledge.
 
-When the README file is included in the root directory, GitHub will automatically display this on the homepage of your repository. This means it is the first thing people will often see, so make it count!
+When the `README` file is included in the root directory, GitHub will automatically display this on the homepage of your repository. This means it is the first thing people will often see, so make it count!
 
 > **Pro-tip**: Later on as your project develops, you might want to add FAQs based on community feedback, or a tutorial to help users understand how your project works.
 
@@ -197,13 +206,13 @@ Contributing guidelines are designed to communicate to potential contributors a 
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/contributing.png" width="800" /></p>
 
-<p align="center"><i>Part of the CONTRIBUTING guidelines for this module</i></p>
+<p align="center"><i>Part of the `CONTRIBUTING` guidelines for this module</i></p>
 
 <br/>
 
-Sticking with the all caps file names, the next step is to create a CONTRIBUTING file. Click 'Create new file', and make sure to save it in markdown format as before. This file will tell other users how they can engage with and participate in your project. This is the first step towards establishing a community around your project, so make it engaging, concise, and informative.
+Sticking with the all caps file names, the next step is to create a `CONTRIBUTING` file. Click 'Create new file', and make sure to save it in markdown format as before. This file will tell other users how they can engage with and participate in your project. This is the first step towards establishing a community around your project, so make it engaging, concise, and informative.
 
-The CONTRIBUTING file should include information on:
+The `CONTRIBUTING` file should include information on:
 
 * What sort of contributions you are looking for.
 * How to suggest updates or new features.
@@ -227,7 +236,7 @@ A code of conduct not only provides expectations of behaviour, but also describe
 
 > **Pro-tip**: In case a violation needs to be reported about the person who receives those reports, make sure to include an option to contact a secondary party.
 
-To add a code of conduct, you can create your own from scratch by adding a new markdown file, or use existing templates such as the [Contributor Covenant](https://contributor-covenant.org/). Name your file CODE_OF_CONDUCT.md, and make sure it is visible in the README file.
+To add a code of conduct, you can create your own from scratch by adding a new markdown file, or use existing templates such as the [Contributor Covenant](https://contributor-covenant.org/). Name your file `CODE_OF_CONDUCT.md`, and make sure it is visible in the `README` file.
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/code_of_conduct.png" width="800" /></p>
 
@@ -241,7 +250,7 @@ Making sure to enforce the code of conduct is important, as it shows that not on
 
 ### Making your code citable <a name="Citation"></a>
 
-If you want to make your code citable from the start, you should store the metadata needed for a citation from the start, by creating a [codemeta.json](https://codemeta.github.io) file or a [CITATION.cff](https://citation-file-format.github.io) file. Both will allow tooling that is currently being developed to automatically create citation information, rather than asking you to type it in a form later.
+If you want to make your code citable from the start, you should store the metadata needed for a citation from the start, by creating a `[codemeta.json](https://codemeta.github.io)` file or a `[CITATION.cff](https://citation-file-format.github.io)` file. Both will allow tooling that is currently being developed to automatically create citation information, rather than asking you to type it in a form later.
 
 If you're interested, [cite.research-software.org](https://cite.research-software.org) provides further background information about software citation in academia.
 
@@ -276,8 +285,8 @@ Within issues it is possible to use @ mentions to notify other contirbutors abou
 So now you are ready to launch your project, begin advertising it, and getting contributions! Before continuing, make sure that you have:
 
 - [ ] Project has a memorable and informative name
-- [ ] Project has a LICENSE file that is an exact copy of an Open Source license
-- [ ] Complete documentation including a README, CONTRIBUTING, and CODE_OF_CONDUCT files
+- [ ] Project has a `LICENSE` file that is an exact copy of an Open Source license
+- [ ] Complete documentation including a `README`, `CONTRIBUTING`, and `CODE_OF_CONDUCT` files
 - [ ] Project has at least one clearly labelled issue
 - [ ] Any code included at this stage is clearly structured and annotated
 
