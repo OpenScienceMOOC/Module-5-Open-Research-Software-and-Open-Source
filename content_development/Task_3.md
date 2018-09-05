@@ -38,12 +38,6 @@ This task will teach you how to integrate the version control software, Git, wit
 
 If you are one of those researchers who thinks that having code spread across multiple hard-drives that are waiting to break, Dropbox, Google Drive, or any other non-specialist software, this task is just for you. All of us are guilty of this sort of thing once in a while, but there are ways to do it that are better for you, future you, and those who might benefit from your work.
 
-<p align="center">
-  <img src="" alt="Task 1 workflow" width="600" height="861" style="margin-right: 30px; margin-left: 10px;" onmouseover="this.width='1200'; this.height='1722'" onmouseout="this.width='600'; this.height='861'">
-</p>
-
-<p align="center"><i>The workflow for Task 3. Keep this handy as you work through the task!</i></p>
-
 <br/>
 
 ### Geting Git <a name="Git"></a>
