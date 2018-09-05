@@ -167,6 +167,8 @@ Thankfully, when you start a new repository on GitHub, you are given the option 
 
 If they don't have one you want, you can add one you like manually. To do this, simply click 'Create new file' in the repository, and copy and paste an existing license text in. Name the file something like `LICENSE.txt` or `LICENSE.md` to make it clear, and keep it in the main repository folder (i.e., the root). Make sure to add a clean commit message, and you're done!
 
+> **Helping hand**: This MOOC uses a different combination of licenses for code content and non-code content. Here you can find an example of the [MIT License](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/LICENSE.md) that we apply for all code and software generated as part of the MOOC production.
+
 <br/>
 
 ### Creating a README file <a name="Readme"></a>
@@ -192,11 +194,13 @@ There are several things you will want to include in your `README` file:
 * Who is involved, and what are their roles.
 * The current status of the project.
 
+> **Pro-tip**: Later on as your project develops, you might want to add FAQs based on community feedback, or a tutorial to help users understand how your project works.
+
 Remember that not everyone coming to your project will be an expert, or understand what it is you are doing and why. Having a well-documented `README` file will enhance the user experience for people with a range of prior knowledge.
 
 When the `README` file is included in the root directory, GitHub will automatically display this on the homepage of your repository. This means it is the first thing people will often see, so make it count!
 
-> **Pro-tip**: Later on as your project develops, you might want to add FAQs based on community feedback, or a tutorial to help users understand how your project works.
+> **Helping hand**: Here, you can find the `README` file used for this [MOOC module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md). This includes information on the status, rationale, learning outcomes, development team, key documents, and license to help. You can copy and adapt this structure for your own projects as needed. 
 
 <br/>
 
@@ -222,9 +226,11 @@ The `CONTRIBUTING` file should include information on:
 * How to contact those in charge of the project.
 * Links to any external documentation or websites.
 
+> **Pro-tip**: Consider starting off with a short thank you note for people taking the time to consider contributing - they have clicked on the file to learn more after all! If there are other methods of recognition that you have in mind, make sure to include them in here too.
+
 Here, you are essentially trying to encourage people to volunteer their time to advance your project. Make sure to be welcoming and friendly, and be precise about how people can engage. When writing this, make sure to think about it from the user perspective - how can you make their life easier when submitting pull requests and opening issues to make the whole project run more smoothly.
 
-> **Pro-tip**: Consider starting off with a short thank you note for people taking the time to consider contributing - they have clicked on the file to learn more after all! If there are other methods of recognition that you have in mind, make sure to include them in here too.
+> **Helping hand**: The [Contributing guidelines](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md) for this MOOC module include some very specific things: an introduction to using Git and GitHub, tips for getting started, contact information, how to alter the content and repor issues, a link to the `README` file, and information on the preferred content and code styles. Feel free to copy and adapt this for your own project as needed.
 
 <br/>
 
@@ -237,6 +243,8 @@ A code of conduct not only provides expectations of behaviour, but also describe
 > **Pro-tip**: In case a violation needs to be reported about the person who receives those reports, make sure to include an option to contact a secondary party.
 
 To add a code of conduct, you can create your own from scratch by adding a new markdown file, or use existing templates such as the [Contributor Covenant](https://contributor-covenant.org/). Name your file `CODE_OF_CONDUCT.md`, and make sure it is visible in the `README` file.
+
+> **Helping hand**: This MOOC also has a [Code of Conduct](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CODE_OF_CONDUCT.md) based on the Contributor Covenant. As you can see, it includes information on expected standards of behaviour, responsibilities of those in the community, and enforcement of the CoC including contact details. Feel free again to re-use and adapt this to your project as you see fit.
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/code_of_conduct.png" width="800" /></p>
 
