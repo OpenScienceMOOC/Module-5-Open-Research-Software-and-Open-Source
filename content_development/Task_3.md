@@ -10,9 +10,9 @@ This task is designed for students and researchers who want to implement a syste
 
 Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module5opensource, and tell us a bit about who you are, your background, and how you ended up here!
 
-Estimated time to complete: 
+Estimated time to complete: 30 minutes
 
-Estimate time saving once complete: 
+Estimate time saving once complete: Virtually infinite
 
 ## Table of contents
 
@@ -30,11 +30,11 @@ Estimate time saving once complete:
 
 ## Getting started <a name="Getting_started"></a>
 
-Congratulations on making it this far! If you're reading this, you've survived pull requests, webhooks, and can probably even tell us know what the F in FOSS stands for (*not* Frustration, or any other F-word not often related to Open Source Software). Hopefully, you have overcome any skepticism or reluctance towards the benefits of GitHub and Open Source Software, and are ready to take the next step.
+Congratulations on making it this far! If you're reading this, you've survived pull requests, webhooks, and can probably even tell us know what the F in FOSS stands for (*not* Frustration...) Hopefully, you have overcome any skepticism or reluctance towards the benefits of GitHub and Open Source Software, and are ready to take the next step.
 
 Before starting this Task, make sure you have already completed [Task 1](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md) and [Task 2](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md), so that you are more familiar with GitHub and some standard Open Source practices.
 
-This task will teach you how to integrate the version control software, Git, with the popular coding environment, R Studio. And yes, it is Git as in gif or God, not Jit as in the wrong way of pronouncing things.
+This task will teach you how to integrate the version control software, Git, with the popular coding environment, RStudio. And yes, it is Git as in gif or God, not Jit as in the wrong way of pronouncing things.
 
 If you are one of those researchers who thinks that having code spread across multiple hard-drives that are waiting to break, Dropbox, Google Drive, or any other non-specialist software, this task is just for you. All of us are guilty of this sort of thing once in a while, but there are ways to do it that are better for you, future you, and those who might benefit from your work.
 
@@ -42,7 +42,7 @@ If you are one of those researchers who thinks that having code spread across mu
 
 ### Geting Git <a name="Git"></a>
 
-So, what is Git, and how is it different to GitHub? Git is a version control system, which enables you to save time-stamped copies of your work throughout the development process. It also works with non-code items too, like again, this MOOC, the majority of which was written in markdown in R Studio, and integrated with a Git/GitHub workflow.
+So, what is Git, and how is it different to GitHub? Git is a version control system, which enables you to save and track time-stamped copies of your work throughout the development process. It also works with non-code items too, like this MOOC, the majority of which was written in markdown in R Studio, and integrated with a Git/GitHub workflow.
 
 This is important, as all research goes through changes, and some times we want to know what those things were. Did you delete some text that you now think is important? Version control will save that for you. Did your code used to work perfectly, but is now buggy beyond belief? Version control. It's a great way to avoid that chaotic state where you have multiple copies of the same file, but without a stupid and annoying file naming convention. `FINAL_Revised_2.2_supervisor_edits_ver1.7_scream.txt` will be a thing of the past.
 
@@ -54,8 +54,6 @@ This is important, as all research goes through changes, and some times we want 
 
 <br/>
 
-
-
 GitHub is the platform that allows you to seamlessly share code from your workspace (e.g., laptop) to be hosted in an online space. So, sort of like the public interface to GitHub. The advantages of this are:
 
 1. You get to keep copies of all your work through time;
@@ -65,22 +63,29 @@ GitHub is the platform that allows you to seamlessly share code from your worksp
 5. You can see who made a change, why they made, and when;
 6. You can have multiple people working on the same project at once in parallel.
 
+<br/>
 
 ### RStudio <a name="Rstudio"></a>
 
-R studio is a popular coding environment for researchers who use the statistical programming language, R. It comes with a text editor, so you don't have to install another and switch between. It also includes a graphical user interface (GUI) to Git and GitHub, which we will be using here.
+RStudio is a popular coding environment for researchers who use the statistical programming language, R. It comes with a text editor, so you don't have to install another and switch between. It also includes a graphical user interface (GUI) to Git and GitHub, which we will be using here.
 
 Isn't it nice when brilliant Open Source tools integrate seamlessly like that.
 
 If at any point you need to install new packages for R, simply use the following command:
 
+<br/>
+
 `install.packages("PACKAGE NAME", dependencies = TRUE)`
+
+<br/>
 
 Replacing `PACKAGE NAME` with the, er, package name. Some examples you can play with that might come in useful include `knitr` or `ggplot2`.
 
+<br/>
+
 ## Step one: Download all the things <a name="one"></a>
 
-1. You should already have a GitHub account by now. If not, [sign up here](https://github.com/). Free unlimited repositories for all!
+1. You should already have a GitHub account by now if you have followed the previous tasks. If not, [sign up here](https://github.com/). Free unlimited repositories for all!
 2. Download and install the latest version of [R](https://www.r-project.org/). Also available for [Mac](https://cloud.r-project.org/) and [Linux](https://cloud.r-project.org/bin/linux/).
 3. Download and install the latest version of [Rstudio](https://www.rstudio.com/products/rstudio/#Desktop). Oh, hey, looks it Open Source! Swish.
 4. Download and install the latest version of [Git](https://gitforwindows.org/). **Make sure to Select “Use Git from the Windows Command Prompt” during installation.**
@@ -89,37 +94,69 @@ Replacing `PACKAGE NAME` with the, er, package name. Some examples you can play 
 
 For now, just choose all the usual default options for each install. Depending on which Operating System (e.g., Mac, Windows, Linux), this might be different for each of you. For now, and for the rest of this task, we're going to stick with doing things the easy-ish Windows way (but also provide some instructions for using the command line).
 
-If you want, you can also download the [local version of GitHub](https://desktop.github.com/) and use it through the simple GUI  - Graphical User Interface. It's available on Windows and Mac and Linux, and can make your life a little easier, especially if you want to use a different platform to RStudio.
+If you want, you can also download the [local version of GitHub](https://desktop.github.com/) and use it through the simple GUI. It's available on Windows and Mac and Linux, and can make your life a little easier, especially if you want to use a different platform to RStudio.
+
+> **Pro-tip:** You see when installing Git it says 'Use Git Bash as shell for Git projects?' This is the place where you can use the command-line to access Git from outside of RStudio. It's a powerful beast. Try the following two commands to get started:
+
+<br/>
+  `git config --global user.name 'YOUR USERNAME'`
+<br/>
+  `git config --global user.email 'YOUR EMAIL'`
+<br/>
 
 ## Step two: Configure Git inside RStudio <a name="two"></a>
 
-Right, that's the easy bit done. Next, go into RStudio, and in the tabs at the top go to Go to **Tools > Options > Git/SVN**. SVN is just another version control system like Git, and we don't need to worry about that here.
+Right, that's the easy bit done. Next, go into RStudio, and in the tabs at the top go to Go to **Tools > Global Options > Git/SVN**. SVN is just another version control system like Git, and we don't need to worry about that here.
 
-In the place where it says 'Git executable', add the pathway here to the git.exe file that you just downloaded. Make sure all the boxes here are ticked. 
+In the place where it says *Git executable*, add the pathway here to the git.exe file that you just downloaded in the previous step. Make sure all the boxes here are ticked.
 
-Restart R Studio. Whew, that was tough. Next.
+<p align="center">
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/git_svn.png" width="400px"/>
+</p>
 
-> **Pro-tip:** You see here where it says 'Use Git Bash as shell for Git projects?' This is the place where you can use the command-line to access Git from outside of RStudio. It's a powerful beast. If you want to play with this, try using the following simple commands:
+<p align="center"><i>The Global Options window inside RStudio</i></p>
 
+<br/>
+
+Next, hit the button in this window that says *Create RSA Key*, This is a private key that is used for authentication between different systems. Here, it will pop up a new window with a public key, that you want to copy to your clipboard. 
+
+Head over to GitHub, go to your profile settings, and the *SSH and GPG keys* tab. Click *New SSH key*. Here, paste in the key from RStudio, and call it something imaginative like 'RStudio'.
+
+<p align="center">
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/ssh_key.png" width="800px"/>
+</p>
+
+<p align="center"><i>Inside GitHub where you will want to enter the key you just generated in RStudio</i></p>
+
+<br/>
+
+OK, now hold on to your butts, we're going into the commandline. Back in RStudio, go to **Tools > Shell**, and it will open up a command prompt window. If you already played with the Git Bash above, you should have done this step already. Enter the following two commands:
+
+<br/>
 `git config --global user.name 'YOUR USERNAME'`
+<br/>
 `git config --global user.email 'YOUR EMAIL'`
+<br/>
 
 Hopefully it does not have to be said to substitute in your own GitHub username and email here. You can access this at any point just by finding the 'Shell' within Windows. Or, if you right click on any folder on your Desktop that is linked to a GitHub repo, you can open up the Shell instantly and Bash away.
 
+What this stage has done is configure Git, which is software that runs on your desktop, to GitHub, which is a repository website.
+
+Restart R Studio. Whew, that was tough. Next.
+
 ## Step three: Why did I just do that? <a name="three"></a>
 
-
-OK, hold your breathe, we're going to learn some Git commands. Some of the key ones you could do with learning are:
+OK, hold your breathe, we're going to learn some more Git commands. Some of the key ones you could do with learning are:
 
 * **Repository**: This is the location for all of the files associated with your project.
 
-* **Add**:
+* **Add**: This is where you submit files to the staging area before being committed.
 
-* **Commit**
+* **Commit** This is like 'saving' your work by creating a new version or copy.
 
-* **Push**:
+* **Push**: This is how you send files from your local project to the online repository.
 
-* **Pull**:
+* **Pull**: This is how you get files from your online repository to your local project.
 
 ## Step four: The perfect marriage between Git and R <a name="four"></a>
 
