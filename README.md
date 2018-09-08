@@ -10,11 +10,11 @@ To cite this work, please use the following:
 
 Tennant, J. et al. (01/08/2018) Open Science MOOC: Module 5, Open Research Software and Open Source (Version 1.0) Zenodo. [https://doi.org/10.5281/zenodo.1325081](https://zenodo.org/record/1325081#.W2GqGtL7RPY)
 
-- [**Content Development**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development) - This is where you can find all content currently being developed for the MOOc, and also contribute yourself.
+- [**Content Development**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development) - This is where you can find all content currently being developed for the MOOC, and also contribute yourself.
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit) - This is where the basic protocols and outline for the module development are kept. It includes a tracking scheme as the content development progresses.
 
-Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.github.io/site/Contact/).
+Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/contact/).
 
 ## Table of Contents
 
