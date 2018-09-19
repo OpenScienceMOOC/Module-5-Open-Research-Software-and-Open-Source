@@ -21,6 +21,9 @@ output:
  - [Using GitHub and Zenodo](#GitHub_Zenodo)
  - [Collaborating through Open Source](#Collaborating)
  - [Where to go from here](#Future_OSS)
+ 
+ 
+[IDEA: ONCE TEXT IS COMPLETE; CREATE AUDIO RECORDING FOR ALL OF THIS FOR EACH MODULE, and release as a podcast]
 
 
 ## Introduction <a name="Introduction"></a>
