@@ -48,14 +48,6 @@ So, what is Git, and how is it different to GitHub? Git is a version control sys
 
 This is important, as all research goes through changes and sometimes we want to know what those things were. Did you delete some text that you now think is important? Version control will save that for you. Did your code used to work perfectly, but is now buggy beyond belief? Version control. It's a great way to avoid that chaotic state where you have multiple copies of the same file, but without a stupid and annoying file naming convention. `FINAL_Revised_2.2_supervisor_edits_ver1.7_scream.txt` will be a thing of the past.
 
-<p align="center">
-  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/phdcomics.png" width="600px"/>
-</p>
-
-<p align="center"><i>Never again. (Source: phdcomics.com)</i></p>
-
-<br/>
-
 GitHub is the platform that allows you to seamlessly share code from your workspace (e.g., laptop) to be hosted in an online space. So, sort of like the public interface to GitHub. The advantages of Git/GitHub are:
 
 1. You get to keep copies of all your work through time;
