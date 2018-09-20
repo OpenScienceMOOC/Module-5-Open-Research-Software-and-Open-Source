@@ -6,7 +6,7 @@ output:
 
 # Task 3: How to integrate Git with R Studio
 
-This task is designed for students and researchers who want to implement a system of version control within a standard R-based workflow. This can be applied to a range of software development, data analysis and project management tasks. Your future research self will thank your for the convenience. 
+This task is designed for students and researchers who want to implement a system of version control within a standard R-based workflow. This can be applied to a range of software development, data analysis and project management tasks. Your future research self will thank your for the convenience.
 
 Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module5opensource, and tell us a bit about who you are, your background, and how you ended up here!
 
@@ -52,8 +52,8 @@ GitHub is the platform that allows you to seamlessly share code from your worksp
 
 1. You get to keep copies of all your work through time;
 2. You can compare work through different copies through time, which helps to spot bugs or errors;
-3. Other people can collaborate openly with your work; 
-4. You have both a local and an online copy of your work that remain in sync; 
+3. Other people can collaborate openly with your work;
+4. You have both a local and an online copy of your work that remain in sync;
 5. It is fully transparent as to who made a contribution, why they made it, and when; and
 6. You can have multiple people working on the same project at once in parallel.
 
@@ -108,19 +108,19 @@ Right, that's the easy bit done. Next, go into RStudio, and in the tabs at the t
 In the place where it says *Git executable*, add the pathway here to the git.exe file that you just downloaded in the previous step. Make sure the boxe here that says **Enable version control interface for RStudio projects** is ticked. This now has tied version control to future projects in RStudio, to provide a really powerful additional dimension to collaborative or solo work.
 
 <p align="center">
-  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/git_svn.png" width="400px"/>
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/git_svn.png?raw=true" width="400px"/>
 </p>
 
 <p align="center"><i>The Global Options window inside RStudio</i></p>
 
 <br/>
 
-Next, hit the button in this window that says *Create RSA Key*, This is a private key that is used for authentication between different systems, and saves you from having to type in your password over and over. Here, it will pop up a new window with a public key, that you want to copy to your clipboard. 
+Next, hit the button in this window that says *Create RSA Key*, This is a private key that is used for authentication between different systems, and saves you from having to type in your password over and over. Here, it will pop up a new window with a public key, that you want to copy to your clipboard.
 
 Head over to GitHub, go to your profile settings, and the *SSH and GPG keys* tab. Click *New SSH key*. Here, paste in the key from RStudio, and call it something imaginative like 'RStudio'.
 
 <p align="center">
-  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/ssh_key.png" width="800px"/>
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/ssh_key.png?raw=true" width="800px"/>
 </p>
 
 <p align="center"><i>Inside GitHub where you will want to enter the key you just generated in RStudio</i></p>
@@ -202,7 +202,7 @@ So, in RStudio, open that file try adding just a bit of information about this f
 Remember that your `README` file is in markdown (.md) format. For a refresher on some of the simple syntax markdown uses, check this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 <p align="center">
-  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/markdown.png" width="600px"/>
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/markdown.png?raw=true" width="600px"/>
 </p>
 
 <p align="center"><i>Screenshot of what this module looks in markdown, during development. Meta.</i></p>
@@ -258,7 +258,7 @@ Alright, so you just pushed some content to your first repo, awesome! Now let's 
 
 3. Head into RStudio, go to **File > New Project**, choose *Version Control*, select *Git*, and then paste the forkerd repository URL found in your copy of the repository. You now have your own versioned copy of this whole module. Neat. Save this somewhere on your local machine.
 
-4. Now, you need to tell Git that a different version of this project exists. Open up the *Shell*, and enter the command: `git remote add upstream https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source` 
+4. Now, you need to tell Git that a different version of this project exists. Open up the *Shell*, and enter the command: `git remote add upstream https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source`
 
 5. What you just did was name the original branch here `upstream`, just to keep things simple for now. Now, create a new **branch** to document your changes to this independent of the main branch. Enter the command: `git checkout -b proposed-changes master`
 
@@ -278,7 +278,7 @@ Alright, so you just pushed some content to your first repo, awesome! Now let's 
 
 You just integrated Git with R Studio, and made your first change to a version controlled project. Your life will now never be the same, and your research workflow will probably be more rapid, agile, and collaborative than ever. Good luck going back to Word.
 
-The great thing is that this doesn't have to just be used for code. You can use it for plain text, markdown, html, and, well, R code. The possibilities are limitless - what you have just learned is a new form of openly collaborative project management that works for an enormous range of tasks. 
+The great thing is that this doesn't have to just be used for code. You can use it for plain text, markdown, html, and, well, R code. The possibilities are limitless - what you have just learned is a new form of openly collaborative project management that works for an enormous range of tasks.
 
 From now on, it is all up to you! Some advice is to:
 
@@ -298,7 +298,7 @@ From now on, it is all up to you! Some advice is to:
 
 **Know a way this content can be improved?**
 
-Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_3.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator! 
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_3.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator!
 
 ## List of participants who completed the ADVANCED version of this task
 

@@ -1,7 +1,7 @@
 ---
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 # Task 1: How to set up a repository on GitHub
@@ -30,7 +30,7 @@ Estimate time saving once complete: Unimaginable..
 * [Check-list for launching your project](#Check-list)
 
 <p align="center">
-  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/Task1.png" alt="Task 1 workflow" width="600" height="861" style="margin-right: 30px; margin-left: 10px;" onmouseover="this.width='1200'; this.height='1722'" onmouseout="this.width='600'; this.height='861'">
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/Task1.png?raw=true" alt="Task 1 workflow" width="600" height="861" style="margin-right: 30px; margin-left: 10px;" onmouseover="this.width='1200'; this.height='1722'" onmouseout="this.width='600'; this.height='861'">
 </p>
 
 <p align="center"><i>The workflow for Task 1. Keep this handy as you work through the task!</i></p>
@@ -44,7 +44,7 @@ A 'repository' is really just a fancy name for a project on GitHub. GitHub is a 
 One of the most important things to consider at this early stage is to think about how you want the wider community to interact with your project. As you are working in the open, you want to make sure others feel comfortable in accessing, viewing, and engaging with your work. Setting up a repository in a way that lowers the barriers to entry, and the fear of being an 'outsider' is the first step towards maintaining a successful project.
 
 <p align="center">
-  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/octocat.png" width="150px" height="125px"/>
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/octocat.png?raw=true" width="150px" height="125px"/>
 </p>
 
 <p align="center"><i>Octocat, GitHub's little mascot</i></p>
@@ -55,7 +55,7 @@ One of the most important things to consider at this early stage is to think abo
 
 To set up a GitHub profile, simply head to the main page and click [Sign Up for GitHub](https://github.com/join). Here, you can create your personal account, with a username, email, and password as standard.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/github_signup.png" width="800" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/github_signup.png?raw=true" width="800" /></p>
 
 <p align="center"><i>Sign up for GitHub</i></p>
 
@@ -97,7 +97,7 @@ You can probably see how some of these are fairly similar to things like save, c
 If you are interested, most of these terms come from the underlying [Git system](https://git-scm.com). Git was built to allow developers to manage different versions of source code in a distributed manner, which is great. It has lots of features and the ability to do lots of complex stuff, written by a [very clever guy](https://www.linuxfoundation.org/blog/10-years-of-git-an-interview-with-git-creator-linus-torvalds/).  However, the [user interface was not designed with new users in mind](https://xkcd.com/1597/), so it can be hard to learn.
 
 <p align="center">
-  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/git.png" width="150px"/>
+  <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/git.png?raw=true" width="150px"/>
 </p>
 
 <p align="center"><i>Unbeatable guide to using Git. (Source: XKCD)</i></p>
@@ -109,7 +109,7 @@ If you are interested, most of these terms come from the underlying [Git system]
 
 On your GitHub profile, click the 'Create new repository'. The first step is to create a name as the brand for your project. Ideally, it should be memorable and give some indication of what the project does.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/new_repo.png" width="800" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/new_repo.png?raw=true" width="800" /></p>
 
 <p align="center"><i>Create a new repository</i></p>
 
@@ -128,9 +128,9 @@ Any GitHub repository requires 4 key elements to get started and to begin develo
 3. Contributing guidelines; and
 4. A Code of Conduct.
 
-These are critical aspects and best practices of any project for users to understand their legal rights, their expectations, the purpose of the project, and to improve the overall user experience. 
+These are critical aspects and best practices of any project for users to understand their legal rights, their expectations, the purpose of the project, and to improve the overall user experience.
 
-All four of these files should be kept in the root directory for your project repository. It is convention to use markdown file formats (`.md`) for most of these files (though the license file is most often plain text (`.txt`)), and capitalise all file names. Instead of spaces in file names, make sure to use underscores `_` . 
+All four of these files should be kept in the root directory for your project repository. It is convention to use markdown file formats (`.md`) for most of these files (though the license file is most often plain text (`.txt`)), and capitalise all file names. Instead of spaces in file names, make sure to use underscores `_` .
 
 So you should end up with a foundational file selection like this:
 
@@ -139,7 +139,7 @@ So you should end up with a foundational file selection like this:
 3. `CONTRIBUTING.md`
 4. `CODE_OF_CONDUCT.md`
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/foundation.png" width="800" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/foundation.png?raw=true" width="800" /></p>
 
 <p align="center"><i>The basic repository structure</i></p>
 
@@ -159,7 +159,7 @@ The three primary ones to choose from are:
 
 Thankfully, when you start a new repository on GitHub, you are given the option to select an existing license from a drop-down menu.  You should always (with very few exceptions) use an existing license, since this is what potential users and contributors will see before they choose to use or contribute to your software.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/license.png" width="800" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/license.png?raw=true" width="800" /></p>
 
 <p align="center"><i>Choosing an example license</i></p>
 
@@ -175,7 +175,7 @@ If they don't have one you want, you can add one you like manually. To do this, 
 
 When you initialise your new repository, there should be an option to do so with a `README` file. Just like Alice in Wonderland, these do exactly what they say - provide key information about the project. These are typically the first thing outside contributors will see when they come to your repository, so making them informative and welcoming is key.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/readme.png" width="800" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/readme.png?raw=true" width="800" /></p>
 
 <p align="center"><i>Part of the README file for this module</i></p>
 
@@ -200,7 +200,7 @@ Remember that not everyone coming to your project will be an expert, or understa
 
 When the `README` file is included in the root directory, GitHub will automatically display this on the homepage of your repository. This means it is the first thing people will often see, so make it count!
 
-> **Helping hand**: Here, you can find the `README` file used for this [MOOC module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md). This includes information on the status, rationale, learning outcomes, development team, key documents, and license to help. You can copy and adapt this structure for your own projects as needed. 
+> **Helping hand**: Here, you can find the `README` file used for this [MOOC module](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md). This includes information on the status, rationale, learning outcomes, development team, key documents, and license to help. You can copy and adapt this structure for your own projects as needed.
 
 <br/>
 
@@ -208,7 +208,7 @@ When the `README` file is included in the root directory, GitHub will automatica
 
 Contributing guidelines are designed to communicate to potential contributors a short guide on how to engage with your project and community. You want to make sure to be welcoming, and indicate that you are eager for participants to engage with your project. Whenever a participant opens a new pull request or creates a new issue, they will see a link to your contribution file.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/contributing.png" width="800" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/contributing.png?raw=true" width="800" /></p>
 
 <p align="center"><i>Part of the `CONTRIBUTING` guidelines for this module</i></p>
 
@@ -238,7 +238,7 @@ Here, you are essentially trying to encourage people to volunteer their time to 
 
 A code of conduct is important for setting the ground rules for expected behaviour and participation for project contributors, and is an easily referenced document for showing that your project team takes constructive dialogues seriously. Therefore, it is a critical element for creating and maintaining a healthy community that engages in a constructive and productive manner within a positive social atmosphere.
 
-A code of conduct not only provides expectations of behaviour, but also describes who those expectations apply to, when they apply, what to do should a violation of the code occur, and what the action items for this will be. As such, points of contact need to be made clear in the code of conduct. Typically, this should be in a private way such as an email address. 
+A code of conduct not only provides expectations of behaviour, but also describes who those expectations apply to, when they apply, what to do should a violation of the code occur, and what the action items for this will be. As such, points of contact need to be made clear in the code of conduct. Typically, this should be in a private way such as an email address.
 
 > **Pro-tip**: In case a violation needs to be reported about the person who receives those reports, make sure to include an option to contact a secondary party.
 
@@ -246,7 +246,7 @@ To add a code of conduct, you can create your own from scratch by adding a new m
 
 > **Helping hand**: This MOOC also has a [Code of Conduct](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CODE_OF_CONDUCT.md) based on the Contributor Covenant. As you can see, it includes information on expected standards of behaviour, responsibilities of those in the community, and enforcement of the CoC including contact details. Feel free again to re-use and adapt this to your project as you see fit.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/code_of_conduct.png" width="800" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/code_of_conduct.png?raw=true" width="800" /></p>
 
 <p align="center"><i>Part of the CODE OF CONDUCT file for this module, based on the Contributor Covenant</i></p>
 
@@ -278,7 +278,7 @@ Key elements for issues include:
 * Assignees indicate who is responsible for working on an issue;
 * Comments for providing feedback.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/issues.png" width="800" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/issues.png?raw=true" width="800" /></p>
 
 <p align="center"><i>The issue tracker for the Open Scholarship Strategy project</i></p>
 
@@ -299,7 +299,7 @@ So now you are ready to launch your project, begin advertising it, and getting c
 - [ ] Any code included at this stage is clearly structured and annotated
 
 
-**CONGRATULATIONS!** 
+**CONGRATULATIONS!**
 
 You have now launched an Open Source research project! Hopefully, from here on out, your work will act to benefit the wider community, forge new collaborations, and create new and fantastic opportunities for you all. Try and think about ways in which these skills can be applied to future projects, and how they might also have helped with some in the past.
 
@@ -316,4 +316,4 @@ From now on, it is all up to you! Some advice is to:
 
 **Know a way this content can be improved?**
 
-Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator! 
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator!
