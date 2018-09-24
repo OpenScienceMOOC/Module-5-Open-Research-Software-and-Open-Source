@@ -2,13 +2,15 @@
 
 These are the main content development files for the MOOC module production.
 
-**STATUS**: The first release for this module is now ready, and has been published on Zenodo: 
+**STATUS**: The second release for this module is now ready, and has been published on Zenodo: 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
+Ver. 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
+
+Ver. 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
 
 To cite this work, please use the following:
 
-Tennant, J. et al. (01/08/2018) Open Science MOOC: Module 5, Open Research Software and Open Source (Version 1.0) Zenodo. [https://doi.org/10.5281/zenodo.1325081](https://zenodo.org/record/1325081#.W2GqGtL7RPY)
+Tennant, J. et al. (23/09/2018) Open Science MOOC: Module 5, Open Research Software and Open Source (Version 2.0) Zenodo. [http://doi.org/10.5281/zenodo.1434288](http://doi.org/10.5281/zenodo.1434288)
 
 Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md) before making changes here.
 
