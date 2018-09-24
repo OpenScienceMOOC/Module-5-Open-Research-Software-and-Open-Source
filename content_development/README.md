@@ -16,7 +16,7 @@ Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC
 
 These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format.
 
-**IMPORTANT** Please edit the markdown files, not the iPython files. These will be periodically converted and synchronised as needed.
+**IMPORTANT** Please edit the **markdown** files, not the iPython/html files. These will be periodically converted and synchronised as needed.
 
 ### In markdown format
 
@@ -33,9 +33,19 @@ Note: These are best viewed in Juypter for full functionality, as opposed to the
 - [**TASK 1**](Task_1.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.ipynb) to view)
 - [**TASK 2**](Task_2.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.ipynb) to view)
 
-
 ## In PDF format 
 
+- [**MAIN CONTENT**](Main.pdf)
+- [**TASK 1**](Task_1.pdf)
+- [**TASK 2**](Task_2.pdf)
+- [**TASK 3**](Task_3.pdf)
+
+## In html format 
+
+- [**MAIN CONTENT**](Main.html)
+- [**TASK 1**](Task_1.html)
+- [**TASK 2**](Task_2.html)
+- [**TASK 3**](Task_3.html)
 
 ## Production files
 
@@ -43,7 +53,6 @@ Note: These are best viewed in Juypter for full functionality, as opposed to the
 1. [Design](02-design.md)
 1. [Recording and editing](03-recording.md)
 1. [Internal reviewing](04-quizzes.md)
-
 
 ## Key resources from [production toolkit](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit)
 
