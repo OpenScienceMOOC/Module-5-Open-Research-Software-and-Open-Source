@@ -35,14 +35,14 @@ Note: These are best viewed in Juypter for full functionality, as opposed to the
 
 ## In PDF format 
 
-- [**MAIN CONTENT**](Main.pdf)
+- [**MAIN CONTENT**](MAIN.pdf)
 - [**TASK 1**](Task_1.pdf)
 - [**TASK 2**](Task_2.pdf)
 - [**TASK 3**](Task_3.pdf)
 
 ## In html format 
 
-- [**MAIN CONTENT**](Main.html)
+- [**MAIN CONTENT**](MAIN.html)
 - [**TASK 1**](Task_1.html)
 - [**TASK 2**](Task_2.html)
 - [**TASK 3**](Task_3.html)
