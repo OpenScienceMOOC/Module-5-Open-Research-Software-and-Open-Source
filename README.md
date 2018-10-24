@@ -1,28 +1,33 @@
 # Module 5: Open Research Software and Open Source
 
+## Table of Contents
+
+1. [Introduction](#Introduction)<a name="Introduction"></a>
+2. [Rationale](#Rationale)
+3. [Learning outcomes](#Learning_outcomes)
+4. [Development team](#Development_team)
+5. [Key documents](#Key_documents)
+6. [Licenses](#Licenses)
+
+## Introduction
+
 Welcome to Module 5 of the Open Science MOOC! Here you can find important information on the development of the module, including the latest updates to the content.
 
-**STATUS**: The first release for this module is now ready, and has been published on Zenodo: 
+**STATUS**: The second release for this module is now ready, and has been published on Zenodo: 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
+Ver. 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
+
+Ver. 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
 
 To cite this work, please use the following:
 
-Tennant, J. et al. (01/08/2018) Open Science MOOC: Module 5, Open Research Software and Open Source (Version 1.0) Zenodo. [https://doi.org/10.5281/zenodo.1325081](https://zenodo.org/record/1325081#.W2GqGtL7RPY)
+Tennant, J. et al. (23/09/2018) Open Science MOOC: Module 5, Open Research Software and Open Source (Version 2.0) Zenodo. [http://doi.org/10.5281/zenodo.1434288](http://doi.org/10.5281/zenodo.1434288)
 
 - [**Content Development**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/content_development) - This is where you can find all content currently being developed for the MOOC, and also contribute yourself.
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit) - This is where the basic protocols and outline for the module development are kept. It includes a tracking scheme as the content development progresses.
 
-Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/contact/).
-
-## Table of Contents
-
-1. [Rationale](#Rationale)
-2. [Learning outcomes](#Learning_outcomes)
-3. [Development team](#Development_team)
-4. [Key documents](#Key_documents)
-5. [Licenses](#Licenses)
+Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/contact/). To join the development team for the Open Science MOOC, anyone can openly add themselves [here](https://open-science-mooc-invite.herokuapp.com/).
 
 
 ## Rationale <a name="Rationale"></a>
@@ -40,6 +45,7 @@ Software and technology underpin modern science. There is an increasing demand f
 
 
 ## Development team <a name="Development_team"></a>
+
 - [Alex Morley](https://twitter.com/alex__morley), Open Sourceror, University of Oxford, UK.
 - [Kevin Moerman](https://twitter.com/KMMoerman), Open Sourceror, MIT, USA.
 - [Tania Allard](https://twitter.com/ixek), Open Sourceress, Data Enchantress, University of Leeds, UK.
