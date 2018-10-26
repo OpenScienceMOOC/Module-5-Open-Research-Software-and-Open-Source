@@ -98,4 +98,5 @@ Signed:
 [please add names here]
 - Heidi Seibold
 - Konrad Förstner
+- Ina Smith
 
