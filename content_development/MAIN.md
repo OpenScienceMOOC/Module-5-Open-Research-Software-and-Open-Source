@@ -22,21 +22,15 @@ output:
  - [Collaborating through Open Source](#Collaborating)
  - [Where to go from here](#Future_OSS)
 
-
-[IDEA: ONCE TEXT IS COMPLETE; CREATE AUDIO RECORDING FOR ALL OF THIS FOR EACH MODULE, and release as a podcast]
-
+**PLEASE NOTE** that an audio version of this is available to download via [Soundcloud](https://soundcloud.com/open-science-mooc/module-5-open-source-and-open-research-software) and [YouTube](https://www.youtube.com/watch?v=BHrOEmKk5zM).
 
 ## Introduction <a name="Introduction"></a>
 
 Welcome to **Module 5** of the Open Science MOOC: **Open Research Software and Open Source**.
 
-This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-). Everything you see here has been developed in the open through interactive feedback and collaboration from the wider community. It comprises a series of videos, infographics, text-based reading (sorry), and practical tasks for you to sink you teeth into.
+This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-). Everything you see here has been developed in the open through interactive feedback and collaboration from the wider community. It comprises a series of videos, infographics, text-based reading, and practical tasks for you to sink you teeth into.
 
 Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module5opensource, and tell us a bit about who you are, your background, and how you ended up here!
-
-### Why should you take this module?
-
-[TO ADD: Introductory video]
 
 ### Who is this module for?
 

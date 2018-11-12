@@ -10,6 +10,8 @@ This task is designed for students and researchers who want to create their firs
 
 Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module5opensource, and tell us a bit about who you are, your background, and how you ended up here!
 
+**PLEASE NOTE** that a screen recording for this task is also available via [YouTube](https://www.youtube.com/watch?v=AnftV9HBPSc&).
+
 Estimated time to complete: 30-45 minutes.
 
 Estimate time saving once complete: Unimaginable..
