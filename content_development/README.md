@@ -1,12 +1,12 @@
 # Module 5 content development
 
-These are the main content development files for the MOOC module production.
+These are the main content development files for this MOOC module.
 
 **STATUS**: The second release for this module is now ready, and has been published on Zenodo: 
 
-Ver. 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
+Version 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
 
-Ver. 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
+Version 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
 
 To cite this work, please use the following:
 
@@ -14,9 +14,11 @@ Tennant, J. et al. (23/09/2018) Open Science MOOC: Module 5, Open Research Softw
 
 Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md) before making changes here.
 
+Anyone can join our [open Slack channel](https://openmooc-ers-slackin.herokuapp.com/) and [team on GitHub](https://open-science-mooc-invite.herokuapp.com/) for the whole MOOC project.
+
 ## Core content
 
-These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format. PDF and HTML versions are created using [pandoc](https://pandoc.org/demos.html) and the [markdown to PDF](https://atom.io/packages/markdown-pdf) package for Atom.
+These are the draft content files. The content is fully accessible, and can be used for learning purposes, either individually or as a group, and can be shared and re-used as you wish. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format. PDF and HTML versions are created using [pandoc](https://pandoc.org/demos.html) and the [markdown to PDF](https://atom.io/packages/markdown-pdf) package for [Atom](https://atom.io/).
 
 For notedown:
 1. Make sure you're working in Linux or Debian
