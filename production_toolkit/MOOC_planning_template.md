@@ -46,37 +46,37 @@ Red: Launch date in danger
 |  Identify promotion channels |  Yep |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/06/31 | |
 | **Design and scripting**  |          |             |                 |                    |
 |  Identify key resources |   Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/06/31  | Sprint success! |
-|  Design learner activities   | Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/06/31  | |
+|  Design learner activities   | Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/06/31  | 3/3 completed |
 |  Find existing key resources  |  Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/06/31 | Sprint success! |
-|  Write audio/video scripts   |  In prep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/08/31  | |
-|  Review all learning resources  |     |    |   | 2018/08/31 |
-|  Finalise all scripts   |     |    |   | 2018/08/31 |
-|  Copyright strategy  |     |    |   | 2018/08/31 |
+|  Write audio/video scripts   |  In prep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/08/31  | 2/6 completed |
+|  Review all learning resources  |  In prep   |    |   | 2018/11/31 |
+|  Finalise all scripts   |   In prep  |    |   | 2018/11/31 |
+|  Copyright strategy  |   Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |   | 2018/08/31 |
 | **Recording and editing**  |                   |           |                 |                    |
 |  Record on location/in studio  |    |    |   | |
 |  Edit all audio/visual material  |     |    |   | |
 | **Internal reviewing**  |                   |           |                 |                    |
-|  Cross-check and review content  | In prep  | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/08/31 |  |
-|  Checks from Steering Committee  | In prep |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/08/31 |  |
+|  Cross-check and review content  | In prep  | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/08/31 | Continuous process |
+|  Checks from Steering Committee  | In prep |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/08/31 | Continuous process |
 | **External testing and review**  |         |           |           |                    |
-|  All reviewing conducted via GitHub  |  In prep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/08/31 |  |
+|  All reviewing conducted via GitHub  |  In prep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/08/31 | Continuous process |
 |  Existing channels from communications strategy  |     |    |   | |
 | **Internal reviewing and finalisation**  |           |           |                 |              |
 |  Cross-review and check content  |     |    |   | |
 |  Final checks from Steering Committee  |     |    |   | |
 | **Implementation**  |           |           |                 |              |
 |  Agreement on platform  |  In prep   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   | 2018/08/31  | |
-|  Module logo designed  |  In prep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/08/31 | |
+|  Module logo designed  |  Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/08/31 | |
 |  Module description and introduction  |   Yes  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/07/31 |  |
 |  Team member and guest lecturer agreements  |  Yes   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/07/31 |  |
 |  Team member and guest lecturer profiles  |   Yes  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/07/31  |  |
 |  Course readings acquired  |  Yes   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/07/31  |  |
 |  Port content to selected platform  |     |    |   | |
-|  All content deposited in the Open Science Framework |     |    |   | Zenodo |
+|  All content deposited in Zenodo |  Yep   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/08/31 | Second release completed |
 | **Promotion**  |           |           |                 |              |
 |  Content and communication calendar/strategy/timeline  |     |    |   | |
 |  Identify relevant channels (mailing lists, social media and hashtags, organisations, individuals, websites, conferences)  |  Yes  | ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/07/31  | |
-|  Images for use in social media  |  In prep   |    |   | |
+|  Images for use in social media  |  Yep   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/07/31 | |
 |  Course title marketing check |   Yes  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/07/31  | |
 | **Launch**  |           |           |                 |              |
 |  Publicity start  |     |    |   | |
