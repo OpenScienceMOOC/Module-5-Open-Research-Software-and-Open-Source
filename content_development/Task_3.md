@@ -304,3 +304,7 @@ Time to take your new GitHub skills for a test-run! All content development prim
 
 * YOUR NAME AND AFFILIATION HERE
 * YOUR NAME AND AFFILIATION HERE
+
+
+[![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
