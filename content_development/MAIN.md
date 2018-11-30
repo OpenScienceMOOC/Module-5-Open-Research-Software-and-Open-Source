@@ -126,17 +126,17 @@ Now, this all might be a little complex to remember. However, it can be summaris
 
 There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/es/02opensciencebasics/03openresearchsoftwareandopensource#knowledge) provides a check-list to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
 
-* Is the software available to download and install?
+- [ ] Is the software available to download and install?
 
-* Can the software easily be installed on different platforms?
+- [ ] Can the software easily be installed on different platforms?
 
-* Does the software have conditions on the use?
+- [ ] Does the software have conditions on the use?
 
-* Is the source code available for inspection?
+- [ ] Is the source code available for inspection?
 
-* Is the full history of the source code available for inspection through a publicly available version history?
+- [ ] Is the full history of the source code available for inspection through a publicly available version history?
 
-* Are the dependencies of the software (hardware and software) described properly? Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
+- [ ] Are the dependencies of the software (hardware and software) described properly? Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
 
 Check, check, check, done! Simples.
 
