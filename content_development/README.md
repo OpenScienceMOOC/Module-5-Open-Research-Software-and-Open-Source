@@ -2,7 +2,11 @@
 
 These are the main content development files for this MOOC module.
 
-**STATUS**: The second release for this module is now ready, and has been published on Zenodo: 
+**STATUS**: 
+
+**LIVE! This module is now online and ready to go via [Eliademy](https://eliademy.com/app/a/courses/02d7338a7e).**
+
+The second release for this module is now also ready, and has been published on Zenodo: 
 
 Version 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
 
