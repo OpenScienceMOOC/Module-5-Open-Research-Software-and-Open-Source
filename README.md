@@ -13,7 +13,11 @@
 
 Welcome to Module 5 of the Open Science MOOC! Here you can find important information on the development of the module, including the latest updates to the content.
 
-**STATUS**: The second release for this module is now ready, and has been published on Zenodo: 
+**STATUS**: LIVE
+
+This module us now LIVE on [Eliademy](https://eliademy.com/app/a/courses/02d7338a7e).
+
+The second release for this module is now also ready, and has been published on Zenodo: 
 
 Ver. 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
 
