@@ -154,13 +154,14 @@ These definitions have now become widely adopted, both by international governme
 
 ### For individual projects
 
-A typical open source project has the following types formal roles:
+A typical open source project has the following types of formal roles:
 
 - **Author**: It is the  person that created the project
 - **Owner**: The person/s who has administrative ownership over the organization or repository 
 - **Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
 - **Contributors**: The user that has already contributed to the project.
 - **Community Members**: People who use the project. They might be active in conversations, create new issues or express their opinion on the future project improvements.
+
 Typically, roles are made public through either the `README` file, a Contributors file, or a separate team page for the project.
 
 <br/>
