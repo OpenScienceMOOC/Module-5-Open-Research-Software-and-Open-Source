@@ -12,7 +12,7 @@ Version 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](htt
 
 Version 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
 
-To cite this work, please use the following:
+To cite this work, please use the following reference:
 
 Tennant, J. et al. (23/09/2018) Open Science MOOC: Module 5, Open Research Software and Open Source (Version 2.0) Zenodo. [http://doi.org/10.5281/zenodo.1434288](http://doi.org/10.5281/zenodo.1434288)
 
