@@ -14,6 +14,8 @@ Estimated time to complete: 30 minutes
 
 Estimate time saving once complete: Virtually infinite
 
+**NOTE** A video guide version of this task is now available on [YouTube](https://www.youtube.com/watch?v=Q-6jfjSAspA).
+
 ## Table of contents
 
 * [Getting started](#Getting_started)
