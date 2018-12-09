@@ -34,10 +34,10 @@ For notedown:
 
 ### In markdown format
 
-- [**MAIN CONTENT**](MAIN.md) - The main content for this Module.
-- [**TASK 1**](Task_1.md) - How to set up your first repository on GitHub.
-- [**TASK 2**](Task_2.md) - How to make your code citable using GitHub and Zenodo.
-- [**TASK 3**](Task_3.md) - How to integrate Git with RStudio.
+- [**MAIN CONTENT**](MAIN.md) - The main content for this Module. 
+- [**TASK 1**](Task_1.md) - How to set up your first repository on GitHub. ([YouTube video](https://www.youtube.com/watch?v=AnftV9HBPSc&t=4s))
+- [**TASK 2**](Task_2.md) - How to make your code citable using GitHub and Zenodo. ([YouTube video](https://www.youtube.com/watch?v=pjsbBQYOOaE&t=4s))
+- [**TASK 3**](Task_3.md) - How to integrate Git with RStudio. ([YouTube video](https://www.youtube.com/watch?v=Q-6jfjSAspA))
 
 ### In iPython notebook format
 
