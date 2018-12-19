@@ -304,14 +304,9 @@ Time to take your new GitHub skills for a test-run! All content development prim
 
 ## List of participants who completed the ADVANCED version of this task
 
-<<<<<<< HEAD
+* Brendan Palmer,CRF-C, University College Cork
 * Lisa Matthias, Freie Universität Berlin
 * YOUR NAME AND AFFILIATION HERE
 
 
 [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-=======
-* Brendan Palmer
-* CRF-C, University College Cork
->>>>>>> 910b662639c9fe22dab1bb93582f4275bffd797f
