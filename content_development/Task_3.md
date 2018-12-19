@@ -14,6 +14,8 @@ Estimated time to complete: 30 minutes
 
 Estimate time saving once complete: Virtually infinite
 
+**NOTE** A video guide version of this task is now available on [YouTube](https://www.youtube.com/watch?v=Q-6jfjSAspA).
+
 ## Table of contents
 
 * [Getting started](#Getting_started)
@@ -105,7 +107,7 @@ If you want, you can also download the [local version of GitHub](https://desktop
 
 Right, that's the easy bit done. Next, go into RStudio, and in the tabs at the top go to Go to **Tools > Global Options > Git/SVN**. SVN is just another version control system like Git, and we don't need to worry about that here.
 
-In the place where it says *Git executable*, add the pathway here to the git.exe file that you just downloaded in the previous step. Make sure the boxe here that says **Enable version control interface for RStudio projects** is ticked. This now has tied version control to future projects in RStudio, to provide a really powerful additional dimension to collaborative or solo work.
+In the place where it says *Git executable*, add the pathway here to the git.exe file that you just downloaded in the previous step. Make sure the box here that says **Enable version control interface for RStudio projects** is ticked. This now has tied version control to future projects in RStudio, to provide a really powerful additional dimension to collaborative or solo work.
 
 <p align="center">
   <img src="https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/images/git_svn.png?raw=true" width="400px"/>
@@ -256,7 +258,7 @@ Alright, so you just pushed some content to your first repo, awesome! Now let's 
 
 2. Fork the repository to your own GitHub account. The URL for this should be: `https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source.git`
 
-3. Head into RStudio, go to **File > New Project**, choose *Version Control*, select *Git*, and then paste the forkerd repository URL found in your copy of the repository. You now have your own versioned copy of this whole module. Neat. Save this somewhere on your local machine.
+3. Head into RStudio, go to **File > New Project**, choose *Version Control*, select *Git*, and then paste the forked repository URL found in your copy of the repository. You now have your own versioned copy of this whole module. Neat. Save this somewhere on your local machine.
 
 4. Now, you need to tell Git that a different version of this project exists. Open up the *Shell*, and enter the command: `git remote add upstream https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source`
 
@@ -302,5 +304,14 @@ Time to take your new GitHub skills for a test-run! All content development prim
 
 ## List of participants who completed the ADVANCED version of this task
 
+<<<<<<< HEAD
+* Lisa Matthias, Freie Universität Berlin
+* YOUR NAME AND AFFILIATION HERE
+
+
+[![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+=======
 * Brendan Palmer
 * CRF-C, University College Cork
+>>>>>>> 910b662639c9fe22dab1bb93582f4275bffd797f

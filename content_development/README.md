@@ -1,31 +1,43 @@
 # Module 5 content development
 
-These are the main content development files for the MOOC module production.
+These are the main content development files for this MOOC module.
 
-**STATUS**: The second release for this module is now ready, and has been published on Zenodo: 
+**STATUS**: 
 
-Ver. 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
+**LIVE! This module is now online and ready to go via [Eliademy](https://eliademy.com/app/a/courses/02d7338a7e).**
 
-Ver. 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
+The second release for this module is now also ready, and has been published on Zenodo: 
 
-To cite this work, please use the following:
+Version 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
+
+Version 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
+
+To cite this work, please use the following reference:
 
 Tennant, J. et al. (23/09/2018) Open Science MOOC: Module 5, Open Research Software and Open Source (Version 2.0) Zenodo. [http://doi.org/10.5281/zenodo.1434288](http://doi.org/10.5281/zenodo.1434288)
 
 Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md) before making changes here.
 
+Anyone can join our [open Slack channel](https://openmooc-ers-slackin.herokuapp.com/) and [team on GitHub](https://open-science-mooc-invite.herokuapp.com/) for the whole MOOC project.
+
 ## Core content
 
-These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format.
+These are the draft content files. The content is fully accessible, and can be used for learning purposes, either individually or as a group, and can be shared and re-used as you wish. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format. PDF and HTML versions are created using [pandoc](https://pandoc.org/demos.html) and the [markdown to PDF](https://atom.io/packages/markdown-pdf) package for [Atom](https://atom.io/).
 
-**IMPORTANT** Please edit the **markdown** files, not the iPython/html files. These will be periodically converted and synchronised as needed.
+For notedown:
+1. Make sure you're working in Linux or Debian
+2. Change working directory: eg `cd /mnt/c/users/pc/desktop/`
+3. Install notedown: `pip install notedown`
+4. Convert files: `notedown input.md > output.ipynb`
+
+**IMPORTANT** Please edit the **markdown** files, not the iPython/HTML files. These will be periodically converted and synchronised as needed.
 
 ### In markdown format
 
-- [**MAIN CONTENT**](MAIN.md) - The main content for this Module.
-- [**TASK 1**](Task_1.md) - How to set up a repository on GitHub.
-- [**TASK 2**](Task_2.md) - How to make your code citable using GitHub and Zenodo.
-- [**TASK 3**](Task_3.md) - How to integrate Git with RStudio.
+- [**MAIN CONTENT**](MAIN.md) - The main content for this Module. 
+- [**TASK 1**](Task_1.md) - How to set up your first repository on GitHub. ([YouTube video](https://www.youtube.com/watch?v=AnftV9HBPSc&t=4s))
+- [**TASK 2**](Task_2.md) - How to make your code citable using GitHub and Zenodo. ([YouTube video](https://www.youtube.com/watch?v=pjsbBQYOOaE&t=4s))
+- [**TASK 3**](Task_3.md) - How to integrate Git with RStudio. ([YouTube video](https://www.youtube.com/watch?v=Q-6jfjSAspA))
 
 ### In iPython notebook format
 
@@ -34,6 +46,7 @@ Note: These are best viewed in Juypter for full functionality, as opposed to the
 - [**MAIN CONTENT**](MAIN.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.ipynb) to view)
 - [**TASK 1**](Task_1.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.ipynb) to view)
 - [**TASK 2**](Task_2.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.ipynb) to view)
+- [**TASK 3**](Task_3.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_3.ipynb) to view)
 
 ## In PDF format 
 
@@ -42,7 +55,7 @@ Note: These are best viewed in Juypter for full functionality, as opposed to the
 - [**TASK 2**](Task_2.pdf)
 - [**TASK 3**](Task_3.pdf)
 
-## In html format 
+## In HTML format 
 
 - [**MAIN CONTENT**](MAIN.html)
 - [**TASK 1**](Task_1.html)

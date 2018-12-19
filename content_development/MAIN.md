@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 # Module 5: Open Research Software and Open Source
@@ -22,21 +22,15 @@ output:
  - [Collaborating through Open Source](#Collaborating)
  - [Where to go from here](#Future_OSS)
 
-
-[IDEA: ONCE TEXT IS COMPLETE; CREATE AUDIO RECORDING FOR ALL OF THIS FOR EACH MODULE, and release as a podcast]
-
+**PLEASE NOTE** that an audio version of this is available to download via [Soundcloud](https://soundcloud.com/open-science-mooc/module-5-open-source-and-open-research-software) and [YouTube](https://www.youtube.com/watch?v=BHrOEmKk5zM).
 
 ## Introduction <a name="Introduction"></a>
 
 Welcome to **Module 5** of the Open Science MOOC: **Open Research Software and Open Source**.
 
-This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-). Everything you see here has been developed in the open through interactive feedback and collaboration from the wider community. It comprises a series of videos, infographics, text-based reading (sorry), and practical tasks for you to sink you teeth into.
+This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) through collaboration by an international team of [Open Source afficianados](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/README.md#development-team-). Everything you see here has been developed in the open through interactive feedback and collaboration from the wider community. It comprises a series of videos, infographics, text-based reading, and practical tasks for you to sink you teeth into.
 
 Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module5opensource, and tell us a bit about who you are, your background, and how you ended up here!
-
-### Why should you take this module?
-
-[TO ADD: Introductory video]
 
 ### Who is this module for?
 
@@ -132,17 +126,17 @@ Now, this all might be a little complex to remember. However, it can be summaris
 
 There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/es/02opensciencebasics/03openresearchsoftwareandopensource#knowledge) provides a check-list to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
 
-* Is the software available to download and install?
+- [ ] Is the software available to download and install?
 
-* Can the software easily be installed on different platforms?
+- [ ] Can the software easily be installed on different platforms?
 
-* Does the software have conditions on the use?
+- [ ] Does the software have conditions on the use?
 
-* Is the source code available for inspection?
+- [ ] Is the source code available for inspection?
 
-* Is the full history of the source code available for inspection through a publicly available version history?
+- [ ] Is the full history of the source code available for inspection through a publicly available version history?
 
-* Are the dependencies of the software (hardware and software) described properly? Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
+- [ ] Are the dependencies of the software (hardware and software) described properly? Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
 
 Check, check, check, done! Simples.
 
@@ -160,13 +154,13 @@ These definitions have now become widely adopted, both by international governme
 
 ### For individual projects
 
-Within OSS projects, there are typically three main formal roles:
+A typical open source project has the following types of formal roles:
 
-* **Maintainer**;
-* **Contributor**; and
-* **Committer**.
-
-A **maintainer** is a user with 'commit' access to implement suggested changes to the project. They have responsibility for the direction and improvement of the project. A **contributor** is someone who directly adds value to the project through issue resolution, code writing, or even external activities such as communications and event organisation. A **committer** is someone who can make 'commits' to the project (see [Task 1](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md)).
+- **Author**: It is the  person that created the project
+- **Owner**: The person/s who has administrative ownership over the organization or repository 
+- **Maintainers**: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. (They may also be authors or owners of the project.)
+- **Contributors**: The user that has already contributed to the project.
+- **Community Members**: People who use the project. They might be active in conversations, create new issues or express their opinion on the future project improvements.
 
 Typically, roles are made public through either the `README` file, a Contributors file, or a separate team page for the project.
 
@@ -464,3 +458,5 @@ However, your Open Source journey does not stop here! This was just the beginnin
 **Know a way this content can be improved?**
 
 Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator!
+
+[![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
