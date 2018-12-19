@@ -304,7 +304,7 @@ Time to take your new GitHub skills for a test-run! All content development prim
 
 ## List of participants who completed the ADVANCED version of this task
 
-* YOUR NAME AND AFFILIATION HERE
+* Lisa Matthias, Freie Universität Berlin
 * YOUR NAME AND AFFILIATION HERE
 
 
