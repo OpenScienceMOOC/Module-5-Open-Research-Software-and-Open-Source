@@ -306,6 +306,7 @@ Time to take your new GitHub skills for a test-run! All content development prim
 
 * Brendan Palmer,CRF-C, University College Cork
 * Lisa Matthias, Freie Universität Berlin
+* Hollie Marshall, University of Leicester 
 * YOUR NAME AND AFFILIATION HERE
 
 
