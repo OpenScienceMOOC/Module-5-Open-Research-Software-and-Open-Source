@@ -13,7 +13,7 @@ Don't forget you can join in the discussions over at our open [**Slack channel**
 Estimated time to complete: 45-60 minutes.
 
 ## Table of contents
-- [Foreword](#foreword)
+- [Foreword](#Foreword)
 - [Set up a GitHub repository](#Setup)
 - [Choose your GitHub repository](#Choose)
 - [Login to Zenodo](#Login)
