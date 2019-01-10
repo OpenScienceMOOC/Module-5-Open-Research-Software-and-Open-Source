@@ -1,3 +1,5 @@
+All hyperlinks work?: [![Build Status](https://travis-ci.org/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source.svg?branch=master)](https://travis-ci.org/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source)
+
 # Module 5: Open Research Software and Open Source
 
 ## Table of Contents
