@@ -17,7 +17,7 @@ If you want to contribute, please firstly join our open [Slack channel](https://
 
 If you have questions about the project, please [email us](info@opensciencemooc.eu) directly.
 
-Stay tuned on what's happening on Twitter with [@OpenSci_MOOC](https://twitter.com/OpenSci_MOOC).
+Stay tuned on what's happening on Twitter with [@OpenSci_MOOC](https://twitter.com/OpenScienceMOOC).
 
 For partnerships, please see [here](https://opensciencemooc.github.io/site/About/).
 
