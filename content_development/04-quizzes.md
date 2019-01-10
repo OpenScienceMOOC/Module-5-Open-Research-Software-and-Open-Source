@@ -27,12 +27,12 @@
 
 ---
 
-#### Open source isn’t licensed. True or false?
+#### Open source is licensed. True or false?
 
-- [ ] True
-- [X] False
+- [X] True
+- [ ] False
 
-**Answer:** False. Open source licenses are essentially terms of use and not items to be purchased, as can be the case for proprietary software. There are a variety of open source licence models, where each licence model has specific terms for the use and modification of code.  
+**Answer:** True. Open source licenses are essentially terms of use and not items to be purchased, as can be the case for proprietary software. There are a variety of open source licence models, where each licence model has specific terms for the use and modification of code.  
 
 An open source vendor can charge you for a software licence and still be open source. There is not necessarily a direct relationship between a type of license and what you have to pay to obtain it. The ‘free’ part means that you have the freedom to access the source code and change it yourself providing you abide by the terms of the license.
 
@@ -56,10 +56,69 @@ An open source vendor can charge you for a software licence and still be open so
 
 ---
 
+#### Who founded the Free Software Foundation?
 
-## ... and now for something completely different
+- [ ] Lawrence Lessig
+- [X] Richard Stallman
+- [ ] Bill Gates
+- [ ] Linus Torvalds
 
-!(https://ichef.bbci.co.uk/images/ic/640x360/p01gk35d.jpg)
+**Answer:** The Free Software Foundation (FSF) was founded by **Richard Stallman** on 4 October 1985 to support the free software movement, which promotes the universal freedom to study, distribute, create, and modify computer software, with the organization's preference for software being distributed under copyleft ("share alike") terms, such as with its own GNU General Public License. *Source:* [Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+---
+
+#### Which of the following is a free software license?
+
+- [X] GPL
+- [ ] OSD
+- [ ] OSL
+- [ ] GPS
+
+**Answer:** The GNU General Public License (GNU GPL or GPL) is a widely used free software license, which guarantees end users the freedom to run, study, share and modify the software. *Source:* [Wikipedia](https://en.wikipedia.org/wiki/GNU_General_Public_Licensen)
+
+---
+
+#### This type of software is distributed with a single restriction: any redistributed version of the software must be distributed with the original terms of free use, modification, and distribution. What is it?
+
+- [ ] libre software
+- [ ] shareware
+- [X] free software
+- [ ] adware
+
+**Answer:** Free software is software that can be freely used, modified, and redistributed with only one restriction: any redistributed version of the software must be distributed with the original terms of free use, modification, and distribution (known as copyleft). The definition of free software is stipulated as part of the GNU Project and by the Free Software Foundation. Free software may be packaged and distributed for a fee; the "free" refers to the ability to reuse it, modified or unmodified, as part of another software package. As part of the ability to modify, users of free software may also have access to and study the source code.
+
+The concept of free software is the brainchild of Richard Stallman, head of the GNU Project. The best known example of free software is Linux, an operating system that is proposed as an alternative to Windows or other proprietary operating systems. Debian is an example of a distributor of a Linux package.
+
+---
+
+#### What does forking entail?
+
+- [ ] Forking occurs when an open source program is further developed publically by the community.
+- [ ] Forking is the act of stabbing your overcooked chicken until it sticks to your eating utensil.
+- [ ] Forking is when a proprietary source hardware design is used as a basis to create something different.
+- [X] Forking is when open source software is developed into something different.
+
+**Answer:** Forking, also known as software forking, is the act of taking source code from open source software or program and further developing it into something different without changing the base offering. For example, Amazon's Fire OS is a forked version of Google's Android OS. Data center administrators may fork an open source software tool to tailor it to their particular requirements, without needing to share those changes back to the entire community.
+
+---
+
+#### OSI stands for?
+
+- [ ] Open Source Index
+- [ ] Open Source Image
+- [X] Open Source Initiative
+- [ ] Open Source Instant
+
+**Answer:** The **Open Source Initiative (OSI)** has been celebrating its 20th Anniversary in 2018. The “open source” label was created at a strategy session held on February 3rd, 1998 in Palo Alto, California. That same month, the OSI was founded. As a global non-profit, the OSI protects and promotes open source software, development and communities, championing software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement. *Source:* [opensource.org](https://opensource.org/)
+
+---
+
+
+### ... and now for something completely different
+
+
+![...and now for something completely different](https://ichef.bbci.co.uk/images/ic/640x360/p01gk35d.jpg)
+
 
 ---
 
