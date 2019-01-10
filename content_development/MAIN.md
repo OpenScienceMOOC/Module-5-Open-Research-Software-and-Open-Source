@@ -124,7 +124,7 @@ Now, this all might be a little complex to remember. However, it can be summaris
 
 ## An Open Source checklist
 
-There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/es/02opensciencebasics/03openresearchsoftwareandopensource#knowledge) provides a check-list to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
+There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/) provides a check-list to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
 
 - [ ] Is the software available to download and install?
 

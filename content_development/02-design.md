@@ -13,7 +13,7 @@
     - [Choose an open source license](https://choosealicense.com/).
     
   -   [The Future of Research in Free/Open Source Software Development](http://www.ics.uci.edu/~wscacchi/Papers/New/FoSER-Scacchi-2010.pdf) (Scacchi, 2010).
-  -   [The Scientific Method in Practice: Reproducibility in the Computational Sciences](http://datascienceassn.org/sites/default/files/The%2520Scientific%2520Method%2520in%2520Practice%2520-%2520Reproducibility%2520in%2520the%2520Computational%2520Sciences.pdf) (Stodden, 2010).
+  -   [The Scientific Method in Practice: Reproducibility in the Computational Sciences](http://datascienceassn.org/sites/default/files/The%20Scientific%20Method%20in%20Practice%20-%20Reproducibility%20in%20the%20Computational%20Sciences.pdf) (Stodden, 2010).
   -   [The case for open computer programs](https://www.nature.com/articles/nature10836) (Ince et al., 2012).
   -   [Code Sharing Is Associated with Research Impact in Image Processing](https://infoscience.epfl.ch/record/206184/files/Vandewalle12.pdf) (Vandewalle, 2012).
   -   [Current issues and research trends on open-source software communities](https://www.google.com/url?q=https://idus.us.es/xmlui/bitstream/handle/11441/32245/Current%2520issues%2520and%2520research%2520trends.pdf?sequence%3D1) (Martinez-Torres and Diaz-Fernandez, 2013).
