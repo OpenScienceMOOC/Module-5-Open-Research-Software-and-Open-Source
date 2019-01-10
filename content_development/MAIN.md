@@ -453,6 +453,7 @@ However, your Open Source journey does not stop here! This was just the beginnin
 - [Paola Masuzzo](https://twitter.com/pcmasuzzo), Open Source Batman, Italy.
 - [Ivo Grigorov](https://twitter.com/OAforClimate), Open Source Robin, Denmark.
 - [Rutger Vos](https://twitter.com/rvosa), Open Sourceror, Naturalis Biodiversity Center, the Netherlands.
+- [Julien Colomb](https://twitter.com/j_colomb), Open Ninja, Berlin.
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.
 
 **Know a way this content can be improved?**
