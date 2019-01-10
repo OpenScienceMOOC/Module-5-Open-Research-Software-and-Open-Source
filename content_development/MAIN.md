@@ -124,7 +124,7 @@ Now, this all might be a little complex to remember. However, it can be summaris
 
 ## An Open Source checklist
 
-There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/es/02opensciencebasics/03openresearchsoftwareandopensource#knowledge) provides a check-list to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
+There are a number of existing platforms and tools that support OSS and collaboration. The [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/) provides a check-list to use for evaluating the 'openness' of existing research software, based on the Open Source Definition above:
 
 - [ ] Is the software available to download and install?
 
@@ -453,6 +453,7 @@ However, your Open Source journey does not stop here! This was just the beginnin
 - [Paola Masuzzo](https://twitter.com/pcmasuzzo), Open Source Batman, Italy.
 - [Ivo Grigorov](https://twitter.com/OAforClimate), Open Source Robin, Denmark.
 - [Rutger Vos](https://twitter.com/rvosa), Open Sourceror, Naturalis Biodiversity Center, the Netherlands.
+- [Julien Colomb](https://twitter.com/j_colomb), Open Ninja, Berlin.
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.
 
 **Know a way this content can be improved?**

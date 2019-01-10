@@ -77,7 +77,7 @@
       - [JOSS](http://joss.theoj.org)
       - [Free Software Foundation](https://www.fsf.org/)
       - [Open Source Initiative](https://opensource.org/)
-      - [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/)
+      - [Digital Freedom Foundation](https://en.wikipedia.org/wiki/Digital_Freedom_Foundation) (note that their website seems to be broken, Jan 2019)
       - [Ada Initiative](https://adainitiative.org/)
       
  - Mailing lists:

@@ -1,3 +1,5 @@
+All hyperlinks work?: [![Build Status](https://travis-ci.org/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source.svg?branch=master)](https://travis-ci.org/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source)
+
 # Module 5: Open Research Software and Open Source
 
 ## Table of Contents
@@ -15,7 +17,7 @@ Welcome to Module 5 of the Open Science MOOC! Here you can find important inform
 
 **STATUS**: LIVE
 
-This module us now LIVE on [Eliademy](https://eliademy.com/app/a/courses/02d7338a7e).
+This module us now LIVE on [Eliademy](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html).
 
 The second release for this module is now also ready, and has been published on Zenodo: 
 

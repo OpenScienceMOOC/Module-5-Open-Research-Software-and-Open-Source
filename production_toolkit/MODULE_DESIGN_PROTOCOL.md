@@ -8,8 +8,8 @@ This is a collaborative, team-based effort. Each module has its own repo on GitH
 2. [Open Collaboration](https://github.com/OpenScienceMOOC/Module-2-Collaborative-Platforms)
 3. [Reproducible Research and Data Analysis](https://github.com/OpenScienceMOOC/Module-3-Reproducible-Research-and-Data-Analysis)
 4. [Open Research Data](https://github.com/OpenScienceMOOC/Module-4-Open-Research-Data)
-5. [Open Research Software and Open Source](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Ope)
-6. [Open Access to Research Papers](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Resea)
+5. [Open Research Software and Open Source](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/)
+6. [Open Access to Research Papers](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers)
 7. [Open Evaluation](https://github.com/OpenScienceMOOC/Module-7-Open-Evaluation)
 8. [Public Engagement with Science](https://github.com/OpenScienceMOOC/Module-8-Public-Engagement-with-Science)
 9. [Open Educational Resources](https://github.com/OpenScienceMOOC/Module-9-Open-Educational-Resources)
@@ -27,14 +27,14 @@ This is a collaborative, team-based effort. Each module has its own repo on GitH
    2. Expectations of what each will contribute and receive from taking part.
    3. An explanation of time scales and commitments.
    4. An exploration of the MOOC module, the design and development protocol, the knowledge that will be included, and what the challenges to be addressed are.
-   5. The core learning outcomes and mission objectives for the module. These are all defined in the [Proposed Modules](https://opensciencemooc.eu/proposed-modules/) section of the companion website for the MOOC.
+   5. The core learning outcomes and mission objectives for the module. These are all defined in the [Modules](https://opensciencemooc.eu/modules/) section of the companion website for the MOOC.
 3. Setting a timeline and action plan for development.
 4. Acquiring team information. Each team member will be required to provide:
    1. A profile picture.
    2. A short bio.
    3. Twitter handle (where appropriate).
    4. Personal website (where appropriate).
-5. Publicising the team to the MOOC companion website, [here](https://opensciencemooc.eu/about-us/production-team/).
+5. Publicising the team to the MOOC companion website, [here](https://opensciencemooc.eu/people/#production).
 
 ## The development process
 
