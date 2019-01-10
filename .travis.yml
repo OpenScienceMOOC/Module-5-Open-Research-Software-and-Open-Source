@@ -2,8 +2,11 @@ sudo: required
 
 services:
   - docker
+  
+before_script:
+  - gem install danger  
 
 script:
   # Link Checks
   - docker run -ti --rm -v $PWD:/mnt:ro dkhamsing/awesome_bot --allow-dupe --allow-redirect --skip-save-results `find . -name "*.md"`
-
+  - danger
