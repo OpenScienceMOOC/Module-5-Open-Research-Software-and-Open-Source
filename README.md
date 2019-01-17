@@ -33,7 +33,7 @@ Tennant, J. et al. (23/09/2018) Open Science MOOC: Module 5, Open Research Softw
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit) - This is where the basic protocols and outline for the module development are kept. It includes a tracking scheme as the content development progresses.
 
-Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/contact/). To join the development team for the Open Science MOOC, anyone can openly add themselves [here](https://open-science-mooc-invite.herokuapp.com/).
+Don't forget to join us in our open [Slack group](https://osmooc.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/contact/). To join the development team for the Open Science MOOC, anyone can openly add themselves [here](https://open-science-mooc-invite.herokuapp.com/).
 
 
 ## Rationale <a name="Rationale"></a>
