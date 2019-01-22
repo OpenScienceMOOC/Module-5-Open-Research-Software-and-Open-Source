@@ -17,7 +17,7 @@ Welcome to Module 5 of the Open Science MOOC! Here you can find important inform
 
 **STATUS**: LIVE
 
-This module us now LIVE on [Eliademy](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html).
+This module us now LIVE on [Eliademy](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html). Check out the latest video online here: https://www.youtube.com/watch?v=1fwGliIyAZs
 
 The second release for this module is now also ready, and has been published on Zenodo: 
 
