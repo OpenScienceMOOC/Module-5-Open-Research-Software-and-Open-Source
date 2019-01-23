@@ -2,15 +2,11 @@
 
 These are the main content development files for this MOOC module.
 
-**STATUS**: 
-
-**LIVE! This module is now online and ready to go via [Eliademy](https://eliademy.com/app/a/courses/02d7338a7e).**
+**STATUS**: **LIVE! This module is now online and ready to go via [Eliademy](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html).**
 
 The second release for this module is now also ready, and has been published on Zenodo: 
 
-Version 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
-
-Version 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288) and an introductory video has also been [published](https://www.youtube.com/watch?v=1fwGliIyAZs).
 
 To cite this work, please use the following reference:
 
@@ -18,7 +14,7 @@ Tennant, J. et al. (23/09/2018) Open Science MOOC: Module 5, Open Research Softw
 
 Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md) before making changes here.
 
-Anyone can join our [open Slack channel](https://openmooc-ers-slackin.herokuapp.com/) and [team on GitHub](https://open-science-mooc-invite.herokuapp.com/) for the whole MOOC project.
+Anyone can join our [open Slack channel](https://osmooc.herokuapp.com/) and [open team on GitHub](https://open-science-mooc-invite.herokuapp.com/) for the whole MOOC project.
 
 ## Core content
 
@@ -34,7 +30,7 @@ For notedown:
 
 ### In markdown format
 
-- [**MAIN CONTENT**](MAIN.md) - The main content for this Module. 
+- [**MAIN CONTENT**](MAIN.md) - The main content for this Module. ([YouTube video](https://www.youtube.com/watch?v=BHrOEmKk5zM))
 - [**TASK 1**](Task_1.md) - How to set up your first repository on GitHub. ([YouTube video](https://www.youtube.com/watch?v=AnftV9HBPSc&t=4s))
 - [**TASK 2**](Task_2.md) - How to make your code citable using GitHub and Zenodo. ([YouTube video](https://www.youtube.com/watch?v=pjsbBQYOOaE&t=4s))
 - [**TASK 3**](Task_3.md) - How to integrate Git with RStudio. ([YouTube video](https://www.youtube.com/watch?v=Q-6jfjSAspA))
