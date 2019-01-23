@@ -31,7 +31,7 @@
 #### Tools
 
 -   [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) and the [Journal of Open Source Software](https://joss.theoj.org/).
--   [InsideDNA](https://insidedna.me/), [Galaxy](https://galaxyproject.org/) - Reproducible Research environments.
+-   [InsideDNA](https://insidedna.me/), [Galaxy](https://galaxyproject.org/) - Reproducible Research environments.
 -   [Google Compute Engine](https://cloud.google.com/compute/) (GCE), [Amazon Web Services](https://aws.amazon.com/) (AWS) - Cloud-based software environments.
 -   [Software Citation Tools](https://github.com/mozillascience/software-citation-tools), Mozilla Science Lab.
 -   [Open Science, Open Data, Open Source](https://pfern.github.io/OSODOS/gitbook/) (Fernandes and Vos, 2017).
@@ -45,7 +45,7 @@
 -   [Code Sharing Is Associated with Research Impact in Image Processing](https://infoscience.epfl.ch/record/206184/files/Vandewalle12.pdf) (Vandewalle, 2012).
 -   [Current issues and research trends on open-source software communities](https://www.google.com/url?q=https://idus.us.es/xmlui/bitstream/handle/11441/32245/Current%2520issues%2520and%2520research%2520trends.pdf?sequence%3D1) (Martinez-Torres and Diaz-Fernandez, 2013).
 -   [Ten simple rules for reproducible computational research](http://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1003285) (Sandve et al., 2013).
--   [Practices in source code sharing in astrophysics](https://arxiv.org/abs/1304.6780) (Shamir et al., 2013).
+-   [Practices in source code sharing in astrophysics](https://arxiv.org/abs/1304.6780) (Shamir et al., 2013).
 -   [A systematic literature review on the barriers faced by newcomers to open source software projects](http://igor.pro.br/publica/papers/IST_SysReview_PrePrint.pdf) (Steinmacher et al., 2014).
 -   [Knowledge sharing in open source software communities: motivations and management](https://pdfs.semanticscholar.org/f2a2/c5129cf5656af7acc7ffaf84c9c9bafe72c5.pdf) (Iskoujina and Roberts, 2015).
 -   [An open source pharma roadmap](http://journals.plos.org/plosmedicine/article?id%3D10.1371/journal.pmed.1002276) (Balasegaram et al., 2017).

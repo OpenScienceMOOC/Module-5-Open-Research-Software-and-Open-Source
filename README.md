@@ -1,5 +1,3 @@
-All hyperlinks work?: [![Build Status](https://travis-ci.org/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source.svg?branch=master)](https://travis-ci.org/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source)
-
 # Module 5: Open Research Software and Open Source
 
 ## Table of Contents
@@ -17,13 +15,9 @@ Welcome to Module 5 of the Open Science MOOC! Here you can find important inform
 
 **STATUS**: LIVE
 
-This module us now LIVE on [Eliademy](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html). Check out the latest video online here: https://www.youtube.com/watch?v=1fwGliIyAZs
+This module us now LIVE on [Eliademy](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html). Check out the latest [video online here](https://www.youtube.com/watch?v=1fwGliIyAZs).
 
-The second release for this module is now also ready, and has been published on Zenodo: 
-
-Ver. 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325081.svg)](https://doi.org/10.5281/zenodo.1325081)
-
-Ver. 2: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
+The second release for this module is now also ready, and has been published on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
 
 To cite this work, please use the following:
 
@@ -59,6 +53,7 @@ Software and technology underpin modern science. There is an increasing demand f
 - [Paola Masuzzo](https://twitter.com/pcmasuzzo), Open Source Batman, Italy.
 - [Ivo Grigorov](https://twitter.com/OAforClimate), Open Source Robin, Denmark.
 - [Jon Tennant](https://twitter.com/protohedgehog), Rogue scientist, World.
+- [Julien Colomb](https://twitter.com/j_colomb), Open Science Ninja, Berlin, Germany
 
 
 ## Key documents <a name="Key_documents"></a>
@@ -79,3 +74,5 @@ MOOC content license: [![CC0 Public Domain Dedication](https://img.shields.io/ba
 
 ### Code and software   
 Software associated with the MOOCs, or any code snippets contained in the MOOCs, carry the following default license: [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT). If needed a different [OSI approved software license](https://opensource.org/licenses) may be chosen.
+
+All hyperlinks work?: [![Build Status](https://travis-ci.org/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source.svg?branch=master)](https://travis-ci.org/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source)
