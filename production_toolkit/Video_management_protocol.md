@@ -1,12 +1,7 @@
 Video management protocol
 =========================
 
-Videos can be powerful tools for communication in education. They can
-range from lecture formats, to more informal chats and live
-demonstrations. Videos are designed to be engaging and deliver content
-in a more digestible way to help your learners achieve their objectives.
-They can also be used to help convey complex topics in a more insightful
-manner.
+Videos can be powerful tools for communication in education. They can range from lecture formats, to more informal chats and live demonstrations. Videos are designed to be engaging and deliver content in a more digestible way to help your learners achieve their objectives. They can also be used to help convey complex topics in a more insightful manner.
 
 Preparation
 -----------
@@ -85,16 +80,14 @@ that even then there might be some restrictions that apply:
 If you would like to use your own content, please add a simple statement
 in the readme file (or a separate file) for each project repo stating:
 
-*I/we grant the Open Science MOOC the right to re-use the content that
-I/we provide for the project. Specifically, I/we give permission to:*
+I/we grant the Open Science MOOC the right to re-use the content that
+I/we provide for the project. Specifically, I/we give permission to:
 
--   *Use the material for educational purposes for the project*
+-   Use the material for educational purposes for the project
 
--   *Publish the educational videos to the MOOC platform, and share any
-    relevant ones on social media*
+-   Publish the educational videos to the MOOC platform, and share any relevant ones on social media
 
--   *Release the content under a Creative Commons CC BY 4.0
-    International license*
+-   Release the content under a Creative Commons CC BY 4.0 International license
 
 Tips for presenters
 -------------------

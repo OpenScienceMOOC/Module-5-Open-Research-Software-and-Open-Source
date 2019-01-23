@@ -1,10 +1,11 @@
 # Production files
 
-This repo is aimed to provide the production files for content development and management for each MOOC module. Each MOOC repo has its own copy of these files, which can be customised for each module as needed.
+This folder is aimed to provide the production files for content development and management for each MOOC module. Each MOOC repo has its own copy of these files, which can be customised for each module as needed.
 
 Please see the [contributing guidelines](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md) for how to use these files.
 
 ## Table of contents
+
 - [MOOC planning template](MOOC_planning_template.md)
 - [Module design protocol](MODULE_DESIGN_PROTOCOL.md)
 - [Writing a script](Writing_a_script.md)  
