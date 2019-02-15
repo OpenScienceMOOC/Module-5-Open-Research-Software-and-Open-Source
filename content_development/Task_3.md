@@ -316,5 +316,6 @@ Time to take your new GitHub skills for a test-run! All content development prim
 * Hande Sodacı, Turkey
 * Luke W. Johnston, Aarhus University, Denmark
 * Philippe Joly, WZB and HU-Berlin
+* Paul Griffiths, NCAS and U. Cambridge
 
 [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
