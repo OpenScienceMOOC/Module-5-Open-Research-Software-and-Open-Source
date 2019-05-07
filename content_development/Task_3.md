@@ -227,7 +227,7 @@ Select the `README` file in the Git window, which should show up automatically i
 
 Here, you have a chance to review your changes, and write a nice commit message. Type in something brief, but informative about the changes that you have made in this version or snapshot of your work. You want this to be enough information so that if you or someone else looks back on it, you'll know why you made this commit and the changes associated with it. These are like safety nets for your project in case you need to fall back for some reason.
 
-> **Pro-tip**: Here, you will see a list of all the changes you have made since your last commit. Older removed lines are in red, and newly added lines are in green. Double check these to make sure that the edits you have made are the ones you intended to make. This is really helpful for spotting typos, stray edits, and any other little mistakes you might have accidentially introduced. Safety first.
+> **Pro-tip**: Here, you will see a list of all the changes you have made since your last commit. Older removed lines are in red, and newly added lines are in green. Double check these to make sure that the edits you have made are the ones you intended to make. This is really helpful for spotting typos, stray edits, and any other little mistakes you might have accidentally introduced. Safety first.
 
 **Note** If you are colour-blind and can't see which lines have been added or removed, you can use the line numbers in the two columns on the left of the window as a guide. Here, the number in the first column identifies the older version, and the number in the second column identifies the new version.
 
@@ -254,7 +254,7 @@ Close that window down, and the next one. Go to your project on GitHub, refresh,
 
 Alright, so you just pushed some content to your first repo, awesome! Now let's put it into practice for a real project. Like, the one you are participating in right now. Let's try this out:
 
-1. Go to the repositors for this project on [GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source)
+1. Go to the repository for this project on [GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source)
 
 2. Fork the repository to your own GitHub account. The URL for this should be: `https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source.git`
 
@@ -320,5 +320,6 @@ Time to take your new GitHub skills for a test-run! All content development prim
 * Harin Lee, Goldsmiths, University of London
 * Luis Camacho, Catholic University, Perú
 * Tom Cridford, Imperial College London
+* Nithiya Streethran, University of Stavanger 
 
 [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
