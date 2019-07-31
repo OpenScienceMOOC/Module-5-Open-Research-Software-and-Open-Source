@@ -11,7 +11,7 @@ output:
  - [Introduction](#Introduction)
  - [What is Open Source Software](#What_OSS)
  - [Principles of Open Source Software](#Principles)
- - [The Open Source community, governance, and contributions](#OS_Community)
+ - [The Open Source community and its governance](#OS_Community)
  - [Existing platforms and tools for Open Source Software](#Platforms)
  - [Open Source Software used in research](#Research)
  - [Getting Started with OSS - FAQ](#FAQ)
@@ -88,7 +88,7 @@ As such, the main advantages for researchers (users) include **lower costs**, **
 
 Commonly used OSS include the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) internet browser and the [LibreOffice](https://www.libreoffice.org/) full office suite. LibreOffice is similar to the popular Microsoft Office, including a word processor, spreadsheet manager, and slide presentation software, but is completely free and Open Source.
 
-Some regard the OSS movement to represent a counter-movement to neoliberalism and privatisation, through defiance of regulations and norms in the construction and re-use of information, and a potential transformation of modern-day capitalism through making software abundantly available with minimal effort. See [The free/open source software movement: Resistance or change?](http://www.redalyc.org/html/742/74212712006/) by Panayiota Georgopoulou for more on this topic.
+Some regard the OSS movement to represent a counter-movement to neoliberalism and privatisation, through defiance of regulations and norms in the construction and re-use of information, and a potential transformation of modern-day capitalism through making software abundantly available with minimal effort. See [The free/open source software movement: Resistance or change?](https://doi.org/10.15448/1984-7289.2009.1.5569) by Panayiota Georgopoulou for more on this topic.
 
 <br/>
 
@@ -154,11 +154,11 @@ The open source software movement, which splintered off in 1998, focuses on the 
 
 Among multiple conclusions they arrive at, access to a program's source code is a shared one. Software thus may be considered _free_, _open source_, or both, according to agreed-on definitions by the Free Software Foundation ([FSF](https://www.gnu.org/philosophy/free-sw.html)) and the Open Source Initiative ([OSI](https://opensource.org/osd)). The FSF argues that free software is a subset of OSS, with only a [fraction](https://www.gnu.org/philosophy/free-open-overlap.html) being open source but nonfree.
 
-Thus, highlighting a particular license status of software in use—open source or free—is mostly about different philosophies, not about software not having the other status as well. Each movement has its share of problems explaining their term: _free_ means more than being gratis and _open source_ means more than having access to the source code. It should be mentioned as well that the exact differences between free and open source are probably unknown to many who probably stick to the term encountered first or more often without further differentiation. The FSF provides a great deal of resources for further reading on the topic of software freedom, if interested start e. g. [here](https://www.gnu.org/philosophy/open-source-misses-the-point.html).
+Thus, highlighting a particular license status of software in use—open source or free—is mostly about different philosophies, not about software not having the other status as well. Each movement has its share of problems explaining their term: _free_ means more than being gratis and _open source_ means more than having access to the source code. It should be mentioned as well that the exact differences between free and open source are probably unknown to many who probably stick to the term encountered first or more often without further differentiation. Bothe the [FSF](https://www.gnu.org/philosophy/open-source-misses-the-point.html) as the European counterpart [FSFE](https://fsfe.org/documents/whyfs.html) provide a great deal of resources for further reading on the topic of software freedom.
 
 Both movements had and still have a lasting impact on how software is developed and used. This is entirely evident in the domain of software professionals, but also partially evident for end-users: many operating systems are based on _GNU/Linux_, people use _Mozilla Firefox_ as their web browser, _LibreOffice_ as their office suite and the _VLC media player_ as their program for watching videos.
 
-Besides a software license being free or open source, it can also contain a _copyleft_ clause. This is about the question wether modified versions of the original program should be published under the same license as well. For someone who believes in the user's freedom, is it better to aim for most permissive licensing (such as releasing in the public domain) and thus allowing others to limit the users of their derived versions again? Or better make the own work more restrictive in the first place (choose a copyleft license), contrary to the higher goal of freedom, but more resistant in the long run? Quite imaginable, there are different opinions about this.
+Besides a software license being free or open source, it may also contain a _copyleft_ clause. Copyleft wants to turn copyright upside down by repurposing copyright law for knowledge sharing. It is a question of wether modified versions of the original program should be published under the same license as well. For someone who believes in the user's freedom, is it better to aim for most permissive licensing (such as releasing in the public domain) and thus allowing others to limit the users of their derived versions again? Or better make the own work more restrictive in the first place (choose a copyleft license), contrary to the higher goal of freedom, but more resistant in the long run? Restrictions such as a copyleft clause are called [permissible restrictions](https://freedomdefined.org/Permissible_restrictions). Quite imaginable, there are different opinions about them. More information on copyleft can be found on [copyleft.org](https://copyleft.org/).
 
 The aforementioned definitions have now become widely adopted, both by international governments, as well as some large organisations such as the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) and the [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home). Major organisations in the FLOSS space include the UK's [Software Sustainability Institute](https://www.software.ac.uk/), who produce valuable resources such as their recent [Software Deposit Guidance for Researchers](https://softwaresaved.github.io/software-deposit-guidance/).
 
@@ -323,7 +323,7 @@ There are two ways in which contributions to a project become licensed:
 1. *Explicitly*, whereby the individual contribution has a clearly indicated license independent of the main project; or
 2. *Implicitly*, whereby the contribution falls under the original licensing code of the main project.
 
-Thankfully, the process of selecting an Open Source license is relatively trivial, thanks to user-friendly tools such as [Choose A License](https://choosealicense.com/). Each of these licenses allows other users to use, copy, distribute, and build upon your work, often while ensuring that the creators are appropriately recognised for their work. Here, the key is selecting an appropriate license for your work, depending on what you want, or do not want, others to do with it.
+Thankfully, the process of selecting an Open Source license is relatively trivial, thanks to user-friendly tools such as [Choose A License](https://choosealicense.com/) or [Public License Selector](https://ufal.github.io/public-license-selector/). Each of these licenses allows other users to use, copy, distribute, and build upon your work, often while ensuring that the creators are appropriately recognised for their work. Here, the key is selecting an appropriate license for your work, depending on what you want, or do not want, others to do with it.
 
 <br/>
 
