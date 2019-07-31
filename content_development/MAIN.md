@@ -11,7 +11,7 @@ output:
  - [Introduction](#Introduction)
  - [What is Open Source Software](#What_OSS)
  - [Principles of Open Source Software](#Principles)
- - [The Open Source community, governance, and contributions](#OS_Community)
+ - [The Open Source community and its governance](#OS_Community)
  - [Existing platforms and tools for Open Source Software](#Platforms)
  - [Open Source Software used in research](#Research)
  - [Getting Started with OSS - FAQ](#FAQ)
@@ -88,7 +88,7 @@ As such, the main advantages for researchers (users) include **lower costs**, **
 
 Commonly used OSS include the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) internet browser and the [LibreOffice](https://www.libreoffice.org/) full office suite. LibreOffice is similar to the popular Microsoft Office, including a word processor, spreadsheet manager, and slide presentation software, but is completely free and Open Source.
 
-Some regard the OSS movement to represent a counter-movement to neoliberalism and privatisation, through defiance of regulations and norms in the construction and re-use of information, and a potential transformation of modern-day capitalism through making software abundantly available with minimal effort. See [The free/open source software movement: Resistance or change?](http://www.redalyc.org/html/742/74212712006/) by Panayiota Georgopoulou for more on this topic.
+Some regard the OSS movement to represent a counter-movement to neoliberalism and privatisation, through defiance of regulations and norms in the construction and re-use of information, and a potential transformation of modern-day capitalism through making software abundantly available with minimal effort. See [The free/open source software movement: Resistance or change?](https://doi.org/10.15448/1984-7289.2009.1.5569) by Panayiota Georgopoulou for more on this topic.
 
 <br/>
 
@@ -144,13 +144,17 @@ Check, check, check, done! Simples.
 
 ## The Open Source community and its governance <a name="OS_Community"></a>
 
-There are two main camps within the free software community: The **free software movement**, and the **OSS movement**. Both have differing ideologies based on user liberties and the practical applications of software. Often, the term 'FLOSS' is used to reconcile these two political camps, and means 'Free/Libre and Open Source Software'; Libre being French and Spanish for 'free' in the context of freedom.
+There are two main camps within the free/libre and open source software (FLOSS) community: The **free software movement**, and the **open source software movement** (OSS). Both have differing ideologies based on user liberties and the practical applications of software. The term 'FLOSS' is used as a overaching neutral term to refer to both; libre being French and Spanish for 'free' in the context of freedom.
 
-The core principle of re-use is what separates OSS from 'Free Software'. Free and Open Source Software (FOSS) is an inclusive term to describe software that can be classified as both free and Open Source. A good example of FOSS is the [Ubuntu Linux](https://www.ubuntu.com/) operation system.
+In a similar way that people active in the open science movement are heterogeneous in their assumptions and aims, different opinions exist in the FLOSS community as well. Recalling module 1, two of the schools of thought in open science were the _Pragmatic school_ and the _Democratic school_. While the former is driven by the assumption that research could be more efficient if scientists worked together, the latter wants to set straight an unequal distribution of knowledge. They probably both end up sharing their research, but each with different intentions.
 
-The big difference between free software and OSS is that the former must distribute updated versions under the same license as the original, whereas newer versions of OSS can be distributed under different licenses. FOSS combines the best of both worlds.
+This is roughly comparable to the OSS and the free software movement: The latter evolved around 1983 to protect what they call the four essential freedoms of a program's user. These include the freedom to run, copy, distribute, study, change and improve a program. Software that respects these freedoms with an appropriate license is considered 'free'. The four freedoms are seen as vital for a society as a whole in the sense that they only enable sharing, cooperation and ultimately freedom in general. In this sense the free software movement is a social movement that creates an ethical imperative.
 
-These definitions have now become widely adopted, both by international governments, as well as some large organisations such as the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) and the [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home). Major organisations in the FLOSS space include the UK's [Software Sustainability Institute](https://www.software.ac.uk/), who produce valuable resources such as their recent [Software Deposit Guidance for Researchers](https://softwaresaved.github.io/software-deposit-guidance/).
+The open source software movement, which splintered off in 1998, focuses on the practical advantages and does not campaign for principles. It is concerned with developing high-quality software, for which everyone's ability to obtain, modify and contribute back the source code is considered highly beneficial.
+
+Among multiple conclusions they arrive at, access to a program's source code is a shared one. Software thus may be considered _free_, _open source_, or both, according to agreed-on definitions by the Free Software Foundation ([FSF](https://www.gnu.org/philosophy/free-sw.html)) and the Open Source Initiative ([OSI](https://opensource.org/osd)). The FSF argues that free software is a subset of OSS, with only a [fraction](https://www.gnu.org/philosophy/free-open-overlap.html) being open source but nonfree.
+
+Thus, highlighting a particular license status of software in use—open source or free—is mostly about different philosophies, not about software not having the other status as well. Each movement has its share of problems explaining their term: _free_ means more than being gratis and _open source_ means more than having access to the source code. The [FSF](https://www.gnu.org/philosophy/open-source-misses-the-point.html) and the European counterpart [FSFE](https://fsfe.org/documents/whyfs.html) provide more information on this topic.
 
 ### For individual projects
 
@@ -313,7 +317,7 @@ There are two ways in which contributions to a project become licensed:
 1. *Explicitly*, whereby the individual contribution has a clearly indicated license independent of the main project; or
 2. *Implicitly*, whereby the contribution falls under the original licensing code of the main project.
 
-Thankfully, the process of selecting an Open Source license is relatively trivial, thanks to user-friendly tools such as [Choose A License](https://choosealicense.com/). Each of these licenses allows other users to use, copy, distribute, and build upon your work, often while ensuring that the creators are appropriately recognised for their work. Here, the key is selecting an appropriate license for your work, depending on what you want, or do not want, others to do with it.
+Thankfully, the process of selecting an Open Source license is relatively trivial, thanks to user-friendly tools such as [Choose A License](https://choosealicense.com/) or [Public License Selector](https://ufal.github.io/public-license-selector/). Each of these licenses allows other users to use, copy, distribute, and build upon your work, often while ensuring that the creators are appropriately recognised for their work. Here, the key is selecting an appropriate license for your work, depending on what you want, or do not want, others to do with it.
 
 <br/>
 

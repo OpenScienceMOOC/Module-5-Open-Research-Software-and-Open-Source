@@ -57,14 +57,13 @@
 
 ##### Posts
 
--   [A breakdown of FOSS \[Free and Open Source Software\] for students and researchers in academia](https://opensource.com/education/15/11/foss-academic-research), Lois Donnelly.
 -   [Publish your computer code: it is good enough](http://www.nature.com/news/2010/101013/full/467753a.html), Nick Barnes.
 -   [Making your code citable](https://guides.github.com/activities/citable-code/), GitHub Guides.
 -   [FLOSS and FOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html), Richard Stallman.
 
 #### Other
 
--   [The Sustainable Software Institute](https://www.software.ac.uk/).
+-   [The Software Sustainability Institute](https://www.software.ac.uk/) and its [Software Deposit Guidance for Researchers](https://softwaresaved.github.io/software-deposit-guidance/).
 -   [The Science Code Manifesto](http://sciencecodemanifesto.org/).
 -   [Software Carpentry](https://software-carpentry.org/).
 -   Github's [Open Source Guide](https://opensource.guide/).
