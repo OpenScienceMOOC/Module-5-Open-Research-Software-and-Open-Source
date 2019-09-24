@@ -250,6 +250,7 @@ If that's enough for you for now great! If not for most pieces of proprietary so
 | STATA/SPSS | R |
 | MS Office | LibreOffice |
 | Mathematica | JupyterLab |
+| Max/MSP | PureData |
 | Test out your new [Pull Request -PR-](https://help.github.com/articles/about-pull-requests/) Skills ... | ... by adding your own example [here](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.md) |
 
 **Cool! But if I make the switch will I be stuck: taking ages to learn a new tool/ without support /with buggy software.**
