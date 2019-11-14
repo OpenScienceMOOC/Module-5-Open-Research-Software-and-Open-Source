@@ -64,6 +64,9 @@ Software and technology underpin modern science. There is an increasing demand f
 
 Please note that all the reading materials are Open Access. Please do not upload articles which are paywalled or which are not openly licensed.
 
+## Code of conduct
+
+All modules of the Open Science MOOC are released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## Licenses <a name="Licenses"></a>
 
