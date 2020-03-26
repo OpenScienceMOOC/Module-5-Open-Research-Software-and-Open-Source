@@ -31,7 +31,7 @@
 #### Tools
 
 -   [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) and the [Journal of Open Source Software](https://joss.theoj.org/).
--   [InsideDNA](https://insidedna.me/), [Galaxy](https://galaxyproject.org/) - Reproducible Research environments.
+-   [Galaxy](https://galaxyproject.org/) - Reproducible Research environments.
 -   [Google Compute Engine](https://cloud.google.com/compute/) (GCE), [Amazon Web Services](https://aws.amazon.com/) (AWS) - Cloud-based software environments.
 -   [Software Citation Tools](https://github.com/mozillascience/software-citation-tools), Mozilla Science Lab.
 -   [Open Science, Open Data, Open Source](https://pfern.github.io/OSODOS/gitbook/) (Fernandes and Vos, 2017).

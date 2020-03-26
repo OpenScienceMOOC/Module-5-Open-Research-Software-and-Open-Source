@@ -4,7 +4,6 @@
    
     - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) 
     - [Journal of Open Source Software](https://joss.theoj.org/)
-    - [InsideDNA](https://insidedna.me/) 
     - [Galaxy](https://galaxyproject.org/)
     - [Google Compute Engine](https://cloud.google.com/compute/) 
     - [Amazon Web Services](https://aws.amazon.com/)
