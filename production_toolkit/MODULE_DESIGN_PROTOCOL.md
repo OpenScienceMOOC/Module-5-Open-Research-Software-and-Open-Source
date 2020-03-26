@@ -27,7 +27,7 @@ This is a collaborative, team-based effort. Each module has its own repo on GitH
    2. Expectations of what each will contribute and receive from taking part.
    3. An explanation of time scales and commitments.
    4. An exploration of the MOOC module, the design and development protocol, the knowledge that will be included, and what the challenges to be addressed are.
-   5. The core learning outcomes and mission objectives for the module. These are all defined in the [Modules](https://opensciencemooc.eu/modules/) section of the companion website for the MOOC.
+   5. The core learning outcomes and mission objectives for the module. These are all defined in the [Modules](https://opensciencemooc.eu/) section of the companion website for the MOOC.
 3. Setting a timeline and action plan for development.
 4. Acquiring team information. Each team member will be required to provide:
    1. A profile picture.
