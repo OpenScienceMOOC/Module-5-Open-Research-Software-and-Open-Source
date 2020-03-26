@@ -7,7 +7,7 @@ These are the main contributing guidelines for the development of this MOOC, and
 * Invited experts as part of a core development team, led by one or two managers for each module.
 * Open participation, where anyone can contribute using the standard processes on GitHub.
 
-Feedback and contributions of any form are welcomed. Feel free also to [contact us](https://opensciencemooc.eu/contact/) to discuss anything further.
+Feedback and contributions of any form are welcomed. Feel free also to [contact us](https://opensciencemooc.eu/about/) to discuss anything further.
 
 At the present, development is in early stages, as this is an entirely crowd-sourced and volunteer-led project. We are focusing inititally on [Module 5, Open Research Software and Open Source](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) to run as a pilot for testing and receiving feedback. After this, the [protocol](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit) and content will be revised, and then applied accordingly to the development of the remaining modules.
 
