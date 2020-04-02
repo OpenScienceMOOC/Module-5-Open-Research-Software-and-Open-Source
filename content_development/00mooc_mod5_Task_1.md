@@ -1,7 +1,7 @@
 ---
+title: "OSMOOC 5.task-1"
 output:
-  html_document: default
-  pdf_document: default
+  html_fragment
 ---
 
 # Task 1: How to set up a repository on GitHub

@@ -80,5 +80,4 @@
       - [Digital Freedom Foundation](https://en.wikipedia.org/wiki/Digital_Freedom_Foundation) (note that their website seems to be broken, Jan 2019)
       - [Ada Initiative](https://adainitiative.org/)
       
- - Mailing lists:
-      - [Open science](https://lists.okfn.org/mailman/listinfo/open-science)
+ 

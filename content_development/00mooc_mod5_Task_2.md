@@ -1,7 +1,7 @@
 ---
+title: "OSMOOC 5.task-2"
 output:
-  html_document: default
-  pdf_document: default
+  html_fragment
 ---
 
 # Task 2: How to make your code citable using GitHub and Zenodo

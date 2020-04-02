@@ -1,21 +1,8 @@
 # Module 5 content development
 
-These are the main content development files for this MOOC module.
+Deprecated
 
-**STATUS**: **LIVE! This module is now online and ready to go via [Eliademy](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html).**
-
-The third release for this module is now also ready, and has been published on Zenodo: 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288) and an introductory video has also been [published](https://www.youtube.com/watch?v=1fwGliIyAZs).
-
-To cite this work, please use the following reference:
-
-Jon Tennant; Simon Worthington; Tania Allard; Philipp Zumstein; Daniel S. Katz; Alexander Morley; Stephan Druskat; Julien Colomb; Arfon Smith; Ina Smith; Tobias Steiner; Rutger Vos; Konrad Förstner; Heidi Seibold; Alessandro Sarretta; Abigail Cabunoc Mayes. (2018, December 4). OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source: Third release (Version 3.0.0). Zenodo. [http://doi.org/10.5281/zenodo.1937708](http://doi.org/10.5281/zenodo.1937708).
-
-Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/CONTRIBUTING.md) before making changes here.
-
-Anyone can join our [open Slack channel](https://osmooc.herokuapp.com/) and [open team on GitHub](https://open-science-mooc-invite.herokuapp.com/) for the whole MOOC project.
-
+<!---
 ## Core content
 
 These are the draft content files. The content is fully accessible, and can be used for learning purposes, either individually or as a group, and can be shared and re-used as you wish. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format. PDF and HTML versions are created using [pandoc](https://pandoc.org/demos.html) and the [markdown to PDF](https://atom.io/packages/markdown-pdf) package for [Atom](https://atom.io/).
@@ -72,3 +59,5 @@ Note: These are best viewed in Juypter for full functionality, as opposed to the
 - [Script template](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/production_toolkit/Script_template.md)
 - [Video management protocol](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/production_toolkit/Video_management_protocol.md)
 - [Writing a script](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/production_toolkit/Writing_a_script.md)
+
+--->

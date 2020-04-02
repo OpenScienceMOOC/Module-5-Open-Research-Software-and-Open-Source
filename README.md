@@ -13,9 +13,9 @@
 
 Welcome to Module 5 of the Open Science MOOC! Here you can find important information on the development of the module, including the latest updates to the content.
 
-**STATUS**: LIVE
+**STATUS**: ready to get LIVE
 
-This module us now LIVE on [Eliademy](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html). Check out the latest [video online here](https://www.youtube.com/watch?v=1fwGliIyAZs).
+ Check out the latest [video online here](https://www.youtube.com/watch?v=1fwGliIyAZs).
 
 The third release for this module is now also ready, and has been published on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1434288.svg)](https://doi.org/10.5281/zenodo.1434288)
 
@@ -25,7 +25,7 @@ Jon Tennant; Simon Worthington; Tania Allard; Philipp Zumstein; Daniel S. Katz; 
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/production_toolkit) - This is where the basic protocols and outline for the module development are kept. It includes a tracking scheme as the content development progresses.
 
-Don't forget to join us in our open [Slack group](https://osmooc.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/contact/). To join the development team for the Open Science MOOC, anyone can openly add themselves [here](https://open-science-mooc-invite.herokuapp.com/).
+Don't forget to join us in our open [Slack group](https://osmooc.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/). To join the development team for the Open Science MOOC, anyone can openly add themselves [here](https://open-science-mooc-invite.herokuapp.com/).
 
 
 ## Rationale <a name="Rationale"></a>
@@ -60,7 +60,7 @@ Software and technology underpin modern science. There is an increasing demand f
 - [Module design protocol](MODULE_DESIGN_PROTOCOL.md) - The procedure for content development.
 - [Code of conduct](CODE_OF_CONDUCT.md) - The code of conduct that we expect contributors to adhere to.
 - [Key elements](key_elements.md) - Important reading materials and tools.
-- [Reading material](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/Reading%20Material_Open%20Source%20and%20Open%20Research%20Software) - Specifically reports and peer reviewed papers.
+- [Reading material](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/tree/master/Reading_Material_OSS) - Specifically reports and peer reviewed papers.
 
 Please note that all the reading materials are Open Access. Please do not upload articles which are paywalled or which are not openly licensed.
 

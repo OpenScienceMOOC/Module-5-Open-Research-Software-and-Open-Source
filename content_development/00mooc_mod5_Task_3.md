@@ -1,7 +1,7 @@
 ---
+title: "OSMOOC 5.task-3"
 output:
-  html_document: default
-  pdf_document: default
+  html_fragment
 ---
 
 # Task 3: How to integrate Git with R Studio
